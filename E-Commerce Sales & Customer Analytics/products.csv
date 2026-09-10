@@ -1,0 +1,2001 @@
+product_id,product_name,category,sub_category,brand,price_inr,cost_price_inr,stock_quantity
+PROD10000,Essential Cycling,Sports & Fitness,Cycling,Decathlon,659.32,390.39,405
+PROD10001,Signature Haircare,Beauty & Personal Care,Haircare,Himalaya,254.14,150.59,86
+PROD10002,Compact Beverages,Grocery,Beverages,Nestle,98.95,66.64,423
+PROD10003,Signature Bedding,Home & Kitchen,Bedding,Philips,21092.67,13374.47,88
+PROD10004,Pro Fragrances,Beauty & Personal Care,Fragrances,Lakme,187.34,114.98,470
+PROD10005,Compact Staples,Grocery,Staples,Britannia,52.67,29.24,25
+PROD10006,Essential Laptops,Electronics,Laptops,Sony,15348.91,9680.88,271
+PROD10007,Classic Mobiles,Electronics,Mobiles,Samsung,9314.75,5229.41,247
+PROD10008,Ultra Fitness Equipment,Sports & Fitness,Fitness Equipment,Adidas,12771.59,7658.6,394
+PROD10009,Advanced Furniture,Home & Kitchen,Furniture,Cello,1716.88,1224.83,46
+PROD10010,Advanced Beverages,Grocery,Beverages,Tata,769.44,604.2,490
+PROD10011,Advanced Men's Clothing,Fashion,Men's Clothing,Puma,952.25,637.86,281
+PROD10012,Essential Toys,Toys & Baby,Toys,Fisher-Price,722.14,542.25,249
+PROD10013,Ultra Laptops,Electronics,Laptops,OnePlus,2801.18,1548.19,368
+PROD10014,Signature Bedding,Home & Kitchen,Bedding,IKEA,315.65,245.64,54
+PROD10015,Everyday Fragrances,Beauty & Personal Care,Fragrances,Himalaya,1356.58,944.99,487
+PROD10016,Everyday Staples,Grocery,Staples,Britannia,48.76,32.43,252
+PROD10017,Classic Smart Watches,Electronics,Smart Watches,Apple,25946.31,20560.94,480
+PROD10018,Everyday Smart Watches,Electronics,Smart Watches,Dell,1027.68,747.38,190
+PROD10019,Deluxe Footwear,Fashion,Footwear,Levi's,513.32,374.47,360
+PROD10020,Everyday Haircare,Beauty & Personal Care,Haircare,Mamaearth,793.98,546.56,269
+PROD10021,Advanced Staples,Grocery,Staples,Amul,85.85,52.24,240
+PROD10022,Deluxe Sportswear,Sports & Fitness,Sportswear,Nivia,624.51,399.95,373
+PROD10023,Premium Cookware,Home & Kitchen,Cookware,Philips,327.22,183.69,301
+PROD10024,Essential Mobiles,Electronics,Mobiles,HP,11039.15,8153.03,144
+PROD10025,Classic Jewelry,Fashion,Jewelry,Puma,3323.11,2102.92,157
+PROD10026,Everyday Skincare,Beauty & Personal Care,Skincare,Himalaya,488.83,274.05,80
+PROD10027,Ultra Skincare,Beauty & Personal Care,Skincare,Mamaearth,974.58,681.16,436
+PROD10028,Deluxe Makeup,Beauty & Personal Care,Makeup,L'Oreal,2477.26,1940.45,46
+PROD10029,Advanced Fragrances,Beauty & Personal Care,Fragrances,Himalaya,2206.79,1445.54,468
+PROD10030,Everyday Bags,Fashion,Bags,Allen Solly,1139.93,896.13,282
+PROD10031,Compact Kids Clothing,Toys & Baby,Kids Clothing,Pampers,199.21,135.41,42
+PROD10032,Premium Cameras,Electronics,Cameras,OnePlus,47506.49,27758.66,112
+PROD10033,Compact Men's Clothing,Fashion,Men's Clothing,Puma,1169.84,721.92,91
+PROD10034,Deluxe Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,398.01,281.66,123
+PROD10035,Pro Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,737.46,575.09,171
+PROD10036,Deluxe Makeup,Beauty & Personal Care,Makeup,Nivea,728.76,517.62,0
+PROD10037,Essential Furniture,Home & Kitchen,Furniture,Cello,438.41,337.03,60
+PROD10038,Everyday Academic,Books & Stationery,Academic,HarperCollins,118.02,77.16,140
+PROD10039,Premium Non-Fiction,Books & Stationery,Non-Fiction,HarperCollins,107.03,63.93,150
+PROD10040,Deluxe Jewelry,Fashion,Jewelry,Puma,2367.48,1616.42,284
+PROD10041,Pro Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,2502.97,1626.22,73
+PROD10042,Essential Fragrances,Beauty & Personal Care,Fragrances,Nivea,725.06,426.95,294
+PROD10043,Compact Snacks,Grocery,Snacks,Tata,35.18,20.34,143
+PROD10044,Pro Mobiles,Electronics,Mobiles,Dell,3626.33,2578.22,181
+PROD10045,Deluxe Cameras,Electronics,Cameras,boAt,24752.36,18768.79,199
+PROD10046,Premium Bags,Fashion,Bags,Van Heusen,1555.91,1216.94,191
+PROD10047,Essential Home Decor,Home & Kitchen,Home Decor,Bajaj,10465.94,6045.09,130
+PROD10048,Premium Appliances,Home & Kitchen,Appliances,IKEA,6648.24,4063.62,163
+PROD10049,Everyday Women's Clothing,Fashion,Women's Clothing,Zara,389.93,246.85,160
+PROD10050,Classic Skincare,Beauty & Personal Care,Skincare,Nivea,437.06,296.92,240
+PROD10051,Classic Bags,Fashion,Bags,Van Heusen,6914.41,4942.83,252
+PROD10052,Signature Furniture,Home & Kitchen,Furniture,Cello,9452.47,6761.31,176
+PROD10053,Everyday Home Decor,Home & Kitchen,Home Decor,Philips,17304.33,11260.74,494
+PROD10054,Advanced Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,213.46,126.78,433
+PROD10055,Signature Jewelry,Fashion,Jewelry,Van Heusen,2420.15,1408.92,438
+PROD10056,Everyday Cycling,Sports & Fitness,Cycling,Cosco,2025.05,1244.33,152
+PROD10057,Pro Snacks,Grocery,Snacks,ITC,36.08,25.28,351
+PROD10058,Everyday Baby Care,Toys & Baby,Baby Care,Hot Wheels,1081.99,805.54,486
+PROD10059,Essential Fiction,Books & Stationery,Fiction,Penguin,1002.72,610.45,337
+PROD10060,Advanced Cookware,Home & Kitchen,Cookware,Philips,511.8,386.41,53
+PROD10061,Ultra Kids Clothing,Toys & Baby,Kids Clothing,Pampers,3805.54,2237.46,31
+PROD10062,Advanced Haircare,Beauty & Personal Care,Haircare,L'Oreal,153.84,120.43,229
+PROD10063,Deluxe Tablets,Electronics,Tablets,Xiaomi,22763.5,18043.26,456
+PROD10064,Deluxe Toys,Toys & Baby,Toys,Hot Wheels,1431.25,869.51,325
+PROD10065,Classic Furniture,Home & Kitchen,Furniture,Bajaj,436.0,330.27,251
+PROD10066,Essential Makeup,Beauty & Personal Care,Makeup,Himalaya,3082.6,1945.17,32
+PROD10067,Pro Furniture,Home & Kitchen,Furniture,Philips,24282.74,17013.99,229
+PROD10068,Signature Smart Watches,Electronics,Smart Watches,Dell,8090.03,6002.42,79
+PROD10069,Classic Footwear,Fashion,Footwear,Nike,598.39,441.66,146
+PROD10070,Advanced Bedding,Home & Kitchen,Bedding,Cello,2878.85,2214.81,216
+PROD10071,Essential Women's Clothing,Fashion,Women's Clothing,Adidas,2336.46,1544.79,41
+PROD10072,Essential Headphones,Electronics,Headphones,OnePlus,9967.41,7411.0,322
+PROD10073,Ultra Baby Care,Toys & Baby,Baby Care,Fisher-Price,1566.66,1176.51,302
+PROD10074,Ultra Beverages,Grocery,Beverages,Nestle,159.69,103.03,236
+PROD10075,Essential Packaged Food,Grocery,Packaged Food,Tata,879.24,637.54,124
+PROD10076,Classic Snacks,Grocery,Snacks,Amul,98.63,73.11,487
+PROD10077,Essential Baby Care,Toys & Baby,Baby Care,Pampers,4172.36,2958.41,91
+PROD10078,Ultra Headphones,Electronics,Headphones,OnePlus,1361.91,851.15,155
+PROD10079,Deluxe Sportswear,Sports & Fitness,Sportswear,Decathlon,632.54,494.54,410
+PROD10080,Ultra Men's Clothing,Fashion,Men's Clothing,Nike,365.58,221.88,121
+PROD10081,Ultra Skincare,Beauty & Personal Care,Skincare,Mamaearth,991.79,574.4,242
+PROD10082,Compact Makeup,Beauty & Personal Care,Makeup,Himalaya,194.95,123.42,477
+PROD10083,Premium Beverages,Grocery,Beverages,Amul,43.99,29.09,329
+PROD10084,Compact Baby Care,Toys & Baby,Baby Care,Chicco,2059.5,1301.36,254
+PROD10085,Premium Watches,Fashion,Watches,Levi's,2318.87,1360.53,455
+PROD10086,Ultra Footwear,Fashion,Footwear,Zara,2443.39,1361.2,51
+PROD10087,Advanced Home Decor,Home & Kitchen,Home Decor,Bajaj,278.17,171.8,294
+PROD10088,Classic Women's Clothing,Fashion,Women's Clothing,Zara,668.21,476.32,260
+PROD10089,Essential Footwear,Fashion,Footwear,Levi's,3998.88,2513.18,463
+PROD10090,Pro Smart Watches,Electronics,Smart Watches,Sony,2843.07,1908.28,126
+PROD10091,Classic Bedding,Home & Kitchen,Bedding,Bajaj,1149.46,857.09,409
+PROD10092,Premium Mobiles,Electronics,Mobiles,boAt,5093.49,3849.94,136
+PROD10093,Compact Cookware,Home & Kitchen,Cookware,Bajaj,1684.09,1168.49,426
+PROD10094,Everyday Laptops,Electronics,Laptops,Samsung,31094.97,19843.07,192
+PROD10095,Pro Footwear,Fashion,Footwear,Puma,4961.49,3386.02,240
+PROD10096,Advanced Sportswear,Sports & Fitness,Sportswear,Decathlon,12889.83,8553.14,369
+PROD10097,Everyday Tablets,Electronics,Tablets,Dell,14876.1,10701.05,433
+PROD10098,Classic Furniture,Home & Kitchen,Furniture,Cello,4387.11,3440.14,407
+PROD10099,Ultra Fragrances,Beauty & Personal Care,Fragrances,Himalaya,3335.33,2665.39,278
+PROD10100,Advanced Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,425.9,311.41,439
+PROD10101,Signature Women's Clothing,Fashion,Women's Clothing,Nike,419.65,284.98,131
+PROD10102,Advanced Fitness Equipment,Sports & Fitness,Fitness Equipment,Nike,3395.26,2044.2,405
+PROD10103,Deluxe Watches,Fashion,Watches,Puma,7175.55,4149.09,406
+PROD10104,Advanced Jewelry,Fashion,Jewelry,H&M,4677.09,3384.43,451
+PROD10105,Deluxe Office Supplies,Books & Stationery,Office Supplies,Classmate,268.9,153.34,127
+PROD10106,Compact Staples,Grocery,Staples,ITC,226.17,148.91,235
+PROD10107,Everyday Footwear,Fashion,Footwear,Adidas,971.44,752.99,302
+PROD10108,Pro Cameras,Electronics,Cameras,HP,2884.54,1863.33,241
+PROD10109,Everyday Office Supplies,Books & Stationery,Office Supplies,Classmate,203.48,160.29,71
+PROD10110,Ultra Laptops,Electronics,Laptops,OnePlus,1005.83,560.79,410
+PROD10111,Classic Headphones,Electronics,Headphones,Sony,47152.37,32826.77,392
+PROD10112,Signature Staples,Grocery,Staples,Britannia,1126.47,882.08,53
+PROD10113,Ultra Footwear,Fashion,Footwear,Allen Solly,1424.99,982.57,177
+PROD10114,Premium Staples,Grocery,Staples,ITC,160.71,126.24,263
+PROD10115,Classic Watches,Fashion,Watches,Zara,4837.08,3789.47,123
+PROD10116,Deluxe Cameras,Electronics,Cameras,boAt,2348.75,1712.94,10
+PROD10117,Pro Baby Care,Toys & Baby,Baby Care,Hot Wheels,240.47,166.35,310
+PROD10118,Signature Laptops,Electronics,Laptops,OnePlus,33909.34,25687.92,227
+PROD10119,Classic Haircare,Beauty & Personal Care,Haircare,Lakme,1157.93,744.08,400
+PROD10120,Pro Outdoor Gear,Sports & Fitness,Outdoor Gear,Cosco,1333.71,746.79,44
+PROD10121,Everyday Toys,Toys & Baby,Toys,Pampers,232.35,154.41,310
+PROD10122,Deluxe Watches,Fashion,Watches,Allen Solly,331.68,232.21,380
+PROD10123,Ultra Fragrances,Beauty & Personal Care,Fragrances,Himalaya,603.42,381.28,281
+PROD10124,Premium Office Supplies,Books & Stationery,Office Supplies,Classmate,456.39,354.64,40
+PROD10125,Premium Skincare,Beauty & Personal Care,Skincare,Himalaya,695.6,433.08,473
+PROD10126,Deluxe Women's Clothing,Fashion,Women's Clothing,Puma,5361.22,3300.18,477
+PROD10127,Advanced Home Decor,Home & Kitchen,Home Decor,Prestige,9039.01,5029.02,210
+PROD10128,Pro Mobiles,Electronics,Mobiles,Samsung,5698.47,3411.59,53
+PROD10129,Compact Cameras,Electronics,Cameras,HP,30122.95,17151.35,421
+PROD10130,Signature Academic,Books & Stationery,Academic,Camlin,151.58,101.01,158
+PROD10131,Pro Watches,Fashion,Watches,Nike,6065.57,4526.99,385
+PROD10132,Everyday Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,5677.81,3278.72,113
+PROD10133,Everyday Cycling,Sports & Fitness,Cycling,Decathlon,376.17,279.34,251
+PROD10134,Advanced Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,3217.04,2093.12,27
+PROD10135,Pro Smart Watches,Electronics,Smart Watches,OnePlus,57953.31,38987.97,157
+PROD10136,Compact Cameras,Electronics,Cameras,Apple,18770.58,14460.02,157
+PROD10137,Premium Appliances,Home & Kitchen,Appliances,Philips,4756.85,3747.48,339
+PROD10138,Classic Fiction,Books & Stationery,Fiction,Classmate,998.34,726.46,156
+PROD10139,Compact Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,1735.01,1171.86,333
+PROD10140,Premium Makeup,Beauty & Personal Care,Makeup,L'Oreal,174.52,121.21,378
+PROD10141,Pro Packaged Food,Grocery,Packaged Food,ITC,162.22,104.45,89
+PROD10142,Ultra Staples,Grocery,Staples,Nestle,145.05,99.04,410
+PROD10143,Compact Bedding,Home & Kitchen,Bedding,Milton,307.12,239.96,356
+PROD10144,Premium Footwear,Fashion,Footwear,H&M,4502.13,3062.11,467
+PROD10145,Pro Staples,Grocery,Staples,Tata,417.94,313.21,230
+PROD10146,Everyday Furniture,Home & Kitchen,Furniture,Prestige,14349.88,9069.55,444
+PROD10147,Compact Toys,Toys & Baby,Toys,Fisher-Price,542.93,407.68,466
+PROD10148,Premium Toys,Toys & Baby,Toys,Pampers,902.0,641.04,308
+PROD10149,Deluxe Office Supplies,Books & Stationery,Office Supplies,Camlin,336.33,264.55,493
+PROD10150,Everyday Jewelry,Fashion,Jewelry,Zara,3621.8,2024.55,105
+PROD10151,Compact Outdoor Gear,Sports & Fitness,Outdoor Gear,Cosco,7396.09,5741.59,179
+PROD10152,Premium Kids Clothing,Toys & Baby,Kids Clothing,Pampers,341.85,241.15,480
+PROD10153,Compact Academic,Books & Stationery,Academic,HarperCollins,825.09,618.62,189
+PROD10154,Classic Jewelry,Fashion,Jewelry,Allen Solly,713.87,524.61,46
+PROD10155,Deluxe Fiction,Books & Stationery,Fiction,Camlin,134.84,84.23,315
+PROD10156,Pro Baby Care,Toys & Baby,Baby Care,Fisher-Price,573.63,428.86,11
+PROD10157,Advanced Makeup,Beauty & Personal Care,Makeup,Himalaya,1914.65,1083.25,174
+PROD10158,Compact Appliances,Home & Kitchen,Appliances,Philips,1569.02,884.22,156
+PROD10159,Signature Jewelry,Fashion,Jewelry,H&M,2046.64,1209.09,329
+PROD10160,Advanced Appliances,Home & Kitchen,Appliances,Prestige,571.42,438.69,287
+PROD10161,Everyday Packaged Food,Grocery,Packaged Food,Tata,218.94,158.71,223
+PROD10162,Advanced Cameras,Electronics,Cameras,Xiaomi,1305.96,865.22,12
+PROD10163,Essential Appliances,Home & Kitchen,Appliances,Bajaj,18018.42,13427.53,272
+PROD10164,Signature Jewelry,Fashion,Jewelry,Van Heusen,2417.18,1504.09,97
+PROD10165,Premium Bags,Fashion,Bags,Levi's,1333.55,938.65,261
+PROD10166,Compact Smart Watches,Electronics,Smart Watches,Sony,11968.73,7990.2,199
+PROD10167,Premium Toys,Toys & Baby,Toys,Chicco,1034.96,773.95,255
+PROD10168,Everyday Toys,Toys & Baby,Toys,Chicco,171.45,101.01,171
+PROD10169,Everyday Bedding,Home & Kitchen,Bedding,Philips,266.84,156.58,175
+PROD10170,Classic Smart Watches,Electronics,Smart Watches,OnePlus,1937.03,1384.21,423
+PROD10171,Classic Men's Clothing,Fashion,Men's Clothing,H&M,430.66,328.13,370
+PROD10172,Advanced Women's Clothing,Fashion,Women's Clothing,Adidas,696.88,427.39,498
+PROD10173,Pro Furniture,Home & Kitchen,Furniture,Cello,15077.58,11634.42,375
+PROD10174,Ultra Women's Clothing,Fashion,Women's Clothing,Levi's,1638.33,957.66,91
+PROD10175,Premium Laptops,Electronics,Laptops,boAt,2910.02,2243.21,389
+PROD10176,Everyday Haircare,Beauty & Personal Care,Haircare,Nivea,267.12,166.69,107
+PROD10177,Pro Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,1595.02,1093.59,237
+PROD10178,Ultra Women's Clothing,Fashion,Women's Clothing,Levi's,618.57,442.31,60
+PROD10179,Advanced Office Supplies,Books & Stationery,Office Supplies,Penguin,985.74,589.75,366
+PROD10180,Advanced Tablets,Electronics,Tablets,boAt,59786.77,34589.95,438
+PROD10181,Advanced Furniture,Home & Kitchen,Furniture,Prestige,485.94,311.13,486
+PROD10182,Premium Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,641.96,407.51,217
+PROD10183,Everyday Bedding,Home & Kitchen,Bedding,Prestige,5547.25,3981.17,166
+PROD10184,Essential Tablets,Electronics,Tablets,boAt,23248.15,16854.6,453
+PROD10185,Advanced Jewelry,Fashion,Jewelry,Nike,3195.06,1800.51,287
+PROD10186,Ultra Bags,Fashion,Bags,Van Heusen,5819.6,3927.29,121
+PROD10187,Essential Mobiles,Electronics,Mobiles,Dell,25679.16,17724.93,203
+PROD10188,Essential Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,1064.45,781.03,331
+PROD10189,Ultra Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,4254.63,2813.36,298
+PROD10190,Deluxe Staples,Grocery,Staples,Nestle,315.94,247.86,403
+PROD10191,Advanced Bags,Fashion,Bags,Van Heusen,1586.39,1003.58,465
+PROD10192,Classic Haircare,Beauty & Personal Care,Haircare,Lakme,164.55,100.35,42
+PROD10193,Ultra Footwear,Fashion,Footwear,Van Heusen,1988.98,1206.14,5
+PROD10194,Classic Bedding,Home & Kitchen,Bedding,Cello,390.37,224.37,405
+PROD10195,Advanced Cameras,Electronics,Cameras,Apple,79214.82,51329.62,240
+PROD10196,Classic Home Decor,Home & Kitchen,Home Decor,Bajaj,4144.87,2974.82,19
+PROD10197,Everyday Cameras,Electronics,Cameras,Xiaomi,3520.36,2268.18,207
+PROD10198,Premium Laptops,Electronics,Laptops,Samsung,53255.88,30836.23,402
+PROD10199,Deluxe Headphones,Electronics,Headphones,OnePlus,25984.36,14722.09,188
+PROD10200,Pro Academic,Books & Stationery,Academic,HarperCollins,1379.18,943.54,365
+PROD10201,Advanced Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,4341.54,3190.84,74
+PROD10202,Everyday Home Decor,Home & Kitchen,Home Decor,IKEA,2105.95,1257.05,150
+PROD10203,Premium Home Decor,Home & Kitchen,Home Decor,Prestige,24336.45,19089.91,314
+PROD10204,Advanced Staples,Grocery,Staples,ITC,74.54,57.49,157
+PROD10205,Advanced Cycling,Sports & Fitness,Cycling,Adidas,9242.85,5899.16,70
+PROD10206,Advanced Kids Clothing,Toys & Baby,Kids Clothing,Chicco,2205.26,1671.24,404
+PROD10207,Signature Women's Clothing,Fashion,Women's Clothing,Allen Solly,1096.73,702.89,187
+PROD10208,Everyday Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,1080.83,735.79,274
+PROD10209,Premium Watches,Fashion,Watches,Puma,2479.81,1402.2,352
+PROD10210,Essential Kids Clothing,Toys & Baby,Kids Clothing,Pampers,1939.04,1493.73,164
+PROD10211,Classic Toys,Toys & Baby,Toys,Hot Wheels,152.7,116.7,360
+PROD10212,Advanced Footwear,Fashion,Footwear,Adidas,638.45,403.61,247
+PROD10213,Premium Appliances,Home & Kitchen,Appliances,Prestige,896.27,694.02,429
+PROD10214,Compact Packaged Food,Grocery,Packaged Food,Amul,108.02,79.66,349
+PROD10215,Pro Smart Watches,Electronics,Smart Watches,HP,9598.58,6258.21,1
+PROD10216,Compact Headphones,Electronics,Headphones,Apple,25418.69,15751.13,414
+PROD10217,Ultra Toys,Toys & Baby,Toys,Hot Wheels,1253.49,829.52,16
+PROD10218,Deluxe Cycling,Sports & Fitness,Cycling,Nike,12650.15,9375.06,472
+PROD10219,Signature Watches,Fashion,Watches,Nike,1148.7,765.15,25
+PROD10220,Everyday Jewelry,Fashion,Jewelry,Adidas,965.21,640.35,270
+PROD10221,Signature Skincare,Beauty & Personal Care,Skincare,Nivea,211.21,126.28,11
+PROD10222,Deluxe Bedding,Home & Kitchen,Bedding,Prestige,9666.1,7162.87,355
+PROD10223,Pro Furniture,Home & Kitchen,Furniture,IKEA,358.03,235.52,208
+PROD10224,Signature Jewelry,Fashion,Jewelry,Allen Solly,4224.72,3363.77,160
+PROD10225,Deluxe Haircare,Beauty & Personal Care,Haircare,L'Oreal,2032.47,1224.87,427
+PROD10226,Signature Cookware,Home & Kitchen,Cookware,Milton,3018.46,1885.1,247
+PROD10227,Premium Jewelry,Fashion,Jewelry,Levi's,766.07,435.89,427
+PROD10228,Premium Beverages,Grocery,Beverages,Britannia,794.91,575.55,318
+PROD10229,Deluxe Haircare,Beauty & Personal Care,Haircare,Lakme,2270.61,1466.13,79
+PROD10230,Essential Smart Watches,Electronics,Smart Watches,HP,73387.29,45803.33,176
+PROD10231,Everyday Fiction,Books & Stationery,Fiction,Penguin,476.78,377.15,63
+PROD10232,Everyday Bedding,Home & Kitchen,Bedding,IKEA,357.53,278.57,118
+PROD10233,Pro Cookware,Home & Kitchen,Cookware,Cello,15422.46,11697.38,217
+PROD10234,Essential Kids Clothing,Toys & Baby,Kids Clothing,Pampers,2248.97,1501.31,332
+PROD10235,Essential Staples,Grocery,Staples,ITC,36.7,23.36,142
+PROD10236,Signature Laptops,Electronics,Laptops,Samsung,2159.83,1338.45,338
+PROD10237,Pro Jewelry,Fashion,Jewelry,Van Heusen,2206.4,1719.5,397
+PROD10238,Compact Men's Clothing,Fashion,Men's Clothing,Adidas,874.16,548.17,299
+PROD10239,Premium Mobiles,Electronics,Mobiles,Apple,4518.75,3148.17,158
+PROD10240,Advanced Outdoor Gear,Sports & Fitness,Outdoor Gear,Adidas,891.39,659.93,13
+PROD10241,Ultra Makeup,Beauty & Personal Care,Makeup,Mamaearth,301.89,190.26,258
+PROD10242,Pro Cycling,Sports & Fitness,Cycling,Adidas,615.53,412.69,204
+PROD10243,Essential Watches,Fashion,Watches,Nike,1777.72,1290.4,24
+PROD10244,Classic Baby Care,Toys & Baby,Baby Care,Hot Wheels,409.66,247.2,366
+PROD10245,Signature Baby Care,Toys & Baby,Baby Care,Hot Wheels,1677.04,969.23,499
+PROD10246,Essential Haircare,Beauty & Personal Care,Haircare,L'Oreal,2241.66,1514.74,387
+PROD10247,Premium Furniture,Home & Kitchen,Furniture,Philips,13136.45,8621.75,45
+PROD10248,Ultra Watches,Fashion,Watches,Adidas,4936.41,3710.47,248
+PROD10249,Classic Appliances,Home & Kitchen,Appliances,Philips,611.84,426.19,459
+PROD10250,Premium Fiction,Books & Stationery,Fiction,HarperCollins,532.28,332.53,352
+PROD10251,Everyday Headphones,Electronics,Headphones,boAt,2557.7,1867.51,362
+PROD10252,Compact Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,342.67,268.23,301
+PROD10253,Deluxe Haircare,Beauty & Personal Care,Haircare,Himalaya,1424.2,968.36,425
+PROD10254,Essential Appliances,Home & Kitchen,Appliances,Philips,847.45,521.92,169
+PROD10255,Premium Footwear,Fashion,Footwear,Nike,7622.13,5034.26,436
+PROD10256,Everyday Watches,Fashion,Watches,Van Heusen,5761.39,3399.28,199
+PROD10257,Classic Cookware,Home & Kitchen,Cookware,Bajaj,447.26,291.89,138
+PROD10258,Pro Cameras,Electronics,Cameras,HP,1721.25,962.93,310
+PROD10259,Classic Tablets,Electronics,Tablets,HP,1437.09,1097.56,382
+PROD10260,Compact Tablets,Electronics,Tablets,Sony,1097.67,875.68,28
+PROD10261,Premium Fragrances,Beauty & Personal Care,Fragrances,Himalaya,2044.01,1384.99,88
+PROD10262,Classic Skincare,Beauty & Personal Care,Skincare,Lakme,226.13,151.15,301
+PROD10263,Premium Cookware,Home & Kitchen,Cookware,IKEA,2303.1,1530.72,451
+PROD10264,Advanced Cycling,Sports & Fitness,Cycling,Nivia,5373.57,3283.37,356
+PROD10265,Advanced Skincare,Beauty & Personal Care,Skincare,Nivea,746.4,522.09,208
+PROD10266,Deluxe Baby Care,Toys & Baby,Baby Care,Chicco,1102.89,769.02,459
+PROD10267,Advanced Men's Clothing,Fashion,Men's Clothing,H&M,1815.93,1207.64,433
+PROD10268,Signature Headphones,Electronics,Headphones,Xiaomi,70231.02,41305.24,135
+PROD10269,Advanced Appliances,Home & Kitchen,Appliances,IKEA,327.08,230.53,104
+PROD10270,Compact Baby Care,Toys & Baby,Baby Care,Hot Wheels,251.07,143.73,360
+PROD10271,Compact Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,7113.04,4367.65,42
+PROD10272,Signature Tablets,Electronics,Tablets,Sony,71099.31,46770.23,127
+PROD10273,Pro Jewelry,Fashion,Jewelry,Allen Solly,3084.2,2011.32,455
+PROD10274,Compact Beverages,Grocery,Beverages,Britannia,64.74,38.28,482
+PROD10275,Compact Cookware,Home & Kitchen,Cookware,Prestige,2784.49,1538.69,90
+PROD10276,Advanced Cookware,Home & Kitchen,Cookware,Cello,729.95,469.45,146
+PROD10277,Compact Mobiles,Electronics,Mobiles,Apple,26893.78,16156.35,291
+PROD10278,Pro Smart Watches,Electronics,Smart Watches,Sony,12616.92,6974.62,88
+PROD10279,Signature Fitness Equipment,Sports & Fitness,Fitness Equipment,Cosco,2014.86,1511.87,217
+PROD10280,Classic Mobiles,Electronics,Mobiles,Sony,5857.48,4657.41,230
+PROD10281,Deluxe Sportswear,Sports & Fitness,Sportswear,Decathlon,408.87,303.27,467
+PROD10282,Advanced Office Supplies,Books & Stationery,Office Supplies,Camlin,151.23,114.63,289
+PROD10283,Ultra Outdoor Gear,Sports & Fitness,Outdoor Gear,Nike,4472.6,2981.95,434
+PROD10284,Premium Appliances,Home & Kitchen,Appliances,Prestige,792.64,457.38,3
+PROD10285,Essential Bags,Fashion,Bags,Zara,5652.45,4031.52,331
+PROD10286,Classic Non-Fiction,Books & Stationery,Non-Fiction,Penguin,723.96,413.17,490
+PROD10287,Deluxe Mobiles,Electronics,Mobiles,Samsung,1959.88,1526.64,420
+PROD10288,Premium Laptops,Electronics,Laptops,Samsung,25224.99,18825.6,65
+PROD10289,Compact Tablets,Electronics,Tablets,Dell,2211.49,1429.45,86
+PROD10290,Essential Snacks,Grocery,Snacks,Nestle,219.53,141.22,482
+PROD10291,Advanced Headphones,Electronics,Headphones,Dell,30473.82,17070.61,405
+PROD10292,Signature Jewelry,Fashion,Jewelry,H&M,4626.78,2676.56,323
+PROD10293,Advanced Packaged Food,Grocery,Packaged Food,Amul,391.84,281.7,147
+PROD10294,Compact Cameras,Electronics,Cameras,Samsung,2685.92,1940.52,452
+PROD10295,Classic Sportswear,Sports & Fitness,Sportswear,Nivia,613.14,451.67,141
+PROD10296,Deluxe Kids Clothing,Toys & Baby,Kids Clothing,Pampers,356.7,223.43,128
+PROD10297,Essential Jewelry,Fashion,Jewelry,Nike,5161.04,3559.64,223
+PROD10298,Deluxe Watches,Fashion,Watches,Adidas,519.52,386.87,233
+PROD10299,Everyday Academic,Books & Stationery,Academic,Camlin,626.05,428.19,367
+PROD10300,Pro Bags,Fashion,Bags,Adidas,6206.95,3910.16,246
+PROD10301,Classic Tablets,Electronics,Tablets,Samsung,12046.12,7023.37,379
+PROD10302,Classic Bedding,Home & Kitchen,Bedding,Cello,14304.83,8256.97,167
+PROD10303,Compact Headphones,Electronics,Headphones,Sony,2145.17,1457.73,70
+PROD10304,Pro Smart Watches,Electronics,Smart Watches,OnePlus,8204.83,5230.52,300
+PROD10305,Premium Cameras,Electronics,Cameras,Xiaomi,4268.97,2768.63,466
+PROD10306,Advanced Smart Watches,Electronics,Smart Watches,Xiaomi,893.74,571.57,19
+PROD10307,Everyday Cookware,Home & Kitchen,Cookware,Prestige,5514.36,4099.17,32
+PROD10308,Premium Snacks,Grocery,Snacks,Amul,36.27,28.06,322
+PROD10309,Pro Snacks,Grocery,Snacks,ITC,570.38,440.24,23
+PROD10310,Compact Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,401.96,301.45,214
+PROD10311,Classic Cookware,Home & Kitchen,Cookware,Prestige,10006.06,6589.51,103
+PROD10312,Ultra Packaged Food,Grocery,Packaged Food,Britannia,533.17,371.02,421
+PROD10313,Compact Fiction,Books & Stationery,Fiction,HarperCollins,977.01,579.88,499
+PROD10314,Ultra Furniture,Home & Kitchen,Furniture,Milton,8667.06,5966.84,29
+PROD10315,Premium Skincare,Beauty & Personal Care,Skincare,Nivea,831.06,572.29,20
+PROD10316,Signature Watches,Fashion,Watches,Van Heusen,594.04,387.92,304
+PROD10317,Signature Skincare,Beauty & Personal Care,Skincare,Nivea,245.15,171.86,248
+PROD10318,Everyday Footwear,Fashion,Footwear,Puma,2386.58,1418.75,79
+PROD10319,Essential Furniture,Home & Kitchen,Furniture,Cello,544.76,306.15,492
+PROD10320,Essential Jewelry,Fashion,Jewelry,Puma,943.77,688.05,38
+PROD10321,Pro Smart Watches,Electronics,Smart Watches,Dell,67135.28,42230.66,151
+PROD10322,Deluxe Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,4277.18,2555.8,60
+PROD10323,Classic Beverages,Grocery,Beverages,Nestle,589.7,364.35,382
+PROD10324,Everyday Cookware,Home & Kitchen,Cookware,Prestige,4829.69,3294.69,46
+PROD10325,Pro Tablets,Electronics,Tablets,Apple,36365.42,27128.04,147
+PROD10326,Signature Fragrances,Beauty & Personal Care,Fragrances,Nivea,881.8,646.78,183
+PROD10327,Advanced Non-Fiction,Books & Stationery,Non-Fiction,Classmate,1000.6,568.77,459
+PROD10328,Classic Watches,Fashion,Watches,Adidas,663.68,514.72,196
+PROD10329,Advanced Men's Clothing,Fashion,Men's Clothing,Allen Solly,2057.36,1637.03,305
+PROD10330,Ultra Fiction,Books & Stationery,Fiction,Classmate,521.29,398.18,208
+PROD10331,Classic Non-Fiction,Books & Stationery,Non-Fiction,Penguin,459.1,282.22,432
+PROD10332,Everyday Furniture,Home & Kitchen,Furniture,IKEA,8662.43,6138.71,457
+PROD10333,Deluxe Appliances,Home & Kitchen,Appliances,Philips,6701.26,4887.79,133
+PROD10334,Advanced Fitness Equipment,Sports & Fitness,Fitness Equipment,Cosco,1032.71,770.82,61
+PROD10335,Pro Laptops,Electronics,Laptops,Apple,1140.21,797.64,391
+PROD10336,Classic Men's Clothing,Fashion,Men's Clothing,Allen Solly,437.45,281.97,158
+PROD10337,Signature Fitness Equipment,Sports & Fitness,Fitness Equipment,Cosco,2009.52,1337.01,144
+PROD10338,Ultra Laptops,Electronics,Laptops,boAt,29015.77,22118.77,44
+PROD10339,Everyday Jewelry,Fashion,Jewelry,Levi's,4769.65,3142.12,247
+PROD10340,Premium Baby Care,Toys & Baby,Baby Care,Fisher-Price,624.76,488.92,472
+PROD10341,Advanced Academic,Books & Stationery,Academic,Camlin,419.85,265.73,24
+PROD10342,Advanced Tablets,Electronics,Tablets,OnePlus,4472.0,2506.76,248
+PROD10343,Everyday Jewelry,Fashion,Jewelry,Adidas,1417.48,841.25,4
+PROD10344,Advanced Home Decor,Home & Kitchen,Home Decor,Prestige,1079.7,843.2,390
+PROD10345,Premium Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,1382.25,964.43,102
+PROD10346,Classic Headphones,Electronics,Headphones,Apple,45507.2,35265.06,342
+PROD10347,Advanced Fragrances,Beauty & Personal Care,Fragrances,Lakme,2808.57,1846.44,474
+PROD10348,Signature Home Decor,Home & Kitchen,Home Decor,Cello,19706.05,13797.34,358
+PROD10349,Compact Cycling,Sports & Fitness,Cycling,Nike,2706.41,1763.87,211
+PROD10350,Deluxe Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,14870.35,8290.8,490
+PROD10351,Advanced Furniture,Home & Kitchen,Furniture,Bajaj,3384.82,2005.89,53
+PROD10352,Signature Makeup,Beauty & Personal Care,Makeup,Himalaya,341.99,188.26,331
+PROD10353,Compact Appliances,Home & Kitchen,Appliances,Bajaj,4523.48,2706.42,483
+PROD10354,Pro Skincare,Beauty & Personal Care,Skincare,Himalaya,243.56,148.64,412
+PROD10355,Essential Furniture,Home & Kitchen,Furniture,IKEA,601.0,451.02,349
+PROD10356,Classic Home Decor,Home & Kitchen,Home Decor,Bajaj,544.46,339.54,211
+PROD10357,Essential Fragrances,Beauty & Personal Care,Fragrances,Nivea,1868.48,1318.73,375
+PROD10358,Essential Cycling,Sports & Fitness,Cycling,Nivia,443.98,329.43,330
+PROD10359,Essential Tablets,Electronics,Tablets,Samsung,2628.75,2082.94,16
+PROD10360,Ultra Cycling,Sports & Fitness,Cycling,Adidas,1850.56,1464.11,43
+PROD10361,Ultra Bags,Fashion,Bags,Puma,4148.42,2314.92,306
+PROD10362,Pro Fiction,Books & Stationery,Fiction,HarperCollins,254.38,194.88,342
+PROD10363,Pro Bedding,Home & Kitchen,Bedding,Prestige,1354.7,943.41,37
+PROD10364,Premium Furniture,Home & Kitchen,Furniture,Prestige,2191.81,1449.92,182
+PROD10365,Classic Laptops,Electronics,Laptops,Samsung,65531.98,39320.21,215
+PROD10366,Advanced Home Decor,Home & Kitchen,Home Decor,Milton,626.08,411.64,368
+PROD10367,Essential Non-Fiction,Books & Stationery,Non-Fiction,Camlin,118.4,68.09,425
+PROD10368,Compact Jewelry,Fashion,Jewelry,Adidas,382.98,226.67,335
+PROD10369,Premium Non-Fiction,Books & Stationery,Non-Fiction,HarperCollins,1389.69,915.61,354
+PROD10370,Compact Office Supplies,Books & Stationery,Office Supplies,Camlin,123.53,78.07,163
+PROD10371,Ultra Bedding,Home & Kitchen,Bedding,IKEA,5474.41,3573.64,357
+PROD10372,Advanced Footwear,Fashion,Footwear,Adidas,5240.92,3701.85,389
+PROD10373,Ultra Cycling,Sports & Fitness,Cycling,Cosco,339.72,222.21,476
+PROD10374,Premium Women's Clothing,Fashion,Women's Clothing,Zara,2925.38,2136.83,440
+PROD10375,Advanced Watches,Fashion,Watches,Zara,334.84,186.04,351
+PROD10376,Signature Furniture,Home & Kitchen,Furniture,Cello,257.06,188.79,369
+PROD10377,Pro Men's Clothing,Fashion,Men's Clothing,Adidas,2404.31,1554.93,391
+PROD10378,Premium Haircare,Beauty & Personal Care,Haircare,Nivea,1439.31,1065.38,199
+PROD10379,Advanced Academic,Books & Stationery,Academic,Penguin,260.15,162.31,133
+PROD10380,Signature Women's Clothing,Fashion,Women's Clothing,Allen Solly,334.6,238.98,25
+PROD10381,Deluxe Fitness Equipment,Sports & Fitness,Fitness Equipment,Cosco,3645.93,2879.72,90
+PROD10382,Deluxe Staples,Grocery,Staples,Amul,959.72,720.68,251
+PROD10383,Everyday Baby Care,Toys & Baby,Baby Care,Fisher-Price,1024.22,696.92,31
+PROD10384,Classic Office Supplies,Books & Stationery,Office Supplies,Penguin,193.46,113.0,166
+PROD10385,Premium Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,1232.66,975.71,173
+PROD10386,Essential Skincare,Beauty & Personal Care,Skincare,Lakme,218.95,166.95,86
+PROD10387,Pro Baby Care,Toys & Baby,Baby Care,Chicco,367.63,277.88,394
+PROD10388,Compact Cookware,Home & Kitchen,Cookware,Cello,18640.24,10898.87,110
+PROD10389,Advanced Cameras,Electronics,Cameras,Sony,960.99,714.65,193
+PROD10390,Ultra Cookware,Home & Kitchen,Cookware,Philips,592.23,382.9,47
+PROD10391,Signature Bags,Fashion,Bags,Nike,5312.96,3431.59,133
+PROD10392,Everyday Smart Watches,Electronics,Smart Watches,Samsung,1636.12,1065.67,423
+PROD10393,Compact Skincare,Beauty & Personal Care,Skincare,L'Oreal,983.26,616.95,236
+PROD10394,Essential Bags,Fashion,Bags,Adidas,3389.26,2612.44,167
+PROD10395,Essential Toys,Toys & Baby,Toys,Hot Wheels,1331.23,861.69,60
+PROD10396,Everyday Makeup,Beauty & Personal Care,Makeup,Mamaearth,3043.79,2396.14,137
+PROD10397,Compact Bedding,Home & Kitchen,Bedding,IKEA,3517.87,2346.87,453
+PROD10398,Compact Beverages,Grocery,Beverages,ITC,255.18,184.66,217
+PROD10399,Pro Cycling,Sports & Fitness,Cycling,Cosco,435.17,313.64,150
+PROD10400,Signature Skincare,Beauty & Personal Care,Skincare,L'Oreal,244.8,158.3,482
+PROD10401,Signature Tablets,Electronics,Tablets,OnePlus,1539.53,1207.3,146
+PROD10402,Compact Sportswear,Sports & Fitness,Sportswear,Decathlon,6742.73,5382.88,126
+PROD10403,Premium Beverages,Grocery,Beverages,Britannia,149.51,94.01,319
+PROD10404,Everyday Tablets,Electronics,Tablets,OnePlus,2061.64,1527.9,481
+PROD10405,Ultra Sportswear,Sports & Fitness,Sportswear,Cosco,741.83,509.7,289
+PROD10406,Essential Men's Clothing,Fashion,Men's Clothing,Zara,1050.54,772.31,92
+PROD10407,Deluxe Women's Clothing,Fashion,Women's Clothing,H&M,4715.27,3410.99,365
+PROD10408,Advanced Sportswear,Sports & Fitness,Sportswear,Adidas,1716.61,1300.56,348
+PROD10409,Pro Sportswear,Sports & Fitness,Sportswear,Nike,3006.84,2151.12,316
+PROD10410,Ultra Headphones,Electronics,Headphones,OnePlus,34272.53,19175.13,390
+PROD10411,Advanced Mobiles,Electronics,Mobiles,Dell,12319.85,8416.79,243
+PROD10412,Signature Men's Clothing,Fashion,Men's Clothing,Puma,598.66,468.32,271
+PROD10413,Deluxe Women's Clothing,Fashion,Women's Clothing,Van Heusen,451.68,259.2,115
+PROD10414,Premium Headphones,Electronics,Headphones,HP,22840.78,13347.65,454
+PROD10415,Pro Staples,Grocery,Staples,Nestle,280.41,183.08,65
+PROD10416,Compact Watches,Fashion,Watches,Puma,1974.93,1261.94,468
+PROD10417,Premium Outdoor Gear,Sports & Fitness,Outdoor Gear,Adidas,3735.62,2723.15,78
+PROD10418,Signature Bags,Fashion,Bags,Adidas,437.85,343.97,414
+PROD10419,Everyday Laptops,Electronics,Laptops,boAt,82280.34,47713.62,220
+PROD10420,Essential Laptops,Electronics,Laptops,Apple,2334.65,1766.36,444
+PROD10421,Ultra Bedding,Home & Kitchen,Bedding,Philips,10825.37,7805.2,244
+PROD10422,Advanced Non-Fiction,Books & Stationery,Non-Fiction,Camlin,880.88,536.0,363
+PROD10423,Premium Baby Care,Toys & Baby,Baby Care,Chicco,4636.37,3226.84,7
+PROD10424,Signature Beverages,Grocery,Beverages,Tata,247.04,155.65,12
+PROD10425,Deluxe Fiction,Books & Stationery,Fiction,HarperCollins,573.59,335.62,133
+PROD10426,Advanced Men's Clothing,Fashion,Men's Clothing,Puma,2372.51,1702.18,422
+PROD10427,Pro Bags,Fashion,Bags,Allen Solly,4185.45,2967.32,13
+PROD10428,Deluxe Furniture,Home & Kitchen,Furniture,Bajaj,2696.89,2116.34,418
+PROD10429,Premium Headphones,Electronics,Headphones,Xiaomi,40753.76,25688.58,272
+PROD10430,Everyday Headphones,Electronics,Headphones,Sony,5403.37,3876.47,165
+PROD10431,Compact Watches,Fashion,Watches,Allen Solly,2240.43,1276.02,157
+PROD10432,Ultra Laptops,Electronics,Laptops,HP,3988.05,2546.53,348
+PROD10433,Deluxe Smart Watches,Electronics,Smart Watches,Samsung,9961.21,7836.18,452
+PROD10434,Essential Skincare,Beauty & Personal Care,Skincare,L'Oreal,275.71,198.74,24
+PROD10435,Essential Tablets,Electronics,Tablets,OnePlus,5868.93,4600.52,128
+PROD10436,Signature Footwear,Fashion,Footwear,Levi's,307.98,225.92,67
+PROD10437,Compact Baby Care,Toys & Baby,Baby Care,Pampers,4857.03,2752.96,103
+PROD10438,Advanced Tablets,Electronics,Tablets,Apple,3687.95,2045.11,385
+PROD10439,Signature Cycling,Sports & Fitness,Cycling,Cosco,11011.1,6869.36,214
+PROD10440,Compact Home Decor,Home & Kitchen,Home Decor,Milton,759.08,429.38,405
+PROD10441,Essential Cameras,Electronics,Cameras,Apple,10728.28,6560.36,367
+PROD10442,Advanced Bedding,Home & Kitchen,Bedding,Milton,374.9,240.99,203
+PROD10443,Compact Bags,Fashion,Bags,Adidas,3882.13,2360.29,469
+PROD10444,Signature Makeup,Beauty & Personal Care,Makeup,Nivea,1319.25,977.69,397
+PROD10445,Classic Fiction,Books & Stationery,Fiction,Penguin,112.49,82.88,170
+PROD10446,Signature Fiction,Books & Stationery,Fiction,Classmate,1109.24,797.65,85
+PROD10447,Everyday Mobiles,Electronics,Mobiles,Sony,5619.64,4050.9,132
+PROD10448,Classic Cameras,Electronics,Cameras,Apple,9435.85,7391.8,460
+PROD10449,Everyday Academic,Books & Stationery,Academic,Camlin,322.68,197.07,177
+PROD10450,Deluxe Cameras,Electronics,Cameras,Xiaomi,1572.18,888.8,426
+PROD10451,Signature Cameras,Electronics,Cameras,Apple,7960.63,6261.85,139
+PROD10452,Ultra Watches,Fashion,Watches,Levi's,961.73,700.87,184
+PROD10453,Advanced Watches,Fashion,Watches,Adidas,886.07,618.71,490
+PROD10454,Everyday Women's Clothing,Fashion,Women's Clothing,Zara,439.02,278.68,456
+PROD10455,Classic Outdoor Gear,Sports & Fitness,Outdoor Gear,Adidas,691.44,497.84,283
+PROD10456,Everyday Cookware,Home & Kitchen,Cookware,Milton,4504.68,3309.71,210
+PROD10457,Compact Baby Care,Toys & Baby,Baby Care,Hot Wheels,4032.78,2440.2,294
+PROD10458,Essential Jewelry,Fashion,Jewelry,Van Heusen,4606.04,2874.28,392
+PROD10459,Premium Smart Watches,Electronics,Smart Watches,Dell,62612.59,38758.76,136
+PROD10460,Classic Beverages,Grocery,Beverages,Amul,791.8,596.15,309
+PROD10461,Pro Fitness Equipment,Sports & Fitness,Fitness Equipment,Cosco,1700.59,950.25,256
+PROD10462,Ultra Watches,Fashion,Watches,Adidas,504.26,306.88,318
+PROD10463,Advanced Baby Care,Toys & Baby,Baby Care,Hot Wheels,4680.96,2958.25,264
+PROD10464,Ultra Packaged Food,Grocery,Packaged Food,ITC,119.69,75.93,155
+PROD10465,Premium Laptops,Electronics,Laptops,Xiaomi,42798.8,30222.11,155
+PROD10466,Deluxe Women's Clothing,Fashion,Women's Clothing,Allen Solly,1183.28,664.0,439
+PROD10467,Advanced Snacks,Grocery,Snacks,Amul,102.19,60.68,399
+PROD10468,Essential Cycling,Sports & Fitness,Cycling,Decathlon,1369.05,1055.44,390
+PROD10469,Advanced Mobiles,Electronics,Mobiles,HP,2914.98,1840.78,156
+PROD10470,Compact Snacks,Grocery,Snacks,Amul,52.02,41.04,377
+PROD10471,Classic Beverages,Grocery,Beverages,ITC,431.56,316.71,2
+PROD10472,Compact Academic,Books & Stationery,Academic,Camlin,302.36,238.52,0
+PROD10473,Deluxe Laptops,Electronics,Laptops,Dell,10939.89,7184.63,267
+PROD10474,Advanced Cameras,Electronics,Cameras,Xiaomi,11440.89,8867.53,154
+PROD10475,Classic Cameras,Electronics,Cameras,Xiaomi,4056.71,2559.23,409
+PROD10476,Deluxe Appliances,Home & Kitchen,Appliances,Bajaj,6717.23,3817.0,206
+PROD10477,Essential Smart Watches,Electronics,Smart Watches,Apple,30792.99,19064.14,406
+PROD10478,Essential Home Decor,Home & Kitchen,Home Decor,Bajaj,21120.88,16795.46,493
+PROD10479,Compact Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,386.81,282.59,492
+PROD10480,Deluxe Tablets,Electronics,Tablets,HP,82457.17,48930.25,51
+PROD10481,Ultra Fragrances,Beauty & Personal Care,Fragrances,Himalaya,662.31,447.62,320
+PROD10482,Ultra Bags,Fashion,Bags,Van Heusen,711.56,561.24,388
+PROD10483,Signature Haircare,Beauty & Personal Care,Haircare,Lakme,738.89,460.28,488
+PROD10484,Deluxe Laptops,Electronics,Laptops,OnePlus,52494.12,39833.13,17
+PROD10485,Classic Kids Clothing,Toys & Baby,Kids Clothing,Chicco,835.27,609.61,125
+PROD10486,Everyday Men's Clothing,Fashion,Men's Clothing,Allen Solly,4536.67,2957.72,236
+PROD10487,Ultra Cameras,Electronics,Cameras,boAt,11686.33,8363.71,180
+PROD10488,Deluxe Toys,Toys & Baby,Toys,Chicco,1045.25,700.66,463
+PROD10489,Premium Skincare,Beauty & Personal Care,Skincare,Mamaearth,150.64,101.01,262
+PROD10490,Essential Bags,Fashion,Bags,Zara,1301.62,890.21,169
+PROD10491,Essential Laptops,Electronics,Laptops,Dell,1006.87,739.95,121
+PROD10492,Everyday Cookware,Home & Kitchen,Cookware,Prestige,2595.44,1537.39,358
+PROD10493,Pro Haircare,Beauty & Personal Care,Haircare,Lakme,181.34,113.35,37
+PROD10494,Pro Tablets,Electronics,Tablets,Samsung,28956.02,20719.14,167
+PROD10495,Classic Haircare,Beauty & Personal Care,Haircare,Mamaearth,1993.92,1305.71,103
+PROD10496,Advanced Watches,Fashion,Watches,H&M,2299.32,1794.06,54
+PROD10497,Essential Smart Watches,Electronics,Smart Watches,Xiaomi,18566.6,13710.13,125
+PROD10498,Premium Toys,Toys & Baby,Toys,Fisher-Price,1247.61,850.48,464
+PROD10499,Essential Skincare,Beauty & Personal Care,Skincare,Mamaearth,623.4,431.34,288
+PROD10500,Ultra Cameras,Electronics,Cameras,OnePlus,73691.01,58383.98,123
+PROD10501,Pro Mobiles,Electronics,Mobiles,Sony,40010.45,25860.83,210
+PROD10502,Premium Mobiles,Electronics,Mobiles,Apple,29042.18,21605.33,405
+PROD10503,Deluxe Office Supplies,Books & Stationery,Office Supplies,Classmate,275.46,190.81,49
+PROD10504,Premium Footwear,Fashion,Footwear,Puma,670.03,465.29,266
+PROD10505,Pro Cameras,Electronics,Cameras,Sony,27011.54,16045.29,161
+PROD10506,Classic Office Supplies,Books & Stationery,Office Supplies,Classmate,197.92,119.82,6
+PROD10507,Essential Men's Clothing,Fashion,Men's Clothing,Zara,2140.34,1481.6,270
+PROD10508,Premium Headphones,Electronics,Headphones,Sony,2228.53,1536.8,426
+PROD10509,Everyday Beverages,Grocery,Beverages,Nestle,459.67,307.09,402
+PROD10510,Everyday Snacks,Grocery,Snacks,Amul,458.52,358.59,456
+PROD10511,Deluxe Tablets,Electronics,Tablets,Xiaomi,11330.31,8640.41,235
+PROD10512,Compact Appliances,Home & Kitchen,Appliances,Milton,310.96,172.34,491
+PROD10513,Premium Makeup,Beauty & Personal Care,Makeup,Nivea,1296.88,825.84,132
+PROD10514,Ultra Bedding,Home & Kitchen,Bedding,Cello,3703.38,2740.5,169
+PROD10515,Signature Furniture,Home & Kitchen,Furniture,Bajaj,2574.71,1443.31,206
+PROD10516,Everyday Sportswear,Sports & Fitness,Sportswear,Cosco,601.64,419.5,357
+PROD10517,Classic Office Supplies,Books & Stationery,Office Supplies,Classmate,1414.19,1001.23,37
+PROD10518,Premium Furniture,Home & Kitchen,Furniture,Philips,6391.48,3589.39,79
+PROD10519,Classic Footwear,Fashion,Footwear,Puma,2145.61,1490.1,276
+PROD10520,Premium Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,281.94,222.55,139
+PROD10521,Premium Home Decor,Home & Kitchen,Home Decor,Cello,484.85,303.29,165
+PROD10522,Pro Cookware,Home & Kitchen,Cookware,Cello,19062.88,12757.46,367
+PROD10523,Advanced Smart Watches,Electronics,Smart Watches,Sony,58550.63,42006.96,6
+PROD10524,Advanced Skincare,Beauty & Personal Care,Skincare,Mamaearth,170.67,118.04,425
+PROD10525,Deluxe Laptops,Electronics,Laptops,OnePlus,1343.78,916.75,316
+PROD10526,Ultra Smart Watches,Electronics,Smart Watches,HP,2893.4,1705.25,276
+PROD10527,Essential Watches,Fashion,Watches,H&M,2136.27,1275.03,359
+PROD10528,Advanced Packaged Food,Grocery,Packaged Food,Tata,39.66,24.45,381
+PROD10529,Advanced Fragrances,Beauty & Personal Care,Fragrances,Himalaya,2196.2,1673.88,175
+PROD10530,Deluxe Skincare,Beauty & Personal Care,Skincare,Lakme,1408.02,1016.85,417
+PROD10531,Deluxe Kids Clothing,Toys & Baby,Kids Clothing,Pampers,429.08,295.22,22
+PROD10532,Deluxe Mobiles,Electronics,Mobiles,Apple,8663.45,6318.87,350
+PROD10533,Essential Beverages,Grocery,Beverages,Amul,113.07,83.18,79
+PROD10534,Everyday Makeup,Beauty & Personal Care,Makeup,Nivea,293.77,215.22,113
+PROD10535,Classic Haircare,Beauty & Personal Care,Haircare,L'Oreal,235.49,135.8,71
+PROD10536,Classic Bags,Fashion,Bags,Zara,613.96,481.22,353
+PROD10537,Pro Furniture,Home & Kitchen,Furniture,Milton,2807.08,2092.39,475
+PROD10538,Premium Watches,Fashion,Watches,Puma,324.11,184.15,297
+PROD10539,Compact Skincare,Beauty & Personal Care,Skincare,Mamaearth,1021.37,651.02,162
+PROD10540,Compact Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,1928.27,1078.83,472
+PROD10541,Compact Cameras,Electronics,Cameras,Sony,2774.42,2088.07,291
+PROD10542,Signature Watches,Fashion,Watches,Allen Solly,1003.64,801.57,267
+PROD10543,Ultra Cycling,Sports & Fitness,Cycling,Nivia,524.33,396.63,40
+PROD10544,Signature Jewelry,Fashion,Jewelry,Zara,460.87,356.68,333
+PROD10545,Ultra Haircare,Beauty & Personal Care,Haircare,Himalaya,2422.94,1852.85,487
+PROD10546,Essential Fragrances,Beauty & Personal Care,Fragrances,Lakme,1463.7,973.69,22
+PROD10547,Deluxe Staples,Grocery,Staples,Nestle,39.71,29.29,67
+PROD10548,Advanced Sportswear,Sports & Fitness,Sportswear,Nike,10258.82,6805.31,496
+PROD10549,Ultra Sportswear,Sports & Fitness,Sportswear,Nike,4486.76,3125.99,41
+PROD10550,Ultra Smart Watches,Electronics,Smart Watches,Apple,5622.84,4042.15,244
+PROD10551,Advanced Haircare,Beauty & Personal Care,Haircare,Mamaearth,293.52,198.25,491
+PROD10552,Compact Staples,Grocery,Staples,ITC,265.21,191.44,51
+PROD10553,Pro Furniture,Home & Kitchen,Furniture,Philips,1814.02,1350.35,498
+PROD10554,Signature Mobiles,Electronics,Mobiles,Sony,3664.34,2715.64,361
+PROD10555,Signature Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,3588.55,2708.85,51
+PROD10556,Essential Furniture,Home & Kitchen,Furniture,Cello,7612.43,5979.24,492
+PROD10557,Ultra Bags,Fashion,Bags,Van Heusen,5900.72,3982.63,233
+PROD10558,Signature Tablets,Electronics,Tablets,Sony,4566.95,3575.77,417
+PROD10559,Everyday Watches,Fashion,Watches,Levi's,1337.88,753.85,191
+PROD10560,Signature Jewelry,Fashion,Jewelry,Van Heusen,2687.72,2145.45,266
+PROD10561,Pro Headphones,Electronics,Headphones,boAt,7275.02,5196.35,111
+PROD10562,Everyday Bags,Fashion,Bags,Allen Solly,1329.92,744.28,74
+PROD10563,Everyday Appliances,Home & Kitchen,Appliances,Milton,640.34,496.89,422
+PROD10564,Ultra Sportswear,Sports & Fitness,Sportswear,Decathlon,6105.03,4117.46,48
+PROD10565,Ultra Mobiles,Electronics,Mobiles,Sony,1663.97,1184.18,61
+PROD10566,Premium Mobiles,Electronics,Mobiles,Samsung,54060.95,34516.93,375
+PROD10567,Deluxe Bedding,Home & Kitchen,Bedding,Milton,717.2,430.17,299
+PROD10568,Compact Cookware,Home & Kitchen,Cookware,IKEA,2767.46,2046.14,260
+PROD10569,Pro Makeup,Beauty & Personal Care,Makeup,L'Oreal,739.43,500.47,219
+PROD10570,Ultra Headphones,Electronics,Headphones,HP,937.01,516.84,437
+PROD10571,Classic Toys,Toys & Baby,Toys,Pampers,307.15,239.15,291
+PROD10572,Essential Academic,Books & Stationery,Academic,HarperCollins,665.75,514.54,283
+PROD10573,Everyday Academic,Books & Stationery,Academic,Penguin,708.14,452.33,351
+PROD10574,Pro Home Decor,Home & Kitchen,Home Decor,Prestige,1430.42,947.48,296
+PROD10575,Advanced Fiction,Books & Stationery,Fiction,Penguin,123.47,82.28,435
+PROD10576,Advanced Watches,Fashion,Watches,Levi's,664.21,434.07,153
+PROD10577,Compact Sportswear,Sports & Fitness,Sportswear,Cosco,1359.71,796.2,101
+PROD10578,Pro Sportswear,Sports & Fitness,Sportswear,Nivia,560.03,374.12,41
+PROD10579,Signature Men's Clothing,Fashion,Men's Clothing,Adidas,2312.78,1343.53,145
+PROD10580,Premium Packaged Food,Grocery,Packaged Food,Amul,38.89,22.27,99
+PROD10581,Ultra Fitness Equipment,Sports & Fitness,Fitness Equipment,Decathlon,676.47,512.25,237
+PROD10582,Ultra Skincare,Beauty & Personal Care,Skincare,Lakme,238.66,172.32,430
+PROD10583,Advanced Furniture,Home & Kitchen,Furniture,IKEA,301.32,195.09,26
+PROD10584,Pro Haircare,Beauty & Personal Care,Haircare,Himalaya,759.1,562.07,418
+PROD10585,Advanced Fragrances,Beauty & Personal Care,Fragrances,Himalaya,653.4,505.02,398
+PROD10586,Premium Haircare,Beauty & Personal Care,Haircare,Lakme,306.71,213.48,495
+PROD10587,Compact Headphones,Electronics,Headphones,OnePlus,9465.17,6593.95,498
+PROD10588,Pro Tablets,Electronics,Tablets,boAt,4917.92,3346.24,147
+PROD10589,Classic Cameras,Electronics,Cameras,Apple,1577.94,1026.3,448
+PROD10590,Essential Women's Clothing,Fashion,Women's Clothing,Van Heusen,327.46,186.3,423
+PROD10591,Premium Cycling,Sports & Fitness,Cycling,Decathlon,1129.56,827.89,39
+PROD10592,Classic Makeup,Beauty & Personal Care,Makeup,Mamaearth,478.73,328.6,64
+PROD10593,Essential Women's Clothing,Fashion,Women's Clothing,Zara,1518.56,1135.46,30
+PROD10594,Everyday Cookware,Home & Kitchen,Cookware,Prestige,341.48,214.02,443
+PROD10595,Signature Staples,Grocery,Staples,Britannia,796.65,518.13,276
+PROD10596,Deluxe Furniture,Home & Kitchen,Furniture,Bajaj,713.19,516.57,416
+PROD10597,Classic Fiction,Books & Stationery,Fiction,Penguin,1183.7,879.23,475
+PROD10598,Signature Cycling,Sports & Fitness,Cycling,Adidas,1191.6,837.69,348
+PROD10599,Ultra Cameras,Electronics,Cameras,HP,4870.62,3210.66,349
+PROD10600,Advanced Haircare,Beauty & Personal Care,Haircare,Nivea,1291.99,749.09,69
+PROD10601,Pro Staples,Grocery,Staples,Britannia,40.32,30.42,376
+PROD10602,Essential Bags,Fashion,Bags,Van Heusen,561.4,382.09,223
+PROD10603,Signature Smart Watches,Electronics,Smart Watches,boAt,35623.25,22757.05,79
+PROD10604,Advanced Watches,Fashion,Watches,Van Heusen,5032.08,3620.77,288
+PROD10605,Pro Mobiles,Electronics,Mobiles,Xiaomi,41225.66,31541.01,298
+PROD10606,Essential Cameras,Electronics,Cameras,Samsung,3097.62,2419.5,366
+PROD10607,Deluxe Footwear,Fashion,Footwear,Adidas,1700.51,1179.56,253
+PROD10608,Pro Tablets,Electronics,Tablets,Apple,1988.11,1108.15,342
+PROD10609,Advanced Cycling,Sports & Fitness,Cycling,Adidas,349.87,215.82,21
+PROD10610,Everyday Watches,Fashion,Watches,Nike,845.64,481.26,84
+PROD10611,Advanced Outdoor Gear,Sports & Fitness,Outdoor Gear,Nike,928.35,713.24,326
+PROD10612,Signature Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,341.39,268.43,239
+PROD10613,Compact Tablets,Electronics,Tablets,Apple,2544.61,1937.99,139
+PROD10614,Premium Headphones,Electronics,Headphones,Apple,823.91,634.14,136
+PROD10615,Ultra Cookware,Home & Kitchen,Cookware,Philips,20279.17,12055.64,288
+PROD10616,Compact Men's Clothing,Fashion,Men's Clothing,Zara,7753.1,4822.58,46
+PROD10617,Pro Women's Clothing,Fashion,Women's Clothing,Van Heusen,5968.05,3556.35,153
+PROD10618,Advanced Academic,Books & Stationery,Academic,Classmate,468.24,308.48,92
+PROD10619,Ultra Furniture,Home & Kitchen,Furniture,IKEA,482.33,325.38,212
+PROD10620,Compact Bedding,Home & Kitchen,Bedding,Philips,3625.75,2671.49,416
+PROD10621,Compact Sportswear,Sports & Fitness,Sportswear,Nivia,502.41,276.82,424
+PROD10622,Everyday Bags,Fashion,Bags,Van Heusen,4003.68,2329.92,76
+PROD10623,Everyday Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,6325.14,3717.91,439
+PROD10624,Signature Tablets,Electronics,Tablets,Samsung,1396.46,801.63,471
+PROD10625,Classic Smart Watches,Electronics,Smart Watches,Sony,4839.81,3789.54,367
+PROD10626,Advanced Men's Clothing,Fashion,Men's Clothing,Nike,2010.68,1505.09,6
+PROD10627,Essential Watches,Fashion,Watches,Allen Solly,2806.03,1618.0,12
+PROD10628,Classic Furniture,Home & Kitchen,Furniture,Cello,529.28,416.84,405
+PROD10629,Essential Appliances,Home & Kitchen,Appliances,Philips,3504.47,2447.77,296
+PROD10630,Premium Laptops,Electronics,Laptops,Dell,11531.86,7921.91,461
+PROD10631,Deluxe Sportswear,Sports & Fitness,Sportswear,Adidas,617.61,489.06,484
+PROD10632,Deluxe Men's Clothing,Fashion,Men's Clothing,Allen Solly,511.13,369.82,12
+PROD10633,Essential Tablets,Electronics,Tablets,OnePlus,4702.9,2951.84,85
+PROD10634,Classic Sportswear,Sports & Fitness,Sportswear,Nivia,7346.14,4652.61,264
+PROD10635,Classic Makeup,Beauty & Personal Care,Makeup,Nivea,604.98,414.51,444
+PROD10636,Advanced Skincare,Beauty & Personal Care,Skincare,Lakme,307.24,174.68,372
+PROD10637,Deluxe Furniture,Home & Kitchen,Furniture,Prestige,658.61,517.96,170
+PROD10638,Everyday Skincare,Beauty & Personal Care,Skincare,Lakme,2331.98,1460.9,45
+PROD10639,Signature Fragrances,Beauty & Personal Care,Fragrances,Nivea,241.79,133.68,494
+PROD10640,Advanced Kids Clothing,Toys & Baby,Kids Clothing,Pampers,468.55,275.62,148
+PROD10641,Essential Skincare,Beauty & Personal Care,Skincare,Himalaya,515.17,318.58,117
+PROD10642,Essential Laptops,Electronics,Laptops,HP,2185.52,1335.86,219
+PROD10643,Compact Outdoor Gear,Sports & Fitness,Outdoor Gear,Nike,889.94,537.81,76
+PROD10644,Pro Fragrances,Beauty & Personal Care,Fragrances,Nivea,2590.13,1717.28,207
+PROD10645,Compact Mobiles,Electronics,Mobiles,Dell,1076.56,598.09,451
+PROD10646,Advanced Baby Care,Toys & Baby,Baby Care,Fisher-Price,1166.52,784.21,169
+PROD10647,Premium Sportswear,Sports & Fitness,Sportswear,Nike,1122.15,661.52,113
+PROD10648,Advanced Skincare,Beauty & Personal Care,Skincare,Nivea,431.12,319.55,463
+PROD10649,Signature Smart Watches,Electronics,Smart Watches,Dell,54055.05,40721.89,84
+PROD10650,Premium Haircare,Beauty & Personal Care,Haircare,Himalaya,937.22,645.92,488
+PROD10651,Ultra Toys,Toys & Baby,Toys,Chicco,3635.42,2883.0,173
+PROD10652,Ultra Laptops,Electronics,Laptops,Dell,20526.22,13973.83,405
+PROD10653,Everyday Packaged Food,Grocery,Packaged Food,Amul,567.81,344.19,228
+PROD10654,Signature Cameras,Electronics,Cameras,Xiaomi,15229.63,11079.85,391
+PROD10655,Signature Appliances,Home & Kitchen,Appliances,IKEA,16235.11,11267.87,487
+PROD10656,Pro Men's Clothing,Fashion,Men's Clothing,Van Heusen,2707.6,1907.17,211
+PROD10657,Classic Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,1220.83,931.93,347
+PROD10658,Classic Cycling,Sports & Fitness,Cycling,Cosco,617.18,365.91,176
+PROD10659,Signature Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,2936.85,1877.63,251
+PROD10660,Ultra Women's Clothing,Fashion,Women's Clothing,Nike,2534.78,1587.55,424
+PROD10661,Advanced Furniture,Home & Kitchen,Furniture,Bajaj,382.39,275.97,25
+PROD10662,Compact Bedding,Home & Kitchen,Bedding,Bajaj,9003.71,6698.43,76
+PROD10663,Ultra Fiction,Books & Stationery,Fiction,Penguin,1377.81,968.99,250
+PROD10664,Ultra Fitness Equipment,Sports & Fitness,Fitness Equipment,Nike,2255.71,1241.0,288
+PROD10665,Everyday Bags,Fashion,Bags,Van Heusen,1377.18,768.95,118
+PROD10666,Ultra Fitness Equipment,Sports & Fitness,Fitness Equipment,Decathlon,3916.64,2272.35,488
+PROD10667,Ultra Office Supplies,Books & Stationery,Office Supplies,Classmate,212.1,121.05,402
+PROD10668,Ultra Home Decor,Home & Kitchen,Home Decor,Philips,23809.84,16837.43,39
+PROD10669,Everyday Skincare,Beauty & Personal Care,Skincare,L'Oreal,916.01,511.52,258
+PROD10670,Ultra Toys,Toys & Baby,Toys,Fisher-Price,435.96,278.12,5
+PROD10671,Ultra Appliances,Home & Kitchen,Appliances,IKEA,466.23,367.67,216
+PROD10672,Advanced Home Decor,Home & Kitchen,Home Decor,Philips,1551.23,985.19,194
+PROD10673,Signature Makeup,Beauty & Personal Care,Makeup,Nivea,418.86,261.48,218
+PROD10674,Deluxe Fitness Equipment,Sports & Fitness,Fitness Equipment,Nike,655.54,427.24,251
+PROD10675,Deluxe Headphones,Electronics,Headphones,Xiaomi,828.82,623.5,420
+PROD10676,Signature Men's Clothing,Fashion,Men's Clothing,Nike,502.66,282.69,63
+PROD10677,Deluxe Fragrances,Beauty & Personal Care,Fragrances,Himalaya,1763.53,1147.11,203
+PROD10678,Advanced Tablets,Electronics,Tablets,Xiaomi,43695.1,29308.7,465
+PROD10679,Ultra Home Decor,Home & Kitchen,Home Decor,Cello,1271.67,786.86,145
+PROD10680,Pro Laptops,Electronics,Laptops,Dell,1706.29,1183.61,233
+PROD10681,Essential Footwear,Fashion,Footwear,Van Heusen,4147.97,3067.34,226
+PROD10682,Pro Tablets,Electronics,Tablets,Samsung,1506.4,883.99,248
+PROD10683,Ultra Snacks,Grocery,Snacks,Amul,429.65,306.74,160
+PROD10684,Premium Cookware,Home & Kitchen,Cookware,Bajaj,351.81,214.82,4
+PROD10685,Classic Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,2624.36,1922.54,231
+PROD10686,Signature Furniture,Home & Kitchen,Furniture,Bajaj,1476.64,928.88,139
+PROD10687,Premium Cycling,Sports & Fitness,Cycling,Nivia,3924.59,2191.99,84
+PROD10688,Compact Fitness Equipment,Sports & Fitness,Fitness Equipment,Cosco,1116.73,852.32,426
+PROD10689,Everyday Tablets,Electronics,Tablets,Dell,1431.79,843.3,99
+PROD10690,Signature Toys,Toys & Baby,Toys,Hot Wheels,975.96,731.94,261
+PROD10691,Classic Laptops,Electronics,Laptops,Sony,5151.6,3927.61,87
+PROD10692,Premium Furniture,Home & Kitchen,Furniture,Cello,3566.75,2080.89,238
+PROD10693,Pro Fiction,Books & Stationery,Fiction,Classmate,507.12,304.98,278
+PROD10694,Everyday Skincare,Beauty & Personal Care,Skincare,Himalaya,2300.34,1636.88,438
+PROD10695,Signature Watches,Fashion,Watches,H&M,527.56,374.2,23
+PROD10696,Deluxe Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,519.62,319.4,390
+PROD10697,Signature Appliances,Home & Kitchen,Appliances,Cello,3698.85,2458.37,377
+PROD10698,Compact Tablets,Electronics,Tablets,HP,57584.57,36418.27,476
+PROD10699,Pro Home Decor,Home & Kitchen,Home Decor,Milton,439.74,274.82,252
+PROD10700,Compact Furniture,Home & Kitchen,Furniture,Cello,17914.75,13271.94,386
+PROD10701,Everyday Jewelry,Fashion,Jewelry,Puma,5323.04,3738.88,402
+PROD10702,Ultra Tablets,Electronics,Tablets,Xiaomi,3977.94,2645.13,314
+PROD10703,Advanced Skincare,Beauty & Personal Care,Skincare,Nivea,929.43,536.41,84
+PROD10704,Deluxe Staples,Grocery,Staples,Tata,888.87,540.29,154
+PROD10705,Deluxe Bedding,Home & Kitchen,Bedding,Bajaj,2155.52,1266.91,98
+PROD10706,Pro Academic,Books & Stationery,Academic,Classmate,982.19,546.09,360
+PROD10707,Deluxe Bags,Fashion,Bags,Allen Solly,920.43,590.93,321
+PROD10708,Classic Non-Fiction,Books & Stationery,Non-Fiction,Camlin,876.29,510.89,334
+PROD10709,Compact Mobiles,Electronics,Mobiles,OnePlus,8001.81,4783.73,379
+PROD10710,Everyday Men's Clothing,Fashion,Men's Clothing,H&M,496.26,375.14,6
+PROD10711,Classic Smart Watches,Electronics,Smart Watches,Sony,3423.01,2670.15,315
+PROD10712,Ultra Kids Clothing,Toys & Baby,Kids Clothing,Pampers,202.21,142.51,84
+PROD10713,Everyday Cameras,Electronics,Cameras,Apple,2232.54,1367.77,368
+PROD10714,Signature Mobiles,Electronics,Mobiles,OnePlus,12210.81,8059.89,444
+PROD10715,Ultra Toys,Toys & Baby,Toys,Fisher-Price,219.45,149.07,259
+PROD10716,Deluxe Haircare,Beauty & Personal Care,Haircare,Himalaya,383.84,232.06,412
+PROD10717,Signature Watches,Fashion,Watches,Puma,1879.79,1346.23,495
+PROD10718,Premium Laptops,Electronics,Laptops,Samsung,36575.45,22259.42,34
+PROD10719,Deluxe Tablets,Electronics,Tablets,Apple,3061.26,2301.5,371
+PROD10720,Advanced Appliances,Home & Kitchen,Appliances,Prestige,2054.54,1502.44,409
+PROD10721,Premium Tablets,Electronics,Tablets,OnePlus,11335.02,6485.31,11
+PROD10722,Pro Skincare,Beauty & Personal Care,Skincare,Himalaya,580.87,454.64,203
+PROD10723,Advanced Mobiles,Electronics,Mobiles,Dell,2284.81,1756.85,309
+PROD10724,Classic Men's Clothing,Fashion,Men's Clothing,Zara,2363.17,1716.75,413
+PROD10725,Pro Toys,Toys & Baby,Toys,Pampers,3262.84,2577.75,193
+PROD10726,Advanced Academic,Books & Stationery,Academic,Camlin,739.8,588.27,123
+PROD10727,Advanced Headphones,Electronics,Headphones,OnePlus,14992.82,9966.2,280
+PROD10728,Signature Sportswear,Sports & Fitness,Sportswear,Nike,5223.29,3455.6,264
+PROD10729,Pro Sportswear,Sports & Fitness,Sportswear,Cosco,643.71,405.76,485
+PROD10730,Classic Tablets,Electronics,Tablets,OnePlus,15305.39,9759.39,199
+PROD10731,Ultra Baby Care,Toys & Baby,Baby Care,Fisher-Price,306.58,173.73,25
+PROD10732,Signature Fragrances,Beauty & Personal Care,Fragrances,Lakme,818.77,558.96,228
+PROD10733,Advanced Fragrances,Beauty & Personal Care,Fragrances,Lakme,782.34,515.62,263
+PROD10734,Compact Cameras,Electronics,Cameras,Dell,12763.83,8426.06,280
+PROD10735,Ultra Tablets,Electronics,Tablets,Samsung,3689.09,2403.65,117
+PROD10736,Premium Laptops,Electronics,Laptops,HP,968.07,599.07,207
+PROD10737,Essential Snacks,Grocery,Snacks,Britannia,144.58,105.81,242
+PROD10738,Compact Jewelry,Fashion,Jewelry,H&M,1816.26,1258.24,144
+PROD10739,Deluxe Men's Clothing,Fashion,Men's Clothing,Adidas,3841.04,2437.65,72
+PROD10740,Everyday Smart Watches,Electronics,Smart Watches,OnePlus,37407.75,24412.82,305
+PROD10741,Signature Skincare,Beauty & Personal Care,Skincare,Himalaya,448.02,285.56,343
+PROD10742,Pro Cameras,Electronics,Cameras,boAt,3545.73,2514.22,159
+PROD10743,Premium Toys,Toys & Baby,Toys,Hot Wheels,4831.16,2816.99,384
+PROD10744,Premium Beverages,Grocery,Beverages,Nestle,30.83,22.84,413
+PROD10745,Essential Appliances,Home & Kitchen,Appliances,Cello,7777.75,4556.27,452
+PROD10746,Signature Academic,Books & Stationery,Academic,Camlin,165.11,95.11,149
+PROD10747,Premium Watches,Fashion,Watches,Nike,6448.58,4927.05,333
+PROD10748,Essential Non-Fiction,Books & Stationery,Non-Fiction,HarperCollins,122.32,97.14,163
+PROD10749,Essential Women's Clothing,Fashion,Women's Clothing,Allen Solly,2835.67,1739.75,247
+PROD10750,Everyday Baby Care,Toys & Baby,Baby Care,Pampers,392.07,275.4,170
+PROD10751,Classic Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,254.61,155.81,185
+PROD10752,Essential Smart Watches,Electronics,Smart Watches,boAt,81104.5,64163.57,448
+PROD10753,Pro Staples,Grocery,Staples,ITC,293.95,220.51,368
+PROD10754,Advanced Bags,Fashion,Bags,Nike,684.39,538.1,431
+PROD10755,Essential Makeup,Beauty & Personal Care,Makeup,Himalaya,729.04,556.4,371
+PROD10756,Signature Laptops,Electronics,Laptops,HP,10660.34,6172.16,70
+PROD10757,Compact Cycling,Sports & Fitness,Cycling,Nivia,9513.86,7397.05,9
+PROD10758,Signature Headphones,Electronics,Headphones,Dell,2676.14,2008.72,490
+PROD10759,Classic Office Supplies,Books & Stationery,Office Supplies,Classmate,352.86,201.14,59
+PROD10760,Advanced Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,2358.64,1650.82,56
+PROD10761,Premium Cookware,Home & Kitchen,Cookware,Milton,399.95,260.51,428
+PROD10762,Ultra Baby Care,Toys & Baby,Baby Care,Hot Wheels,581.0,417.89,271
+PROD10763,Advanced Bags,Fashion,Bags,H&M,2053.22,1508.8,174
+PROD10764,Advanced Baby Care,Toys & Baby,Baby Care,Hot Wheels,1107.15,777.76,474
+PROD10765,Premium Bedding,Home & Kitchen,Bedding,Cello,1028.69,740.73,139
+PROD10766,Compact Smart Watches,Electronics,Smart Watches,OnePlus,1301.77,960.65,377
+PROD10767,Everyday Smart Watches,Electronics,Smart Watches,Samsung,3084.84,2232.16,450
+PROD10768,Classic Jewelry,Fashion,Jewelry,Allen Solly,976.95,636.45,376
+PROD10769,Essential Toys,Toys & Baby,Toys,Fisher-Price,859.79,475.88,81
+PROD10770,Compact Cookware,Home & Kitchen,Cookware,IKEA,7932.28,6264.77,319
+PROD10771,Signature Office Supplies,Books & Stationery,Office Supplies,Camlin,148.0,91.15,378
+PROD10772,Deluxe Watches,Fashion,Watches,Puma,730.88,429.78,395
+PROD10773,Classic Watches,Fashion,Watches,Allen Solly,2096.87,1596.19,159
+PROD10774,Signature Home Decor,Home & Kitchen,Home Decor,IKEA,519.77,288.83,141
+PROD10775,Advanced Home Decor,Home & Kitchen,Home Decor,Milton,2062.91,1585.15,46
+PROD10776,Deluxe Laptops,Electronics,Laptops,Sony,70504.51,55722.02,184
+PROD10777,Advanced Women's Clothing,Fashion,Women's Clothing,Zara,4136.82,3306.75,211
+PROD10778,Advanced Laptops,Electronics,Laptops,Samsung,13359.56,9317.17,28
+PROD10779,Ultra Footwear,Fashion,Footwear,Puma,2193.26,1500.52,422
+PROD10780,Classic Toys,Toys & Baby,Toys,Fisher-Price,4319.85,2983.94,200
+PROD10781,Compact Watches,Fashion,Watches,Nike,630.83,408.67,227
+PROD10782,Compact Toys,Toys & Baby,Toys,Hot Wheels,1352.57,957.69,499
+PROD10783,Everyday Mobiles,Electronics,Mobiles,Samsung,2805.47,1848.94,1
+PROD10784,Classic Bedding,Home & Kitchen,Bedding,Bajaj,884.43,486.63,96
+PROD10785,Premium Skincare,Beauty & Personal Care,Skincare,Lakme,342.44,223.16,380
+PROD10786,Pro Makeup,Beauty & Personal Care,Makeup,Nivea,598.22,397.8,84
+PROD10787,Essential Sportswear,Sports & Fitness,Sportswear,Cosco,1090.86,840.08,431
+PROD10788,Premium Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,1885.02,1383.29,124
+PROD10789,Ultra Watches,Fashion,Watches,Puma,408.32,240.85,251
+PROD10790,Everyday Smart Watches,Electronics,Smart Watches,Samsung,8549.49,5321.65,322
+PROD10791,Compact Bags,Fashion,Bags,Adidas,1504.72,982.24,30
+PROD10792,Signature Mobiles,Electronics,Mobiles,boAt,57806.57,37948.01,474
+PROD10793,Pro Makeup,Beauty & Personal Care,Makeup,Lakme,2387.11,1785.67,269
+PROD10794,Signature Toys,Toys & Baby,Toys,Fisher-Price,4450.59,3298.57,496
+PROD10795,Compact Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,1610.49,1281.24,39
+PROD10796,Deluxe Beverages,Grocery,Beverages,ITC,1021.68,669.04,96
+PROD10797,Essential Snacks,Grocery,Snacks,Tata,187.36,149.22,74
+PROD10798,Pro Mobiles,Electronics,Mobiles,Dell,54431.31,33637.57,210
+PROD10799,Pro Laptops,Electronics,Laptops,Apple,8748.74,4871.5,167
+PROD10800,Compact Appliances,Home & Kitchen,Appliances,Cello,8951.31,6669.94,440
+PROD10801,Essential Kids Clothing,Toys & Baby,Kids Clothing,Pampers,346.24,211.01,371
+PROD10802,Essential Tablets,Electronics,Tablets,Xiaomi,2906.27,1853.63,195
+PROD10803,Ultra Mobiles,Electronics,Mobiles,Sony,11633.86,7140.58,189
+PROD10804,Advanced Snacks,Grocery,Snacks,Nestle,74.91,46.56,32
+PROD10805,Signature Bedding,Home & Kitchen,Bedding,Bajaj,3409.34,2221.16,498
+PROD10806,Essential Furniture,Home & Kitchen,Furniture,IKEA,22508.05,16909.12,325
+PROD10807,Pro Snacks,Grocery,Snacks,Nestle,388.26,221.12,14
+PROD10808,Classic Smart Watches,Electronics,Smart Watches,Sony,15978.49,10698.55,362
+PROD10809,Premium Men's Clothing,Fashion,Men's Clothing,Levi's,2393.34,1776.66,369
+PROD10810,Advanced Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,316.72,247.17,132
+PROD10811,Deluxe Watches,Fashion,Watches,Levi's,628.16,426.9,200
+PROD10812,Pro Footwear,Fashion,Footwear,H&M,5518.06,3446.57,78
+PROD10813,Premium Smart Watches,Electronics,Smart Watches,OnePlus,3293.17,2099.58,295
+PROD10814,Essential Home Decor,Home & Kitchen,Home Decor,Bajaj,5601.61,3635.05,248
+PROD10815,Everyday Men's Clothing,Fashion,Men's Clothing,Levi's,864.7,545.22,412
+PROD10816,Compact Home Decor,Home & Kitchen,Home Decor,Bajaj,2549.54,1547.55,126
+PROD10817,Signature Home Decor,Home & Kitchen,Home Decor,IKEA,1587.03,1064.19,150
+PROD10818,Compact Watches,Fashion,Watches,H&M,711.8,421.67,314
+PROD10819,Everyday Beverages,Grocery,Beverages,Amul,42.76,27.56,173
+PROD10820,Everyday Appliances,Home & Kitchen,Appliances,Cello,388.97,271.65,29
+PROD10821,Advanced Footwear,Fashion,Footwear,Allen Solly,2179.54,1715.99,61
+PROD10822,Premium Makeup,Beauty & Personal Care,Makeup,Lakme,275.11,167.33,304
+PROD10823,Deluxe Outdoor Gear,Sports & Fitness,Outdoor Gear,Nike,12351.4,6913.03,254
+PROD10824,Signature Footwear,Fashion,Footwear,Levi's,976.83,608.14,53
+PROD10825,Essential Cameras,Electronics,Cameras,Xiaomi,19547.61,14964.21,451
+PROD10826,Essential Fragrances,Beauty & Personal Care,Fragrances,Nivea,2045.39,1283.73,141
+PROD10827,Premium Snacks,Grocery,Snacks,ITC,110.48,74.83,466
+PROD10828,Pro Cycling,Sports & Fitness,Cycling,Nike,13304.0,9141.62,76
+PROD10829,Premium Home Decor,Home & Kitchen,Home Decor,Cello,12624.66,8626.74,334
+PROD10830,Compact Smart Watches,Electronics,Smart Watches,Samsung,34545.93,23624.75,465
+PROD10831,Advanced Furniture,Home & Kitchen,Furniture,Philips,3273.11,1879.25,461
+PROD10832,Deluxe Laptops,Electronics,Laptops,Sony,2670.93,1796.87,291
+PROD10833,Signature Women's Clothing,Fashion,Women's Clothing,Levi's,603.89,414.9,361
+PROD10834,Classic Home Decor,Home & Kitchen,Home Decor,IKEA,1100.79,646.09,199
+PROD10835,Pro Watches,Fashion,Watches,Puma,1007.63,746.65,8
+PROD10836,Essential Haircare,Beauty & Personal Care,Haircare,Lakme,153.75,106.36,159
+PROD10837,Premium Sportswear,Sports & Fitness,Sportswear,Nivia,580.53,421.1,210
+PROD10838,Advanced Makeup,Beauty & Personal Care,Makeup,Himalaya,645.34,365.0,315
+PROD10839,Signature Appliances,Home & Kitchen,Appliances,Bajaj,7947.62,5841.33,327
+PROD10840,Essential Jewelry,Fashion,Jewelry,H&M,6994.67,4429.43,359
+PROD10841,Deluxe Women's Clothing,Fashion,Women's Clothing,Van Heusen,6472.99,4060.55,406
+PROD10842,Signature Cameras,Electronics,Cameras,Apple,4168.56,3067.48,259
+PROD10843,Pro Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,276.94,210.31,422
+PROD10844,Pro Office Supplies,Books & Stationery,Office Supplies,Classmate,1400.82,1031.4,5
+PROD10845,Essential Sportswear,Sports & Fitness,Sportswear,Nivia,9997.91,5715.94,257
+PROD10846,Everyday Men's Clothing,Fashion,Men's Clothing,Nike,577.44,374.88,334
+PROD10847,Premium Furniture,Home & Kitchen,Furniture,Cello,17549.14,12012.31,274
+PROD10848,Advanced Cycling,Sports & Fitness,Cycling,Cosco,1970.91,1526.16,326
+PROD10849,Advanced Laptops,Electronics,Laptops,boAt,3908.7,2263.01,445
+PROD10850,Ultra Cycling,Sports & Fitness,Cycling,Decathlon,9209.16,6478.16,458
+PROD10851,Classic Office Supplies,Books & Stationery,Office Supplies,Penguin,592.75,463.16,94
+PROD10852,Premium Laptops,Electronics,Laptops,Dell,18515.47,13204.75,108
+PROD10853,Compact Cycling,Sports & Fitness,Cycling,Decathlon,6749.02,5057.23,126
+PROD10854,Signature Laptops,Electronics,Laptops,HP,65412.25,43427.36,90
+PROD10855,Everyday Women's Clothing,Fashion,Women's Clothing,H&M,3200.45,2545.91,310
+PROD10856,Signature Haircare,Beauty & Personal Care,Haircare,L'Oreal,938.17,699.48,110
+PROD10857,Pro Packaged Food,Grocery,Packaged Food,Britannia,189.38,108.99,160
+PROD10858,Signature Haircare,Beauty & Personal Care,Haircare,L'Oreal,2882.46,2022.0,418
+PROD10859,Everyday Bags,Fashion,Bags,Zara,556.47,315.55,314
+PROD10860,Advanced Bags,Fashion,Bags,Levi's,4251.67,2441.59,372
+PROD10861,Everyday Smart Watches,Electronics,Smart Watches,Dell,12653.56,8549.76,414
+PROD10862,Deluxe Academic,Books & Stationery,Academic,HarperCollins,177.89,100.15,374
+PROD10863,Compact Laptops,Electronics,Laptops,Sony,21243.38,12264.95,373
+PROD10864,Classic Men's Clothing,Fashion,Men's Clothing,Van Heusen,7037.15,5403.05,179
+PROD10865,Ultra Packaged Food,Grocery,Packaged Food,Amul,290.78,204.54,420
+PROD10866,Advanced Appliances,Home & Kitchen,Appliances,Milton,303.84,186.15,220
+PROD10867,Ultra Baby Care,Toys & Baby,Baby Care,Pampers,215.6,133.77,259
+PROD10868,Premium Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,1080.41,599.5,410
+PROD10869,Ultra Bags,Fashion,Bags,Allen Solly,638.7,390.4,261
+PROD10870,Essential Footwear,Fashion,Footwear,H&M,882.89,513.89,146
+PROD10871,Premium Kids Clothing,Toys & Baby,Kids Clothing,Pampers,4707.94,3405.81,241
+PROD10872,Signature Makeup,Beauty & Personal Care,Makeup,Lakme,1146.28,693.76,164
+PROD10873,Essential Academic,Books & Stationery,Academic,Penguin,1195.84,702.72,407
+PROD10874,Essential Beverages,Grocery,Beverages,Amul,420.76,272.13,130
+PROD10875,Signature Skincare,Beauty & Personal Care,Skincare,L'Oreal,413.51,249.57,226
+PROD10876,Compact Non-Fiction,Books & Stationery,Non-Fiction,HarperCollins,143.19,79.57,4
+PROD10877,Classic Toys,Toys & Baby,Toys,Chicco,325.58,182.07,104
+PROD10878,Pro Men's Clothing,Fashion,Men's Clothing,H&M,1601.11,965.16,411
+PROD10879,Deluxe Non-Fiction,Books & Stationery,Non-Fiction,Classmate,641.44,405.72,372
+PROD10880,Ultra Skincare,Beauty & Personal Care,Skincare,Himalaya,2118.98,1270.55,497
+PROD10881,Premium Fiction,Books & Stationery,Fiction,Camlin,1004.89,639.85,120
+PROD10882,Ultra Footwear,Fashion,Footwear,H&M,7372.36,4765.91,145
+PROD10883,Deluxe Kids Clothing,Toys & Baby,Kids Clothing,Pampers,1140.01,828.23,260
+PROD10884,Deluxe Haircare,Beauty & Personal Care,Haircare,Mamaearth,159.36,117.9,79
+PROD10885,Compact Skincare,Beauty & Personal Care,Skincare,Himalaya,169.92,112.92,184
+PROD10886,Everyday Office Supplies,Books & Stationery,Office Supplies,HarperCollins,166.41,132.97,498
+PROD10887,Pro Fiction,Books & Stationery,Fiction,HarperCollins,1217.87,901.22,415
+PROD10888,Essential Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,2796.77,2109.86,215
+PROD10889,Advanced Bags,Fashion,Bags,Allen Solly,424.98,316.26,272
+PROD10890,Essential Office Supplies,Books & Stationery,Office Supplies,Camlin,582.72,369.28,25
+PROD10891,Essential Smart Watches,Electronics,Smart Watches,Samsung,74457.57,47817.54,412
+PROD10892,Signature Office Supplies,Books & Stationery,Office Supplies,Penguin,146.2,112.76,151
+PROD10893,Premium Smart Watches,Electronics,Smart Watches,Xiaomi,1167.96,764.03,271
+PROD10894,Everyday Smart Watches,Electronics,Smart Watches,Dell,1447.72,1043.31,392
+PROD10895,Pro Headphones,Electronics,Headphones,Sony,11812.59,8643.19,457
+PROD10896,Everyday Mobiles,Electronics,Mobiles,Apple,28052.28,21025.59,62
+PROD10897,Ultra Academic,Books & Stationery,Academic,HarperCollins,101.05,64.38,489
+PROD10898,Advanced Cameras,Electronics,Cameras,OnePlus,4003.39,2235.22,245
+PROD10899,Ultra Home Decor,Home & Kitchen,Home Decor,Cello,5585.52,3531.84,215
+PROD10900,Ultra Appliances,Home & Kitchen,Appliances,Philips,22471.37,15629.87,150
+PROD10901,Premium Non-Fiction,Books & Stationery,Non-Fiction,Camlin,307.88,224.04,300
+PROD10902,Premium Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,2612.11,1472.13,61
+PROD10903,Compact Home Decor,Home & Kitchen,Home Decor,Milton,251.64,194.43,236
+PROD10904,Signature Smart Watches,Electronics,Smart Watches,Apple,22904.11,18092.67,130
+PROD10905,Essential Haircare,Beauty & Personal Care,Haircare,Lakme,3085.25,2223.45,220
+PROD10906,Ultra Non-Fiction,Books & Stationery,Non-Fiction,Penguin,226.29,128.79,479
+PROD10907,Compact Headphones,Electronics,Headphones,Sony,15415.1,12211.11,408
+PROD10908,Essential Cameras,Electronics,Cameras,Samsung,1253.76,797.3,204
+PROD10909,Everyday Office Supplies,Books & Stationery,Office Supplies,Classmate,187.5,132.11,77
+PROD10910,Compact Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,685.75,462.35,188
+PROD10911,Advanced Skincare,Beauty & Personal Care,Skincare,Nivea,240.93,169.63,159
+PROD10912,Deluxe Smart Watches,Electronics,Smart Watches,Samsung,1544.56,1067.79,228
+PROD10913,Compact Sportswear,Sports & Fitness,Sportswear,Cosco,1806.44,1126.61,370
+PROD10914,Compact Appliances,Home & Kitchen,Appliances,Bajaj,14086.36,8125.4,59
+PROD10915,Ultra Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,2104.47,1665.61,166
+PROD10916,Deluxe Footwear,Fashion,Footwear,Puma,637.03,499.06,490
+PROD10917,Classic Appliances,Home & Kitchen,Appliances,Cello,935.34,664.74,104
+PROD10918,Everyday Staples,Grocery,Staples,Britannia,291.17,206.54,76
+PROD10919,Signature Mobiles,Electronics,Mobiles,Apple,31557.78,19475.13,213
+PROD10920,Pro Non-Fiction,Books & Stationery,Non-Fiction,Camlin,311.88,209.82,246
+PROD10921,Classic Home Decor,Home & Kitchen,Home Decor,Prestige,4864.87,3881.38,101
+PROD10922,Pro Office Supplies,Books & Stationery,Office Supplies,Classmate,349.5,255.16,155
+PROD10923,Deluxe Headphones,Electronics,Headphones,Dell,18097.71,13595.59,120
+PROD10924,Deluxe Footwear,Fashion,Footwear,Nike,775.0,518.6,194
+PROD10925,Premium Baby Care,Toys & Baby,Baby Care,Pampers,3750.5,2957.08,412
+PROD10926,Advanced Non-Fiction,Books & Stationery,Non-Fiction,Classmate,217.14,163.83,410
+PROD10927,Pro Tablets,Electronics,Tablets,OnePlus,29267.12,16619.52,465
+PROD10928,Ultra Outdoor Gear,Sports & Fitness,Outdoor Gear,Adidas,1606.05,952.48,91
+PROD10929,Advanced Women's Clothing,Fashion,Women's Clothing,Nike,723.82,562.72,369
+PROD10930,Classic Cameras,Electronics,Cameras,Sony,12032.37,7467.44,357
+PROD10931,Signature Makeup,Beauty & Personal Care,Makeup,Nivea,1099.07,698.88,363
+PROD10932,Deluxe Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,2483.99,1408.29,412
+PROD10933,Premium Skincare,Beauty & Personal Care,Skincare,Mamaearth,389.57,306.34,286
+PROD10934,Signature Footwear,Fashion,Footwear,Allen Solly,3327.62,2522.72,453
+PROD10935,Everyday Outdoor Gear,Sports & Fitness,Outdoor Gear,Adidas,951.97,536.22,393
+PROD10936,Advanced Footwear,Fashion,Footwear,H&M,3291.17,2169.19,187
+PROD10937,Pro Haircare,Beauty & Personal Care,Haircare,Nivea,2399.57,1838.27,482
+PROD10938,Signature Haircare,Beauty & Personal Care,Haircare,Nivea,2725.67,1984.28,116
+PROD10939,Compact Bags,Fashion,Bags,Zara,6062.92,4574.58,333
+PROD10940,Pro Home Decor,Home & Kitchen,Home Decor,Philips,10156.63,6547.29,24
+PROD10941,Ultra Smart Watches,Electronics,Smart Watches,Apple,9893.71,7631.64,300
+PROD10942,Essential Office Supplies,Books & Stationery,Office Supplies,Camlin,727.32,579.6,219
+PROD10943,Classic Cookware,Home & Kitchen,Cookware,IKEA,3322.83,2340.4,243
+PROD10944,Essential Makeup,Beauty & Personal Care,Makeup,Nivea,416.39,265.94,368
+PROD10945,Premium Furniture,Home & Kitchen,Furniture,Milton,13443.33,8629.53,286
+PROD10946,Compact Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,1995.51,1366.33,85
+PROD10947,Classic Women's Clothing,Fashion,Women's Clothing,Allen Solly,7502.23,5017.73,179
+PROD10948,Deluxe Men's Clothing,Fashion,Men's Clothing,Adidas,6377.06,4448.56,26
+PROD10949,Deluxe Makeup,Beauty & Personal Care,Makeup,Mamaearth,3365.27,1857.22,473
+PROD10950,Essential Academic,Books & Stationery,Academic,Classmate,174.16,137.42,497
+PROD10951,Deluxe Makeup,Beauty & Personal Care,Makeup,L'Oreal,1625.96,935.33,132
+PROD10952,Compact Headphones,Electronics,Headphones,Dell,8369.83,6064.4,478
+PROD10953,Ultra Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,322.98,203.26,61
+PROD10954,Essential Academic,Books & Stationery,Academic,Classmate,533.16,362.28,312
+PROD10955,Premium Haircare,Beauty & Personal Care,Haircare,Nivea,1334.72,874.07,359
+PROD10956,Deluxe Headphones,Electronics,Headphones,Sony,7553.92,5284.31,264
+PROD10957,Essential Beverages,Grocery,Beverages,ITC,1088.49,770.23,355
+PROD10958,Compact Men's Clothing,Fashion,Men's Clothing,Puma,5867.26,4196.26,394
+PROD10959,Advanced Footwear,Fashion,Footwear,Puma,5453.04,3855.39,171
+PROD10960,Ultra Office Supplies,Books & Stationery,Office Supplies,Classmate,1203.38,874.36,72
+PROD10961,Essential Academic,Books & Stationery,Academic,Penguin,206.54,158.65,270
+PROD10962,Classic Fragrances,Beauty & Personal Care,Fragrances,Lakme,780.03,525.34,364
+PROD10963,Classic Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,10156.52,7907.75,175
+PROD10964,Essential Men's Clothing,Fashion,Men's Clothing,Levi's,1076.31,848.05,92
+PROD10965,Signature Bags,Fashion,Bags,H&M,2998.41,2115.86,65
+PROD10966,Pro Headphones,Electronics,Headphones,Sony,62105.3,40166.65,76
+PROD10967,Essential Smart Watches,Electronics,Smart Watches,boAt,28160.37,15697.65,183
+PROD10968,Ultra Mobiles,Electronics,Mobiles,Apple,27715.44,20156.39,366
+PROD10969,Advanced Academic,Books & Stationery,Academic,Camlin,162.09,110.61,420
+PROD10970,Everyday Cookware,Home & Kitchen,Cookware,Milton,17738.5,10765.47,354
+PROD10971,Deluxe Fiction,Books & Stationery,Fiction,HarperCollins,359.36,235.91,126
+PROD10972,Classic Cycling,Sports & Fitness,Cycling,Cosco,405.02,261.27,308
+PROD10973,Deluxe Tablets,Electronics,Tablets,Xiaomi,28213.88,22107.33,436
+PROD10974,Signature Makeup,Beauty & Personal Care,Makeup,Mamaearth,1862.01,1091.59,141
+PROD10975,Premium Headphones,Electronics,Headphones,boAt,52003.13,37139.41,169
+PROD10976,Compact Academic,Books & Stationery,Academic,Camlin,128.58,87.4,477
+PROD10977,Deluxe Makeup,Beauty & Personal Care,Makeup,Mamaearth,866.47,678.37,361
+PROD10978,Signature Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,2359.56,1887.07,17
+PROD10979,Signature Headphones,Electronics,Headphones,Xiaomi,57476.21,42642.78,419
+PROD10980,Advanced Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,1705.37,1031.8,240
+PROD10981,Essential Snacks,Grocery,Snacks,Nestle,952.54,636.55,286
+PROD10982,Compact Bedding,Home & Kitchen,Bedding,Milton,1166.17,798.84,268
+PROD10983,Classic Non-Fiction,Books & Stationery,Non-Fiction,Camlin,195.56,150.34,47
+PROD10984,Pro Tablets,Electronics,Tablets,Apple,10260.89,7623.89,144
+PROD10985,Ultra Bags,Fashion,Bags,Allen Solly,5090.8,3516.92,311
+PROD10986,Deluxe Appliances,Home & Kitchen,Appliances,Milton,1005.86,749.83,240
+PROD10987,Essential Packaged Food,Grocery,Packaged Food,ITC,39.6,31.11,253
+PROD10988,Advanced Jewelry,Fashion,Jewelry,Allen Solly,4182.49,3108.33,135
+PROD10989,Pro Smart Watches,Electronics,Smart Watches,boAt,38801.3,27926.6,62
+PROD10990,Advanced Haircare,Beauty & Personal Care,Haircare,Himalaya,171.84,129.29,248
+PROD10991,Deluxe Appliances,Home & Kitchen,Appliances,Bajaj,22387.52,16348.76,218
+PROD10992,Essential Fitness Equipment,Sports & Fitness,Fitness Equipment,Cosco,3239.8,2094.03,164
+PROD10993,Premium Toys,Toys & Baby,Toys,Hot Wheels,4785.35,2945.54,140
+PROD10994,Pro Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,2528.27,1971.21,150
+PROD10995,Premium Beverages,Grocery,Beverages,Amul,148.85,113.35,452
+PROD10996,Premium Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,2117.55,1662.03,471
+PROD10997,Compact Mobiles,Electronics,Mobiles,Xiaomi,10467.81,8320.77,477
+PROD10998,Signature Fiction,Books & Stationery,Fiction,HarperCollins,658.52,399.83,262
+PROD10999,Ultra Mobiles,Electronics,Mobiles,boAt,1532.94,1223.12,61
+PROD11000,Ultra Jewelry,Fashion,Jewelry,Levi's,4897.62,3601.08,258
+PROD11001,Signature Home Decor,Home & Kitchen,Home Decor,Bajaj,336.54,266.74,402
+PROD11002,Deluxe Non-Fiction,Books & Stationery,Non-Fiction,HarperCollins,147.79,93.4,416
+PROD11003,Compact Mobiles,Electronics,Mobiles,Dell,2163.55,1510.35,89
+PROD11004,Classic Beverages,Grocery,Beverages,Tata,267.13,160.91,407
+PROD11005,Compact Appliances,Home & Kitchen,Appliances,Milton,1615.86,945.63,258
+PROD11006,Essential Furniture,Home & Kitchen,Furniture,Prestige,20059.36,12624.49,125
+PROD11007,Pro Mobiles,Electronics,Mobiles,Sony,3527.84,2528.69,92
+PROD11008,Signature Makeup,Beauty & Personal Care,Makeup,Mamaearth,872.32,547.75,339
+PROD11009,Essential Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,1604.44,1251.26,441
+PROD11010,Everyday Snacks,Grocery,Snacks,Tata,130.5,91.5,342
+PROD11011,Premium Laptops,Electronics,Laptops,Xiaomi,17156.92,13476.89,42
+PROD11012,Deluxe Mobiles,Electronics,Mobiles,Samsung,4628.84,3576.52,354
+PROD11013,Compact Watches,Fashion,Watches,H&M,3728.42,2733.32,263
+PROD11014,Deluxe Sportswear,Sports & Fitness,Sportswear,Nike,979.86,651.32,45
+PROD11015,Compact Fitness Equipment,Sports & Fitness,Fitness Equipment,Nike,8932.94,5017.94,92
+PROD11016,Premium Laptops,Electronics,Laptops,Xiaomi,7598.24,5348.28,97
+PROD11017,Classic Toys,Toys & Baby,Toys,Pampers,266.33,188.04,170
+PROD11018,Signature Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,2208.15,1362.11,68
+PROD11019,Signature Cycling,Sports & Fitness,Cycling,Decathlon,3722.36,2635.43,406
+PROD11020,Signature Non-Fiction,Books & Stationery,Non-Fiction,Penguin,265.04,149.22,21
+PROD11021,Compact Snacks,Grocery,Snacks,Amul,1170.02,661.84,282
+PROD11022,Deluxe Bedding,Home & Kitchen,Bedding,Prestige,10936.69,6233.5,145
+PROD11023,Advanced Women's Clothing,Fashion,Women's Clothing,H&M,850.92,540.71,371
+PROD11024,Everyday Footwear,Fashion,Footwear,Adidas,849.03,501.31,158
+PROD11025,Essential Makeup,Beauty & Personal Care,Makeup,Himalaya,723.7,472.65,254
+PROD11026,Pro Skincare,Beauty & Personal Care,Skincare,Mamaearth,320.42,190.64,430
+PROD11027,Premium Baby Care,Toys & Baby,Baby Care,Chicco,3118.86,1920.07,213
+PROD11028,Pro Mobiles,Electronics,Mobiles,Apple,5105.44,3281.6,242
+PROD11029,Classic Appliances,Home & Kitchen,Appliances,Philips,2091.07,1621.67,178
+PROD11030,Ultra Watches,Fashion,Watches,Zara,416.32,254.61,261
+PROD11031,Signature Footwear,Fashion,Footwear,Nike,2821.14,1987.89,26
+PROD11032,Signature Footwear,Fashion,Footwear,Adidas,1353.09,1031.63,470
+PROD11033,Ultra Smart Watches,Electronics,Smart Watches,Dell,3882.03,3043.8,394
+PROD11034,Essential Bags,Fashion,Bags,Nike,1067.71,787.36,172
+PROD11035,Signature Baby Care,Toys & Baby,Baby Care,Chicco,334.89,267.45,497
+PROD11036,Pro Laptops,Electronics,Laptops,Dell,1211.7,687.71,93
+PROD11037,Essential Men's Clothing,Fashion,Men's Clothing,Puma,4243.09,2406.16,236
+PROD11038,Advanced Mobiles,Electronics,Mobiles,Samsung,6589.44,4399.48,351
+PROD11039,Classic Tablets,Electronics,Tablets,Sony,51155.84,30837.56,493
+PROD11040,Pro Watches,Fashion,Watches,Allen Solly,3095.68,1744.42,141
+PROD11041,Compact Bags,Fashion,Bags,Zara,5155.56,3679.5,448
+PROD11042,Compact Haircare,Beauty & Personal Care,Haircare,Nivea,3272.09,2177.47,408
+PROD11043,Classic Bedding,Home & Kitchen,Bedding,Philips,1401.8,780.8,361
+PROD11044,Ultra Footwear,Fashion,Footwear,H&M,1099.14,864.24,207
+PROD11045,Ultra Watches,Fashion,Watches,Levi's,4814.58,3602.42,166
+PROD11046,Advanced Furniture,Home & Kitchen,Furniture,Prestige,2148.82,1604.08,419
+PROD11047,Advanced Home Decor,Home & Kitchen,Home Decor,Cello,2861.29,1848.5,325
+PROD11048,Essential Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,4240.19,2349.08,13
+PROD11049,Essential Smart Watches,Electronics,Smart Watches,Xiaomi,39105.0,24921.63,400
+PROD11050,Essential Fiction,Books & Stationery,Fiction,Camlin,239.74,143.93,251
+PROD11051,Essential Bags,Fashion,Bags,Allen Solly,4154.06,3238.49,436
+PROD11052,Compact Furniture,Home & Kitchen,Furniture,Prestige,663.69,431.49,223
+PROD11053,Premium Bedding,Home & Kitchen,Bedding,Bajaj,2824.52,1938.66,45
+PROD11054,Compact Fiction,Books & Stationery,Fiction,HarperCollins,1310.27,815.8,53
+PROD11055,Classic Headphones,Electronics,Headphones,Sony,36812.54,20942.25,50
+PROD11056,Pro Men's Clothing,Fashion,Men's Clothing,Puma,4660.47,3234.16,377
+PROD11057,Everyday Men's Clothing,Fashion,Men's Clothing,Van Heusen,1355.16,1051.97,129
+PROD11058,Premium Laptops,Electronics,Laptops,boAt,13905.7,9589.05,462
+PROD11059,Ultra Toys,Toys & Baby,Toys,Pampers,892.4,652.4,33
+PROD11060,Classic Cookware,Home & Kitchen,Cookware,Prestige,8527.7,5679.63,397
+PROD11061,Ultra Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,7990.09,4979.79,35
+PROD11062,Essential Cameras,Electronics,Cameras,Xiaomi,1605.29,1144.5,236
+PROD11063,Ultra Staples,Grocery,Staples,ITC,571.52,443.68,22
+PROD11064,Ultra Kids Clothing,Toys & Baby,Kids Clothing,Pampers,2151.17,1713.24,282
+PROD11065,Signature Tablets,Electronics,Tablets,boAt,2295.9,1766.79,161
+PROD11066,Essential Laptops,Electronics,Laptops,HP,25427.47,19506.06,497
+PROD11067,Essential Haircare,Beauty & Personal Care,Haircare,Nivea,351.42,279.37,431
+PROD11068,Advanced Smart Watches,Electronics,Smart Watches,Dell,2566.72,1688.54,282
+PROD11069,Signature Cycling,Sports & Fitness,Cycling,Decathlon,8944.18,5414.2,490
+PROD11070,Signature Makeup,Beauty & Personal Care,Makeup,Mamaearth,568.9,312.9,119
+PROD11071,Pro Skincare,Beauty & Personal Care,Skincare,Nivea,1010.27,777.77,154
+PROD11072,Premium Appliances,Home & Kitchen,Appliances,Philips,7586.91,4496.66,9
+PROD11073,Compact Bags,Fashion,Bags,H&M,337.49,185.94,287
+PROD11074,Pro Jewelry,Fashion,Jewelry,H&M,6964.18,4717.67,329
+PROD11075,Advanced Baby Care,Toys & Baby,Baby Care,Chicco,342.52,221.18,65
+PROD11076,Premium Appliances,Home & Kitchen,Appliances,IKEA,510.71,401.12,188
+PROD11077,Deluxe Women's Clothing,Fashion,Women's Clothing,Nike,431.21,329.4,277
+PROD11078,Deluxe Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,371.56,212.39,328
+PROD11079,Ultra Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,377.12,235.17,227
+PROD11080,Classic Academic,Books & Stationery,Academic,Penguin,126.0,78.59,152
+PROD11081,Advanced Home Decor,Home & Kitchen,Home Decor,Bajaj,1156.82,710.14,269
+PROD11082,Premium Cameras,Electronics,Cameras,Apple,14103.64,8857.81,187
+PROD11083,Everyday Snacks,Grocery,Snacks,Britannia,397.2,224.54,370
+PROD11084,Premium Makeup,Beauty & Personal Care,Makeup,L'Oreal,2103.5,1590.32,226
+PROD11085,Pro Furniture,Home & Kitchen,Furniture,IKEA,2730.09,1690.81,373
+PROD11086,Signature Cookware,Home & Kitchen,Cookware,Prestige,11869.51,9117.52,122
+PROD11087,Deluxe Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,326.39,209.66,266
+PROD11088,Signature Mobiles,Electronics,Mobiles,Samsung,47922.97,36184.67,419
+PROD11089,Essential Footwear,Fashion,Footwear,Puma,6754.54,4389.97,367
+PROD11090,Advanced Non-Fiction,Books & Stationery,Non-Fiction,Camlin,744.63,559.16,315
+PROD11091,Essential Staples,Grocery,Staples,Amul,297.34,181.02,316
+PROD11092,Advanced Footwear,Fashion,Footwear,Zara,5425.04,3194.0,354
+PROD11093,Signature Laptops,Electronics,Laptops,Xiaomi,10253.17,6187.2,213
+PROD11094,Advanced Office Supplies,Books & Stationery,Office Supplies,HarperCollins,168.03,113.77,228
+PROD11095,Ultra Makeup,Beauty & Personal Care,Makeup,L'Oreal,2215.34,1518.1,302
+PROD11096,Compact Cameras,Electronics,Cameras,Apple,1284.83,807.76,398
+PROD11097,Everyday Non-Fiction,Books & Stationery,Non-Fiction,Camlin,706.36,560.58,389
+PROD11098,Pro Appliances,Home & Kitchen,Appliances,Cello,1712.68,1305.36,435
+PROD11099,Pro Furniture,Home & Kitchen,Furniture,Philips,506.02,357.91,430
+PROD11100,Classic Home Decor,Home & Kitchen,Home Decor,Cello,12286.55,8014.36,62
+PROD11101,Premium Baby Care,Toys & Baby,Baby Care,Pampers,793.63,516.91,49
+PROD11102,Compact Bedding,Home & Kitchen,Bedding,Cello,2747.77,1681.99,46
+PROD11103,Advanced Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,407.89,314.32,288
+PROD11104,Premium Fiction,Books & Stationery,Fiction,Penguin,217.8,155.52,165
+PROD11105,Advanced Packaged Food,Grocery,Packaged Food,Nestle,764.29,423.38,108
+PROD11106,Premium Watches,Fashion,Watches,H&M,2094.58,1563.19,401
+PROD11107,Classic Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,214.52,148.91,136
+PROD11108,Classic Office Supplies,Books & Stationery,Office Supplies,Penguin,209.93,146.63,218
+PROD11109,Signature Packaged Food,Grocery,Packaged Food,Nestle,74.01,41.68,492
+PROD11110,Classic Baby Care,Toys & Baby,Baby Care,Chicco,952.53,694.48,181
+PROD11111,Everyday Smart Watches,Electronics,Smart Watches,Dell,13477.94,7445.5,432
+PROD11112,Advanced Mobiles,Electronics,Mobiles,Xiaomi,15188.99,10984.12,130
+PROD11113,Essential Men's Clothing,Fashion,Men's Clothing,Levi's,480.47,285.15,142
+PROD11114,Premium Laptops,Electronics,Laptops,OnePlus,1055.46,836.29,217
+PROD11115,Classic Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,616.51,464.51,484
+PROD11116,Everyday Academic,Books & Stationery,Academic,Classmate,982.61,741.46,274
+PROD11117,Premium Furniture,Home & Kitchen,Furniture,Cello,2630.6,1775.61,490
+PROD11118,Ultra Furniture,Home & Kitchen,Furniture,Cello,403.0,271.61,119
+PROD11119,Deluxe Fiction,Books & Stationery,Fiction,Classmate,148.79,100.53,162
+PROD11120,Everyday Cookware,Home & Kitchen,Cookware,Cello,459.37,336.9,42
+PROD11121,Ultra Footwear,Fashion,Footwear,Puma,3201.05,2063.72,228
+PROD11122,Compact Headphones,Electronics,Headphones,Xiaomi,17418.55,13477.3,142
+PROD11123,Deluxe Fitness Equipment,Sports & Fitness,Fitness Equipment,Nike,1170.72,792.01,189
+PROD11124,Pro Cookware,Home & Kitchen,Cookware,IKEA,1054.04,661.47,354
+PROD11125,Deluxe Bedding,Home & Kitchen,Bedding,Cello,11284.95,8642.67,324
+PROD11126,Signature Mobiles,Electronics,Mobiles,Samsung,31631.38,20312.07,365
+PROD11127,Signature Mobiles,Electronics,Mobiles,Xiaomi,18432.64,12988.77,64
+PROD11128,Advanced Bedding,Home & Kitchen,Bedding,IKEA,2672.92,1680.65,26
+PROD11129,Ultra Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,1930.2,1158.09,55
+PROD11130,Pro Watches,Fashion,Watches,Puma,2148.92,1598.59,471
+PROD11131,Everyday Smart Watches,Electronics,Smart Watches,boAt,2944.4,1677.51,323
+PROD11132,Classic Skincare,Beauty & Personal Care,Skincare,Himalaya,223.08,134.09,346
+PROD11133,Essential Non-Fiction,Books & Stationery,Non-Fiction,Classmate,205.03,135.98,454
+PROD11134,Signature Furniture,Home & Kitchen,Furniture,Cello,1938.0,1532.35,472
+PROD11135,Pro Jewelry,Fashion,Jewelry,Levi's,2348.01,1766.65,327
+PROD11136,Ultra Laptops,Electronics,Laptops,OnePlus,33449.19,23902.63,412
+PROD11137,Everyday Packaged Food,Grocery,Packaged Food,ITC,74.11,50.67,14
+PROD11138,Advanced Furniture,Home & Kitchen,Furniture,Cello,2226.98,1641.45,218
+PROD11139,Ultra Makeup,Beauty & Personal Care,Makeup,Mamaearth,474.86,266.46,122
+PROD11140,Everyday Cameras,Electronics,Cameras,Sony,68584.14,45703.23,320
+PROD11141,Compact Mobiles,Electronics,Mobiles,Xiaomi,89334.15,62708.05,474
+PROD11142,Premium Tablets,Electronics,Tablets,Sony,38354.09,21646.34,29
+PROD11143,Everyday Cameras,Electronics,Cameras,boAt,38579.29,22527.95,233
+PROD11144,Essential Tablets,Electronics,Tablets,Sony,40058.69,29513.83,159
+PROD11145,Advanced Office Supplies,Books & Stationery,Office Supplies,Penguin,146.95,85.23,238
+PROD11146,Everyday Mobiles,Electronics,Mobiles,HP,4455.98,3007.66,16
+PROD11147,Everyday Toys,Toys & Baby,Toys,Chicco,4508.19,3539.03,413
+PROD11148,Signature Cycling,Sports & Fitness,Cycling,Nivia,1867.24,1468.47,187
+PROD11149,Compact Bags,Fashion,Bags,Levi's,855.1,497.87,282
+PROD11150,Advanced Jewelry,Fashion,Jewelry,Van Heusen,704.89,416.47,334
+PROD11151,Everyday Academic,Books & Stationery,Academic,Camlin,108.49,59.82,364
+PROD11152,Classic Fragrances,Beauty & Personal Care,Fragrances,Himalaya,166.84,124.04,316
+PROD11153,Deluxe Packaged Food,Grocery,Packaged Food,Tata,515.28,326.21,332
+PROD11154,Premium Men's Clothing,Fashion,Men's Clothing,Puma,2062.77,1288.06,156
+PROD11155,Essential Office Supplies,Books & Stationery,Office Supplies,Classmate,155.94,102.72,71
+PROD11156,Classic Academic,Books & Stationery,Academic,Classmate,184.68,133.9,35
+PROD11157,Essential Appliances,Home & Kitchen,Appliances,Prestige,2134.64,1545.14,76
+PROD11158,Compact Smart Watches,Electronics,Smart Watches,boAt,62302.31,39834.28,357
+PROD11159,Everyday Makeup,Beauty & Personal Care,Makeup,Lakme,196.49,143.89,116
+PROD11160,Ultra Skincare,Beauty & Personal Care,Skincare,Lakme,2697.79,2010.51,189
+PROD11161,Signature Bedding,Home & Kitchen,Bedding,Milton,928.82,644.38,200
+PROD11162,Ultra Bedding,Home & Kitchen,Bedding,IKEA,5882.59,4695.66,112
+PROD11163,Classic Fragrances,Beauty & Personal Care,Fragrances,Nivea,215.6,157.65,217
+PROD11164,Premium Haircare,Beauty & Personal Care,Haircare,Mamaearth,1721.85,948.81,353
+PROD11165,Essential Smart Watches,Electronics,Smart Watches,boAt,2322.24,1316.91,493
+PROD11166,Premium Footwear,Fashion,Footwear,H&M,391.03,236.57,42
+PROD11167,Essential Makeup,Beauty & Personal Care,Makeup,Himalaya,2719.68,1936.02,124
+PROD11168,Pro Tablets,Electronics,Tablets,boAt,8618.4,6312.44,451
+PROD11169,Pro Bags,Fashion,Bags,Van Heusen,3592.49,2320.08,284
+PROD11170,Advanced Watches,Fashion,Watches,Allen Solly,5261.78,3111.11,25
+PROD11171,Deluxe Headphones,Electronics,Headphones,boAt,38440.98,27081.88,160
+PROD11172,Classic Smart Watches,Electronics,Smart Watches,OnePlus,1173.9,911.82,35
+PROD11173,Pro Bags,Fashion,Bags,Van Heusen,4010.46,2437.28,341
+PROD11174,Ultra Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,2914.42,1921.51,121
+PROD11175,Essential Snacks,Grocery,Snacks,Tata,1010.02,699.36,221
+PROD11176,Everyday Baby Care,Toys & Baby,Baby Care,Fisher-Price,379.44,264.47,161
+PROD11177,Deluxe Watches,Fashion,Watches,Zara,720.65,447.63,394
+PROD11178,Premium Cookware,Home & Kitchen,Cookware,IKEA,1380.54,942.15,94
+PROD11179,Deluxe Makeup,Beauty & Personal Care,Makeup,L'Oreal,188.43,122.84,197
+PROD11180,Signature Cycling,Sports & Fitness,Cycling,Adidas,1613.28,1077.5,425
+PROD11181,Deluxe Smart Watches,Electronics,Smart Watches,Dell,6071.86,4066.28,8
+PROD11182,Everyday Cycling,Sports & Fitness,Cycling,Cosco,11403.17,7104.42,174
+PROD11183,Ultra Men's Clothing,Fashion,Men's Clothing,Adidas,3686.17,2104.98,115
+PROD11184,Everyday Laptops,Electronics,Laptops,Dell,2479.12,1366.13,449
+PROD11185,Compact Laptops,Electronics,Laptops,Sony,7123.94,4247.0,2
+PROD11186,Classic Sportswear,Sports & Fitness,Sportswear,Decathlon,12372.54,8516.21,406
+PROD11187,Advanced Men's Clothing,Fashion,Men's Clothing,H&M,748.46,451.06,151
+PROD11188,Essential Makeup,Beauty & Personal Care,Makeup,Nivea,2039.02,1203.46,129
+PROD11189,Advanced Fragrances,Beauty & Personal Care,Fragrances,Nivea,3440.96,2411.69,417
+PROD11190,Ultra Women's Clothing,Fashion,Women's Clothing,Allen Solly,509.85,352.16,302
+PROD11191,Premium Tablets,Electronics,Tablets,Dell,34819.34,27709.08,376
+PROD11192,Compact Snacks,Grocery,Snacks,Tata,151.73,89.96,426
+PROD11193,Compact Bags,Fashion,Bags,Zara,6477.05,4667.26,443
+PROD11194,Pro Fiction,Books & Stationery,Fiction,Classmate,680.06,524.41,391
+PROD11195,Pro Tablets,Electronics,Tablets,Apple,1452.69,1041.43,40
+PROD11196,Advanced Bedding,Home & Kitchen,Bedding,Philips,6679.82,3985.79,497
+PROD11197,Advanced Fragrances,Beauty & Personal Care,Fragrances,Lakme,175.48,122.88,302
+PROD11198,Everyday Staples,Grocery,Staples,ITC,33.93,20.53,345
+PROD11199,Advanced Cookware,Home & Kitchen,Cookware,Prestige,1915.4,1057.98,82
+PROD11200,Essential Bags,Fashion,Bags,Van Heusen,2937.25,2209.18,14
+PROD11201,Ultra Headphones,Electronics,Headphones,Sony,22134.58,16012.09,223
+PROD11202,Classic Bags,Fashion,Bags,Allen Solly,1011.02,601.07,112
+PROD11203,Signature Laptops,Electronics,Laptops,boAt,79064.04,47660.02,395
+PROD11204,Pro Packaged Food,Grocery,Packaged Food,Tata,272.51,214.18,174
+PROD11205,Everyday Bedding,Home & Kitchen,Bedding,Cello,1493.11,1166.72,38
+PROD11206,Compact Packaged Food,Grocery,Packaged Food,Nestle,243.13,193.68,463
+PROD11207,Signature Fragrances,Beauty & Personal Care,Fragrances,Nivea,2011.43,1178.52,134
+PROD11208,Advanced Appliances,Home & Kitchen,Appliances,Prestige,1784.7,1118.07,196
+PROD11209,Deluxe Packaged Food,Grocery,Packaged Food,ITC,691.26,542.75,118
+PROD11210,Classic Toys,Toys & Baby,Toys,Hot Wheels,1798.93,1346.64,370
+PROD11211,Classic Jewelry,Fashion,Jewelry,Levi's,305.5,203.89,329
+PROD11212,Deluxe Tablets,Electronics,Tablets,Sony,3372.75,2212.71,47
+PROD11213,Essential Bags,Fashion,Bags,Adidas,7091.11,4124.15,184
+PROD11214,Deluxe Footwear,Fashion,Footwear,Adidas,808.88,565.0,351
+PROD11215,Advanced Bags,Fashion,Bags,Levi's,337.43,242.84,353
+PROD11216,Everyday Fragrances,Beauty & Personal Care,Fragrances,Nivea,2370.6,1671.98,419
+PROD11217,Compact Men's Clothing,Fashion,Men's Clothing,Allen Solly,1722.94,1089.08,196
+PROD11218,Premium Kids Clothing,Toys & Baby,Kids Clothing,Pampers,1864.78,1276.05,447
+PROD11219,Compact Appliances,Home & Kitchen,Appliances,Prestige,6213.29,4773.68,115
+PROD11220,Everyday Furniture,Home & Kitchen,Furniture,Bajaj,5778.92,3919.65,340
+PROD11221,Advanced Sportswear,Sports & Fitness,Sportswear,Nivia,1732.89,974.91,267
+PROD11222,Classic Furniture,Home & Kitchen,Furniture,Cello,963.19,727.57,472
+PROD11223,Pro Furniture,Home & Kitchen,Furniture,Bajaj,8962.58,6750.43,63
+PROD11224,Everyday Home Decor,Home & Kitchen,Home Decor,Bajaj,392.9,239.04,344
+PROD11225,Signature Furniture,Home & Kitchen,Furniture,Prestige,373.46,263.73,65
+PROD11226,Essential Watches,Fashion,Watches,Adidas,646.26,484.73,353
+PROD11227,Advanced Office Supplies,Books & Stationery,Office Supplies,Camlin,346.71,210.71,285
+PROD11228,Ultra Sportswear,Sports & Fitness,Sportswear,Decathlon,8296.38,5917.8,55
+PROD11229,Compact Beverages,Grocery,Beverages,Nestle,60.43,36.38,465
+PROD11230,Essential Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,4389.4,2975.35,215
+PROD11231,Compact Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,10147.11,7119.92,153
+PROD11232,Essential Office Supplies,Books & Stationery,Office Supplies,Classmate,107.98,83.82,487
+PROD11233,Pro Fiction,Books & Stationery,Fiction,HarperCollins,133.27,104.13,401
+PROD11234,Premium Mobiles,Electronics,Mobiles,boAt,6000.92,4755.64,74
+PROD11235,Premium Staples,Grocery,Staples,Britannia,712.75,472.96,427
+PROD11236,Advanced Academic,Books & Stationery,Academic,Penguin,239.56,187.5,50
+PROD11237,Classic Bedding,Home & Kitchen,Bedding,Philips,857.96,610.56,499
+PROD11238,Premium Staples,Grocery,Staples,Tata,36.64,26.33,295
+PROD11239,Deluxe Sportswear,Sports & Fitness,Sportswear,Nivia,1465.5,998.21,113
+PROD11240,Deluxe Tablets,Electronics,Tablets,Dell,1595.78,1230.96,127
+PROD11241,Classic Cycling,Sports & Fitness,Cycling,Nike,7976.66,6319.68,222
+PROD11242,Classic Academic,Books & Stationery,Academic,HarperCollins,274.68,165.12,367
+PROD11243,Essential Laptops,Electronics,Laptops,OnePlus,4125.91,2646.14,359
+PROD11244,Deluxe Watches,Fashion,Watches,H&M,7395.2,4937.83,362
+PROD11245,Deluxe Makeup,Beauty & Personal Care,Makeup,Nivea,1645.37,1154.38,466
+PROD11246,Signature Beverages,Grocery,Beverages,Britannia,163.82,111.77,149
+PROD11247,Essential Headphones,Electronics,Headphones,OnePlus,845.92,547.49,487
+PROD11248,Essential Bedding,Home & Kitchen,Bedding,Philips,2808.71,1844.9,401
+PROD11249,Everyday Men's Clothing,Fashion,Men's Clothing,Levi's,1946.06,1441.07,327
+PROD11250,Pro Staples,Grocery,Staples,Amul,76.21,57.56,291
+PROD11251,Deluxe Makeup,Beauty & Personal Care,Makeup,L'Oreal,707.67,507.8,171
+PROD11252,Premium Women's Clothing,Fashion,Women's Clothing,H&M,796.49,539.03,389
+PROD11253,Compact Men's Clothing,Fashion,Men's Clothing,Van Heusen,6193.01,3701.51,103
+PROD11254,Signature Tablets,Electronics,Tablets,Dell,1120.84,669.34,299
+PROD11255,Pro Watches,Fashion,Watches,Levi's,1657.84,1250.53,128
+PROD11256,Essential Skincare,Beauty & Personal Care,Skincare,Nivea,532.24,409.51,206
+PROD11257,Essential Snacks,Grocery,Snacks,Britannia,56.07,34.46,106
+PROD11258,Pro Cameras,Electronics,Cameras,Samsung,3261.15,2368.65,113
+PROD11259,Advanced Appliances,Home & Kitchen,Appliances,Bajaj,1538.66,1069.14,231
+PROD11260,Classic Mobiles,Electronics,Mobiles,Samsung,30947.31,19468.63,36
+PROD11261,Advanced Men's Clothing,Fashion,Men's Clothing,Van Heusen,1292.2,835.11,8
+PROD11262,Advanced Bags,Fashion,Bags,Levi's,1660.42,1105.18,195
+PROD11263,Everyday Laptops,Electronics,Laptops,Xiaomi,2925.45,2127.33,431
+PROD11264,Advanced Skincare,Beauty & Personal Care,Skincare,Nivea,2492.46,1769.91,353
+PROD11265,Deluxe Staples,Grocery,Staples,Nestle,941.14,642.12,246
+PROD11266,Signature Mobiles,Electronics,Mobiles,Apple,28428.02,20842.98,327
+PROD11267,Deluxe Headphones,Electronics,Headphones,Samsung,8039.26,5626.06,90
+PROD11268,Classic Appliances,Home & Kitchen,Appliances,Cello,20109.03,15818.46,52
+PROD11269,Premium Smart Watches,Electronics,Smart Watches,Sony,3596.82,2467.15,355
+PROD11270,Everyday Kids Clothing,Toys & Baby,Kids Clothing,Chicco,4200.67,2388.64,170
+PROD11271,Essential Mobiles,Electronics,Mobiles,HP,12868.7,7473.94,293
+PROD11272,Everyday Haircare,Beauty & Personal Care,Haircare,Lakme,578.83,445.08,84
+PROD11273,Deluxe Cameras,Electronics,Cameras,Samsung,6456.79,3776.78,231
+PROD11274,Classic Haircare,Beauty & Personal Care,Haircare,Nivea,2600.22,2004.66,193
+PROD11275,Essential Bags,Fashion,Bags,H&M,3013.92,1934.06,321
+PROD11276,Classic Packaged Food,Grocery,Packaged Food,ITC,272.18,184.53,379
+PROD11277,Pro Appliances,Home & Kitchen,Appliances,Bajaj,10371.9,8240.8,73
+PROD11278,Classic Jewelry,Fashion,Jewelry,Adidas,1012.41,808.51,39
+PROD11279,Classic Cameras,Electronics,Cameras,Apple,4923.22,3720.02,156
+PROD11280,Essential Furniture,Home & Kitchen,Furniture,Bajaj,1827.72,1302.32,385
+PROD11281,Essential Men's Clothing,Fashion,Men's Clothing,Nike,403.37,278.39,269
+PROD11282,Ultra Office Supplies,Books & Stationery,Office Supplies,Penguin,291.7,162.8,282
+PROD11283,Premium Fiction,Books & Stationery,Fiction,Classmate,542.13,431.69,359
+PROD11284,Pro Fiction,Books & Stationery,Fiction,Penguin,333.75,212.21,418
+PROD11285,Advanced Outdoor Gear,Sports & Fitness,Outdoor Gear,Nike,708.84,474.33,207
+PROD11286,Everyday Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,2994.85,2135.48,496
+PROD11287,Pro Women's Clothing,Fashion,Women's Clothing,Zara,823.9,528.43,367
+PROD11288,Advanced Toys,Toys & Baby,Toys,Hot Wheels,1957.25,1099.73,112
+PROD11289,Signature Cookware,Home & Kitchen,Cookware,IKEA,14519.28,10349.08,296
+PROD11290,Premium Cycling,Sports & Fitness,Cycling,Nivia,933.53,676.32,268
+PROD11291,Essential Non-Fiction,Books & Stationery,Non-Fiction,Penguin,512.74,354.73,272
+PROD11292,Signature Haircare,Beauty & Personal Care,Haircare,Nivea,211.86,140.32,294
+PROD11293,Classic Non-Fiction,Books & Stationery,Non-Fiction,Classmate,239.77,162.9,255
+PROD11294,Premium Cameras,Electronics,Cameras,Xiaomi,873.83,698.67,306
+PROD11295,Signature Women's Clothing,Fashion,Women's Clothing,Zara,2386.64,1754.85,55
+PROD11296,Ultra Outdoor Gear,Sports & Fitness,Outdoor Gear,Cosco,1007.91,659.11,490
+PROD11297,Everyday Skincare,Beauty & Personal Care,Skincare,Himalaya,271.42,191.92,182
+PROD11298,Deluxe Packaged Food,Grocery,Packaged Food,Amul,43.13,24.34,268
+PROD11299,Deluxe Haircare,Beauty & Personal Care,Haircare,Mamaearth,2561.11,1750.62,356
+PROD11300,Essential Watches,Fashion,Watches,Adidas,5458.72,3746.29,342
+PROD11301,Ultra Cameras,Electronics,Cameras,Xiaomi,1936.67,1187.65,347
+PROD11302,Advanced Smart Watches,Electronics,Smart Watches,Sony,42430.69,26768.14,193
+PROD11303,Signature Cameras,Electronics,Cameras,HP,875.58,590.4,192
+PROD11304,Signature Skincare,Beauty & Personal Care,Skincare,Nivea,1291.92,997.69,127
+PROD11305,Classic Tablets,Electronics,Tablets,Samsung,1744.26,1220.81,122
+PROD11306,Essential Women's Clothing,Fashion,Women's Clothing,Adidas,1112.92,766.04,36
+PROD11307,Classic Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,304.39,167.46,330
+PROD11308,Deluxe Cameras,Electronics,Cameras,boAt,14084.67,10682.49,4
+PROD11309,Signature Cookware,Home & Kitchen,Cookware,IKEA,3998.4,2572.06,493
+PROD11310,Classic Watches,Fashion,Watches,Zara,1397.19,821.78,419
+PROD11311,Essential Smart Watches,Electronics,Smart Watches,OnePlus,1063.6,809.37,222
+PROD11312,Premium Skincare,Beauty & Personal Care,Skincare,Himalaya,315.09,249.75,335
+PROD11313,Compact Jewelry,Fashion,Jewelry,Van Heusen,1725.16,958.44,64
+PROD11314,Classic Footwear,Fashion,Footwear,Van Heusen,949.47,535.49,187
+PROD11315,Signature Bags,Fashion,Bags,Levi's,2404.93,1508.13,142
+PROD11316,Advanced Watches,Fashion,Watches,Nike,333.4,185.57,345
+PROD11317,Premium Laptops,Electronics,Laptops,Xiaomi,1101.53,743.28,487
+PROD11318,Pro Fragrances,Beauty & Personal Care,Fragrances,Nivea,444.9,271.26,311
+PROD11319,Everyday Mobiles,Electronics,Mobiles,OnePlus,2472.13,1851.47,409
+PROD11320,Classic Packaged Food,Grocery,Packaged Food,ITC,43.18,24.43,251
+PROD11321,Deluxe Skincare,Beauty & Personal Care,Skincare,Mamaearth,2969.44,2144.7,318
+PROD11322,Premium Beverages,Grocery,Beverages,Britannia,498.46,322.76,485
+PROD11323,Pro Smart Watches,Electronics,Smart Watches,Dell,2321.66,1349.69,78
+PROD11324,Deluxe Jewelry,Fashion,Jewelry,Nike,2532.77,1669.73,131
+PROD11325,Deluxe Watches,Fashion,Watches,Zara,644.23,479.76,154
+PROD11326,Classic Men's Clothing,Fashion,Men's Clothing,Nike,2248.91,1670.27,141
+PROD11327,Signature Men's Clothing,Fashion,Men's Clothing,Adidas,619.76,418.69,56
+PROD11328,Pro Toys,Toys & Baby,Toys,Hot Wheels,189.14,151.09,250
+PROD11329,Deluxe Mobiles,Electronics,Mobiles,HP,3921.19,2331.35,335
+PROD11330,Ultra Makeup,Beauty & Personal Care,Makeup,Mamaearth,2789.15,2106.18,108
+PROD11331,Compact Furniture,Home & Kitchen,Furniture,Bajaj,577.7,453.13,298
+PROD11332,Deluxe Fiction,Books & Stationery,Fiction,Camlin,1119.23,890.52,167
+PROD11333,Everyday Fitness Equipment,Sports & Fitness,Fitness Equipment,Adidas,3619.02,2634.02,37
+PROD11334,Compact Headphones,Electronics,Headphones,Apple,13886.99,8282.77,157
+PROD11335,Classic Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,2080.84,1515.45,71
+PROD11336,Premium Office Supplies,Books & Stationery,Office Supplies,HarperCollins,112.7,63.38,281
+PROD11337,Advanced Skincare,Beauty & Personal Care,Skincare,Mamaearth,1971.38,1210.98,473
+PROD11338,Premium Jewelry,Fashion,Jewelry,Van Heusen,2098.59,1563.79,197
+PROD11339,Compact Laptops,Electronics,Laptops,Apple,1145.52,746.46,193
+PROD11340,Premium Mobiles,Electronics,Mobiles,Sony,985.04,681.62,462
+PROD11341,Everyday Staples,Grocery,Staples,Britannia,130.18,103.27,235
+PROD11342,Classic Furniture,Home & Kitchen,Furniture,Philips,289.67,215.57,203
+PROD11343,Classic Outdoor Gear,Sports & Fitness,Outdoor Gear,Adidas,2522.33,1691.48,334
+PROD11344,Everyday Men's Clothing,Fashion,Men's Clothing,H&M,7377.63,5783.96,173
+PROD11345,Ultra Fiction,Books & Stationery,Fiction,Camlin,345.83,261.75,118
+PROD11346,Signature Cameras,Electronics,Cameras,OnePlus,48611.6,37747.57,285
+PROD11347,Signature Fiction,Books & Stationery,Fiction,Camlin,530.46,371.72,457
+PROD11348,Compact Mobiles,Electronics,Mobiles,Apple,6641.61,5206.77,340
+PROD11349,Everyday Baby Care,Toys & Baby,Baby Care,Fisher-Price,196.64,110.62,453
+PROD11350,Advanced Home Decor,Home & Kitchen,Home Decor,IKEA,463.98,358.7,397
+PROD11351,Everyday Baby Care,Toys & Baby,Baby Care,Chicco,154.58,99.47,359
+PROD11352,Classic Fiction,Books & Stationery,Fiction,Classmate,531.62,413.23,118
+PROD11353,Pro Women's Clothing,Fashion,Women's Clothing,Levi's,833.39,461.74,293
+PROD11354,Advanced Smart Watches,Electronics,Smart Watches,Dell,2351.62,1649.56,113
+PROD11355,Essential Laptops,Electronics,Laptops,Samsung,3881.51,2604.84,431
+PROD11356,Pro Fiction,Books & Stationery,Fiction,Classmate,116.45,70.49,227
+PROD11357,Deluxe Appliances,Home & Kitchen,Appliances,IKEA,2941.51,2264.71,90
+PROD11358,Ultra Mobiles,Electronics,Mobiles,HP,2035.79,1129.96,13
+PROD11359,Everyday Appliances,Home & Kitchen,Appliances,Prestige,8368.32,5671.22,427
+PROD11360,Ultra Haircare,Beauty & Personal Care,Haircare,L'Oreal,785.42,511.34,63
+PROD11361,Premium Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,1078.53,676.69,148
+PROD11362,Everyday Mobiles,Electronics,Mobiles,OnePlus,1294.77,1017.78,155
+PROD11363,Essential Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,1512.45,1138.44,123
+PROD11364,Essential Cameras,Electronics,Cameras,HP,18426.65,14115.77,498
+PROD11365,Premium Women's Clothing,Fashion,Women's Clothing,Zara,6297.9,4045.17,241
+PROD11366,Signature Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,537.94,358.54,338
+PROD11367,Premium Headphones,Electronics,Headphones,HP,12217.46,8840.71,133
+PROD11368,Deluxe Kids Clothing,Toys & Baby,Kids Clothing,Pampers,3236.62,2188.58,265
+PROD11369,Classic Bedding,Home & Kitchen,Bedding,Bajaj,783.9,543.32,51
+PROD11370,Essential Cookware,Home & Kitchen,Cookware,Milton,567.51,378.1,23
+PROD11371,Compact Toys,Toys & Baby,Toys,Pampers,682.85,539.17,268
+PROD11372,Pro Skincare,Beauty & Personal Care,Skincare,Nivea,617.72,473.9,264
+PROD11373,Ultra Office Supplies,Books & Stationery,Office Supplies,HarperCollins,1321.43,1055.31,468
+PROD11374,Advanced Mobiles,Electronics,Mobiles,OnePlus,1392.39,1052.37,215
+PROD11375,Signature Cycling,Sports & Fitness,Cycling,Nike,1124.91,716.97,169
+PROD11376,Pro Bags,Fashion,Bags,Allen Solly,5843.84,4445.45,265
+PROD11377,Ultra Makeup,Beauty & Personal Care,Makeup,Mamaearth,198.05,124.09,203
+PROD11378,Signature Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,314.17,214.96,307
+PROD11379,Signature Laptops,Electronics,Laptops,Apple,54411.68,33562.56,249
+PROD11380,Advanced Home Decor,Home & Kitchen,Home Decor,Prestige,1814.8,1377.14,383
+PROD11381,Advanced Cameras,Electronics,Cameras,Sony,3471.67,2343.54,164
+PROD11382,Pro Furniture,Home & Kitchen,Furniture,Milton,275.64,167.93,171
+PROD11383,Deluxe Kids Clothing,Toys & Baby,Kids Clothing,Chicco,1834.12,1435.4,86
+PROD11384,Pro Packaged Food,Grocery,Packaged Food,ITC,1018.54,776.72,373
+PROD11385,Deluxe Laptops,Electronics,Laptops,Xiaomi,64425.0,40561.83,411
+PROD11386,Deluxe Outdoor Gear,Sports & Fitness,Outdoor Gear,Cosco,6703.66,4515.55,94
+PROD11387,Essential Men's Clothing,Fashion,Men's Clothing,Puma,2522.66,1799.84,317
+PROD11388,Advanced Makeup,Beauty & Personal Care,Makeup,Mamaearth,1862.85,1182.66,294
+PROD11389,Advanced Tablets,Electronics,Tablets,Xiaomi,1078.24,779.72,465
+PROD11390,Signature Office Supplies,Books & Stationery,Office Supplies,HarperCollins,1320.8,860.52,394
+PROD11391,Essential Baby Care,Toys & Baby,Baby Care,Pampers,310.98,219.72,103
+PROD11392,Compact Fitness Equipment,Sports & Fitness,Fitness Equipment,Cosco,617.18,400.89,99
+PROD11393,Signature Headphones,Electronics,Headphones,Samsung,19818.36,14930.02,360
+PROD11394,Signature Smart Watches,Electronics,Smart Watches,Samsung,9281.37,6898.92,188
+PROD11395,Classic Home Decor,Home & Kitchen,Home Decor,Philips,6926.92,5522.37,164
+PROD11396,Deluxe Snacks,Grocery,Snacks,ITC,1042.65,812.38,401
+PROD11397,Compact Furniture,Home & Kitchen,Furniture,IKEA,453.42,334.3,388
+PROD11398,Signature Tablets,Electronics,Tablets,Dell,36648.83,28246.04,16
+PROD11399,Compact Skincare,Beauty & Personal Care,Skincare,Himalaya,295.5,216.3,498
+PROD11400,Classic Headphones,Electronics,Headphones,HP,5372.87,4004.24,330
+PROD11401,Advanced Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,13900.15,8987.19,239
+PROD11402,Signature Footwear,Fashion,Footwear,Puma,7478.05,4941.46,198
+PROD11403,Pro Headphones,Electronics,Headphones,Samsung,31715.66,19772.89,368
+PROD11404,Classic Men's Clothing,Fashion,Men's Clothing,Puma,5798.7,4494.97,136
+PROD11405,Essential Jewelry,Fashion,Jewelry,H&M,6184.82,3638.49,303
+PROD11406,Deluxe Fiction,Books & Stationery,Fiction,HarperCollins,244.79,171.39,308
+PROD11407,Ultra Cookware,Home & Kitchen,Cookware,Bajaj,13076.62,9904.53,282
+PROD11408,Essential Staples,Grocery,Staples,Nestle,205.5,149.61,250
+PROD11409,Essential Women's Clothing,Fashion,Women's Clothing,Levi's,7287.43,4750.46,174
+PROD11410,Advanced Appliances,Home & Kitchen,Appliances,Milton,5338.7,3319.09,136
+PROD11411,Pro Academic,Books & Stationery,Academic,Penguin,134.44,81.78,357
+PROD11412,Advanced Watches,Fashion,Watches,Van Heusen,5280.4,3573.51,275
+PROD11413,Classic Furniture,Home & Kitchen,Furniture,Bajaj,1897.79,1069.55,301
+PROD11414,Deluxe Cookware,Home & Kitchen,Cookware,Bajaj,307.56,223.96,49
+PROD11415,Everyday Footwear,Fashion,Footwear,Zara,389.28,216.1,203
+PROD11416,Everyday Bedding,Home & Kitchen,Bedding,Bajaj,1594.51,1260.69,60
+PROD11417,Signature Office Supplies,Books & Stationery,Office Supplies,Penguin,289.54,162.08,379
+PROD11418,Signature Baby Care,Toys & Baby,Baby Care,Hot Wheels,380.76,238.58,28
+PROD11419,Signature Footwear,Fashion,Footwear,Van Heusen,1362.98,926.07,163
+PROD11420,Premium Haircare,Beauty & Personal Care,Haircare,Himalaya,705.47,521.95,428
+PROD11421,Pro Staples,Grocery,Staples,Tata,38.06,22.28,440
+PROD11422,Ultra Men's Clothing,Fashion,Men's Clothing,Allen Solly,4056.72,3154.43,147
+PROD11423,Ultra Academic,Books & Stationery,Academic,Penguin,484.23,386.03,299
+PROD11424,Ultra Smart Watches,Electronics,Smart Watches,Dell,27866.27,17547.17,376
+PROD11425,Compact Men's Clothing,Fashion,Men's Clothing,Puma,7113.51,5168.22,362
+PROD11426,Everyday Tablets,Electronics,Tablets,Samsung,2553.58,1620.89,80
+PROD11427,Premium Footwear,Fashion,Footwear,Adidas,1048.89,739.97,280
+PROD11428,Pro Office Supplies,Books & Stationery,Office Supplies,HarperCollins,679.99,407.43,31
+PROD11429,Signature Academic,Books & Stationery,Academic,Classmate,169.23,129.96,261
+PROD11430,Compact Women's Clothing,Fashion,Women's Clothing,H&M,1363.97,1078.5,307
+PROD11431,Ultra Appliances,Home & Kitchen,Appliances,Milton,13777.38,9854.2,299
+PROD11432,Essential Appliances,Home & Kitchen,Appliances,Cello,255.22,181.81,163
+PROD11433,Advanced Sportswear,Sports & Fitness,Sportswear,Nivia,9091.9,6613.37,54
+PROD11434,Compact Sportswear,Sports & Fitness,Sportswear,Nike,631.22,475.57,100
+PROD11435,Signature Laptops,Electronics,Laptops,Xiaomi,51657.1,32864.83,477
+PROD11436,Premium Smart Watches,Electronics,Smart Watches,Dell,9746.49,6682.05,4
+PROD11437,Advanced Toys,Toys & Baby,Toys,Fisher-Price,212.64,164.03,145
+PROD11438,Deluxe Headphones,Electronics,Headphones,Xiaomi,17770.85,11966.76,242
+PROD11439,Everyday Mobiles,Electronics,Mobiles,Dell,8853.5,5423.74,219
+PROD11440,Essential Furniture,Home & Kitchen,Furniture,Philips,5487.94,4026.32,48
+PROD11441,Everyday Men's Clothing,Fashion,Men's Clothing,Puma,2923.99,1874.41,79
+PROD11442,Everyday Watches,Fashion,Watches,Levi's,4583.23,3353.1,98
+PROD11443,Ultra Fiction,Books & Stationery,Fiction,HarperCollins,589.27,408.25,249
+PROD11444,Deluxe Jewelry,Fashion,Jewelry,Van Heusen,771.86,456.16,270
+PROD11445,Signature Haircare,Beauty & Personal Care,Haircare,Nivea,1917.27,1487.1,331
+PROD11446,Pro Bags,Fashion,Bags,Adidas,3743.74,2352.79,46
+PROD11447,Compact Beverages,Grocery,Beverages,Britannia,135.87,76.72,365
+PROD11448,Classic Packaged Food,Grocery,Packaged Food,ITC,31.36,22.21,462
+PROD11449,Everyday Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,1808.2,1341.57,434
+PROD11450,Classic Women's Clothing,Fashion,Women's Clothing,Van Heusen,3187.88,2490.71,201
+PROD11451,Ultra Baby Care,Toys & Baby,Baby Care,Chicco,1619.64,1208.76,406
+PROD11452,Compact Office Supplies,Books & Stationery,Office Supplies,Camlin,429.59,283.4,134
+PROD11453,Ultra Staples,Grocery,Staples,Amul,699.74,527.85,219
+PROD11454,Classic Footwear,Fashion,Footwear,Zara,1270.47,748.34,60
+PROD11455,Ultra Cameras,Electronics,Cameras,HP,14485.44,11472.49,352
+PROD11456,Premium Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,3087.8,2132.39,487
+PROD11457,Compact Bedding,Home & Kitchen,Bedding,IKEA,328.74,226.6,190
+PROD11458,Everyday Watches,Fashion,Watches,Nike,770.73,598.01,295
+PROD11459,Essential Home Decor,Home & Kitchen,Home Decor,Bajaj,1547.75,883.73,439
+PROD11460,Deluxe Laptops,Electronics,Laptops,HP,24535.28,17304.55,433
+PROD11461,Ultra Fitness Equipment,Sports & Fitness,Fitness Equipment,Decathlon,5524.36,3120.06,63
+PROD11462,Pro Sportswear,Sports & Fitness,Sportswear,Adidas,589.37,405.2,207
+PROD11463,Everyday Staples,Grocery,Staples,Tata,242.42,178.86,56
+PROD11464,Deluxe Bags,Fashion,Bags,Allen Solly,330.71,224.93,308
+PROD11465,Pro Laptops,Electronics,Laptops,Xiaomi,2857.18,1930.03,0
+PROD11466,Deluxe Skincare,Beauty & Personal Care,Skincare,Himalaya,797.95,515.08,162
+PROD11467,Premium Office Supplies,Books & Stationery,Office Supplies,HarperCollins,550.43,343.97,259
+PROD11468,Deluxe Cameras,Electronics,Cameras,OnePlus,62526.89,40036.37,327
+PROD11469,Compact Makeup,Beauty & Personal Care,Makeup,Mamaearth,558.33,427.11,17
+PROD11470,Pro Smart Watches,Electronics,Smart Watches,OnePlus,25775.03,15494.4,185
+PROD11471,Pro Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,3657.02,2472.23,394
+PROD11472,Pro Bedding,Home & Kitchen,Bedding,Cello,21600.61,11936.02,116
+PROD11473,Everyday Cameras,Electronics,Cameras,boAt,3091.12,1963.7,62
+PROD11474,Premium Furniture,Home & Kitchen,Furniture,Philips,327.69,214.76,254
+PROD11475,Compact Home Decor,Home & Kitchen,Home Decor,Cello,6122.63,4555.94,232
+PROD11476,Classic Footwear,Fashion,Footwear,Puma,908.88,660.15,384
+PROD11477,Classic Fitness Equipment,Sports & Fitness,Fitness Equipment,Decathlon,564.38,384.43,195
+PROD11478,Ultra Haircare,Beauty & Personal Care,Haircare,Himalaya,2070.65,1387.14,490
+PROD11479,Deluxe Cookware,Home & Kitchen,Cookware,Cello,275.12,183.12,24
+PROD11480,Deluxe Headphones,Electronics,Headphones,OnePlus,12543.04,7184.92,360
+PROD11481,Ultra Smart Watches,Electronics,Smart Watches,Dell,33492.44,18482.58,82
+PROD11482,Pro Makeup,Beauty & Personal Care,Makeup,L'Oreal,151.77,93.57,322
+PROD11483,Essential Laptops,Electronics,Laptops,Dell,7574.44,4685.94,51
+PROD11484,Signature Men's Clothing,Fashion,Men's Clothing,Levi's,941.67,528.4,339
+PROD11485,Ultra Staples,Grocery,Staples,ITC,210.78,157.3,270
+PROD11486,Everyday Haircare,Beauty & Personal Care,Haircare,L'Oreal,153.95,87.32,67
+PROD11487,Pro Men's Clothing,Fashion,Men's Clothing,Levi's,5157.78,2847.3,128
+PROD11488,Premium Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,194.84,114.46,420
+PROD11489,Essential Baby Care,Toys & Baby,Baby Care,Hot Wheels,4250.32,3182.26,84
+PROD11490,Everyday Fitness Equipment,Sports & Fitness,Fitness Equipment,Nike,706.65,455.02,469
+PROD11491,Pro Kids Clothing,Toys & Baby,Kids Clothing,Chicco,277.19,153.97,316
+PROD11492,Advanced Fiction,Books & Stationery,Fiction,HarperCollins,163.83,126.63,434
+PROD11493,Ultra Makeup,Beauty & Personal Care,Makeup,Nivea,2171.74,1281.72,254
+PROD11494,Premium Fitness Equipment,Sports & Fitness,Fitness Equipment,Adidas,903.82,661.81,401
+PROD11495,Classic Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,622.85,495.58,488
+PROD11496,Signature Haircare,Beauty & Personal Care,Haircare,Himalaya,2597.21,1773.06,208
+PROD11497,Advanced Non-Fiction,Books & Stationery,Non-Fiction,Penguin,240.85,164.37,14
+PROD11498,Ultra Fragrances,Beauty & Personal Care,Fragrances,Nivea,201.42,156.9,249
+PROD11499,Signature Toys,Toys & Baby,Toys,Chicco,4041.45,2696.08,81
+PROD11500,Everyday Bedding,Home & Kitchen,Bedding,Bajaj,2677.15,1486.22,94
+PROD11501,Compact Makeup,Beauty & Personal Care,Makeup,Lakme,240.0,139.9,388
+PROD11502,Premium Tablets,Electronics,Tablets,Sony,2007.04,1549.03,165
+PROD11503,Pro Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,161.73,120.92,162
+PROD11504,Advanced Headphones,Electronics,Headphones,Apple,9267.16,5127.3,231
+PROD11505,Deluxe Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,3453.89,2112.28,478
+PROD11506,Everyday Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,393.44,249.52,166
+PROD11507,Pro Kids Clothing,Toys & Baby,Kids Clothing,Pampers,622.33,491.61,50
+PROD11508,Ultra Smart Watches,Electronics,Smart Watches,Xiaomi,1592.68,901.51,76
+PROD11509,Signature Makeup,Beauty & Personal Care,Makeup,Nivea,3013.57,1854.69,23
+PROD11510,Pro Furniture,Home & Kitchen,Furniture,Cello,4196.97,2374.6,47
+PROD11511,Pro Cameras,Electronics,Cameras,boAt,1283.59,757.19,185
+PROD11512,Pro Bags,Fashion,Bags,Levi's,1146.82,727.56,76
+PROD11513,Premium Bags,Fashion,Bags,Puma,1818.82,1429.67,60
+PROD11514,Premium Baby Care,Toys & Baby,Baby Care,Pampers,366.67,275.43,460
+PROD11515,Advanced Smart Watches,Electronics,Smart Watches,Apple,17634.58,12226.26,426
+PROD11516,Deluxe Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,200.75,149.34,401
+PROD11517,Essential Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,1589.43,1004.16,188
+PROD11518,Compact Appliances,Home & Kitchen,Appliances,Milton,15335.0,10322.18,415
+PROD11519,Classic Watches,Fashion,Watches,Puma,3218.2,2166.62,386
+PROD11520,Advanced Snacks,Grocery,Snacks,ITC,91.42,58.79,138
+PROD11521,Deluxe Cookware,Home & Kitchen,Cookware,Bajaj,871.76,527.26,149
+PROD11522,Classic Watches,Fashion,Watches,Adidas,5483.2,4147.03,478
+PROD11523,Essential Snacks,Grocery,Snacks,Tata,40.27,25.25,300
+PROD11524,Pro Staples,Grocery,Staples,Tata,74.3,50.17,323
+PROD11525,Ultra Watches,Fashion,Watches,Allen Solly,556.78,415.84,23
+PROD11526,Signature Laptops,Electronics,Laptops,Sony,8068.59,4688.19,149
+PROD11527,Classic Haircare,Beauty & Personal Care,Haircare,Nivea,2503.56,1382.62,271
+PROD11528,Pro Men's Clothing,Fashion,Men's Clothing,Nike,675.2,521.68,136
+PROD11529,Essential Smart Watches,Electronics,Smart Watches,Apple,24521.14,13585.57,460
+PROD11530,Advanced Baby Care,Toys & Baby,Baby Care,Chicco,1245.84,936.07,277
+PROD11531,Pro Tablets,Electronics,Tablets,OnePlus,1438.49,1077.75,187
+PROD11532,Everyday Footwear,Fashion,Footwear,Van Heusen,865.99,512.37,272
+PROD11533,Classic Mobiles,Electronics,Mobiles,Dell,1625.11,1111.02,383
+PROD11534,Advanced Cameras,Electronics,Cameras,Samsung,38550.72,29858.03,125
+PROD11535,Ultra Cameras,Electronics,Cameras,OnePlus,3961.91,2953.86,483
+PROD11536,Ultra Skincare,Beauty & Personal Care,Skincare,Himalaya,2935.06,2213.91,148
+PROD11537,Premium Office Supplies,Books & Stationery,Office Supplies,Classmate,604.04,345.4,142
+PROD11538,Advanced Non-Fiction,Books & Stationery,Non-Fiction,Penguin,573.0,336.16,0
+PROD11539,Ultra Skincare,Beauty & Personal Care,Skincare,L'Oreal,258.7,189.13,262
+PROD11540,Ultra Outdoor Gear,Sports & Fitness,Outdoor Gear,Nike,4442.64,2559.79,475
+PROD11541,Everyday Men's Clothing,Fashion,Men's Clothing,Van Heusen,7598.84,5732.02,456
+PROD11542,Deluxe Baby Care,Toys & Baby,Baby Care,Chicco,2438.36,1446.99,354
+PROD11543,Everyday Smart Watches,Electronics,Smart Watches,Xiaomi,13141.53,7810.66,286
+PROD11544,Compact Academic,Books & Stationery,Academic,HarperCollins,358.69,226.62,181
+PROD11545,Advanced Sportswear,Sports & Fitness,Sportswear,Cosco,1827.1,1163.01,139
+PROD11546,Advanced Appliances,Home & Kitchen,Appliances,Bajaj,2283.71,1354.66,140
+PROD11547,Classic Toys,Toys & Baby,Toys,Hot Wheels,1497.82,979.24,242
+PROD11548,Premium Cameras,Electronics,Cameras,boAt,5384.5,4196.15,491
+PROD11549,Signature Bags,Fashion,Bags,Nike,1052.71,657.03,294
+PROD11550,Deluxe Bags,Fashion,Bags,Levi's,743.6,533.52,238
+PROD11551,Compact Laptops,Electronics,Laptops,Dell,2337.03,1578.81,478
+PROD11552,Signature Packaged Food,Grocery,Packaged Food,Britannia,66.81,53.12,393
+PROD11553,Premium Baby Care,Toys & Baby,Baby Care,Hot Wheels,2119.55,1559.9,208
+PROD11554,Deluxe Footwear,Fashion,Footwear,Adidas,713.64,492.53,421
+PROD11555,Ultra Baby Care,Toys & Baby,Baby Care,Chicco,711.99,421.87,313
+PROD11556,Premium Smart Watches,Electronics,Smart Watches,Xiaomi,28754.58,17893.97,3
+PROD11557,Essential Beverages,Grocery,Beverages,Nestle,483.48,376.97,423
+PROD11558,Everyday Home Decor,Home & Kitchen,Home Decor,Philips,1142.51,751.48,184
+PROD11559,Ultra Cameras,Electronics,Cameras,Sony,42626.73,25532.46,61
+PROD11560,Compact Office Supplies,Books & Stationery,Office Supplies,Penguin,208.86,154.39,232
+PROD11561,Advanced Beverages,Grocery,Beverages,Tata,908.25,665.37,116
+PROD11562,Everyday Appliances,Home & Kitchen,Appliances,Prestige,6101.72,4269.24,442
+PROD11563,Premium Footwear,Fashion,Footwear,Van Heusen,449.17,301.59,211
+PROD11564,Classic Cameras,Electronics,Cameras,OnePlus,2297.37,1365.91,154
+PROD11565,Premium Academic,Books & Stationery,Academic,Camlin,186.26,145.86,312
+PROD11566,Pro Cookware,Home & Kitchen,Cookware,Cello,2292.65,1356.01,393
+PROD11567,Compact Women's Clothing,Fashion,Women's Clothing,Allen Solly,4806.03,3782.89,351
+PROD11568,Classic Packaged Food,Grocery,Packaged Food,Tata,410.86,242.92,24
+PROD11569,Classic Staples,Grocery,Staples,ITC,392.25,264.81,377
+PROD11570,Advanced Skincare,Beauty & Personal Care,Skincare,Mamaearth,384.18,232.15,2
+PROD11571,Pro Packaged Food,Grocery,Packaged Food,Tata,106.48,77.69,235
+PROD11572,Classic Bedding,Home & Kitchen,Bedding,IKEA,1068.29,593.14,35
+PROD11573,Deluxe Watches,Fashion,Watches,Levi's,576.62,349.43,372
+PROD11574,Classic Home Decor,Home & Kitchen,Home Decor,Philips,12694.54,7030.13,253
+PROD11575,Compact Mobiles,Electronics,Mobiles,Xiaomi,1386.7,1006.92,408
+PROD11576,Pro Smart Watches,Electronics,Smart Watches,HP,25100.82,19845.34,123
+PROD11577,Essential Cameras,Electronics,Cameras,HP,15295.5,11492.18,82
+PROD11578,Classic Packaged Food,Grocery,Packaged Food,Amul,311.61,187.55,32
+PROD11579,Advanced Snacks,Grocery,Snacks,Amul,243.74,163.76,153
+PROD11580,Deluxe Men's Clothing,Fashion,Men's Clothing,Adidas,434.25,295.45,367
+PROD11581,Deluxe Snacks,Grocery,Snacks,Britannia,971.24,626.61,396
+PROD11582,Signature Headphones,Electronics,Headphones,Sony,1368.64,1037.76,71
+PROD11583,Premium Mobiles,Electronics,Mobiles,Xiaomi,71152.78,39195.93,104
+PROD11584,Deluxe Smart Watches,Electronics,Smart Watches,Samsung,24480.67,18004.71,283
+PROD11585,Deluxe Laptops,Electronics,Laptops,Dell,5267.29,2975.01,190
+PROD11586,Ultra Beverages,Grocery,Beverages,Amul,50.92,31.55,470
+PROD11587,Premium Staples,Grocery,Staples,ITC,806.89,463.17,481
+PROD11588,Classic Bags,Fashion,Bags,Van Heusen,5942.8,4704.88,338
+PROD11589,Ultra Laptops,Electronics,Laptops,Samsung,3917.62,2173.07,180
+PROD11590,Deluxe Cookware,Home & Kitchen,Cookware,Cello,10745.38,5972.16,12
+PROD11591,Classic Men's Clothing,Fashion,Men's Clothing,Nike,1040.65,801.0,394
+PROD11592,Ultra Academic,Books & Stationery,Academic,Camlin,534.41,397.23,384
+PROD11593,Everyday Jewelry,Fashion,Jewelry,Nike,1576.65,983.81,457
+PROD11594,Compact Mobiles,Electronics,Mobiles,Apple,19420.93,14195.12,342
+PROD11595,Essential Non-Fiction,Books & Stationery,Non-Fiction,Penguin,1069.11,773.2,140
+PROD11596,Compact Tablets,Electronics,Tablets,OnePlus,10717.55,8255.7,318
+PROD11597,Advanced Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,891.62,642.23,126
+PROD11598,Compact Beverages,Grocery,Beverages,Britannia,520.33,377.86,134
+PROD11599,Ultra Watches,Fashion,Watches,Zara,453.22,355.19,111
+PROD11600,Classic Home Decor,Home & Kitchen,Home Decor,Milton,4411.44,2776.08,343
+PROD11601,Advanced Makeup,Beauty & Personal Care,Makeup,L'Oreal,176.9,109.35,133
+PROD11602,Premium Non-Fiction,Books & Stationery,Non-Fiction,Penguin,1437.05,1020.39,76
+PROD11603,Compact Non-Fiction,Books & Stationery,Non-Fiction,Camlin,334.41,241.01,309
+PROD11604,Everyday Jewelry,Fashion,Jewelry,H&M,603.75,346.33,471
+PROD11605,Pro Home Decor,Home & Kitchen,Home Decor,Prestige,408.91,314.38,436
+PROD11606,Advanced Watches,Fashion,Watches,Van Heusen,2672.28,1814.54,26
+PROD11607,Everyday Skincare,Beauty & Personal Care,Skincare,Himalaya,152.34,86.55,478
+PROD11608,Classic Bedding,Home & Kitchen,Bedding,IKEA,508.43,360.54,56
+PROD11609,Compact Home Decor,Home & Kitchen,Home Decor,Philips,9691.37,6527.67,51
+PROD11610,Signature Skincare,Beauty & Personal Care,Skincare,Mamaearth,3110.64,1895.96,91
+PROD11611,Classic Bags,Fashion,Bags,Adidas,876.58,639.58,107
+PROD11612,Classic Academic,Books & Stationery,Academic,Classmate,521.77,408.78,196
+PROD11613,Deluxe Outdoor Gear,Sports & Fitness,Outdoor Gear,Adidas,8123.43,4869.24,123
+PROD11614,Essential Jewelry,Fashion,Jewelry,Levi's,3628.05,2613.83,84
+PROD11615,Ultra Women's Clothing,Fashion,Women's Clothing,Nike,7309.59,5237.68,268
+PROD11616,Signature Smart Watches,Electronics,Smart Watches,HP,6447.57,4458.73,75
+PROD11617,Signature Appliances,Home & Kitchen,Appliances,Milton,11835.46,7282.86,128
+PROD11618,Signature Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,223.23,166.5,16
+PROD11619,Advanced Women's Clothing,Fashion,Women's Clothing,H&M,593.12,339.47,59
+PROD11620,Signature Skincare,Beauty & Personal Care,Skincare,Mamaearth,1273.63,1012.99,231
+PROD11621,Deluxe Cycling,Sports & Fitness,Cycling,Cosco,2645.49,1887.23,168
+PROD11622,Signature Cameras,Electronics,Cameras,HP,30752.29,17612.95,169
+PROD11623,Deluxe Skincare,Beauty & Personal Care,Skincare,Lakme,1470.9,1037.14,231
+PROD11624,Ultra Footwear,Fashion,Footwear,Allen Solly,4687.24,3281.56,35
+PROD11625,Deluxe Footwear,Fashion,Footwear,Allen Solly,1234.9,777.23,441
+PROD11626,Ultra Haircare,Beauty & Personal Care,Haircare,Himalaya,256.95,150.27,460
+PROD11627,Essential Home Decor,Home & Kitchen,Home Decor,Bajaj,8667.87,5781.06,349
+PROD11628,Pro Headphones,Electronics,Headphones,HP,16188.35,11045.82,241
+PROD11629,Essential Cameras,Electronics,Cameras,Sony,1153.29,865.1,364
+PROD11630,Signature Cycling,Sports & Fitness,Cycling,Cosco,12060.06,8885.96,309
+PROD11631,Deluxe Office Supplies,Books & Stationery,Office Supplies,Penguin,148.44,105.94,345
+PROD11632,Classic Baby Care,Toys & Baby,Baby Care,Hot Wheels,3685.98,2511.58,16
+PROD11633,Premium Mobiles,Electronics,Mobiles,OnePlus,4008.05,2857.88,161
+PROD11634,Everyday Makeup,Beauty & Personal Care,Makeup,Himalaya,789.66,515.7,410
+PROD11635,Ultra Laptops,Electronics,Laptops,Sony,31232.93,24693.74,446
+PROD11636,Ultra Fragrances,Beauty & Personal Care,Fragrances,Himalaya,914.04,514.79,54
+PROD11637,Signature Office Supplies,Books & Stationery,Office Supplies,Classmate,703.14,534.64,64
+PROD11638,Signature Appliances,Home & Kitchen,Appliances,IKEA,16403.4,10322.37,459
+PROD11639,Signature Furniture,Home & Kitchen,Furniture,IKEA,1894.99,1135.97,299
+PROD11640,Essential Fiction,Books & Stationery,Fiction,Camlin,218.13,141.61,468
+PROD11641,Ultra Watches,Fashion,Watches,Nike,2266.12,1404.31,241
+PROD11642,Advanced Academic,Books & Stationery,Academic,Classmate,151.3,100.4,380
+PROD11643,Classic Office Supplies,Books & Stationery,Office Supplies,Penguin,1058.69,739.75,77
+PROD11644,Deluxe Skincare,Beauty & Personal Care,Skincare,L'Oreal,534.66,423.97,163
+PROD11645,Deluxe Sportswear,Sports & Fitness,Sportswear,Decathlon,2029.1,1498.89,103
+PROD11646,Classic Haircare,Beauty & Personal Care,Haircare,Mamaearth,1419.47,1122.14,225
+PROD11647,Essential Makeup,Beauty & Personal Care,Makeup,Mamaearth,723.45,533.3,483
+PROD11648,Advanced Mobiles,Electronics,Mobiles,HP,13109.87,8330.15,248
+PROD11649,Essential Cookware,Home & Kitchen,Cookware,Philips,4814.85,3827.5,57
+PROD11650,Compact Baby Care,Toys & Baby,Baby Care,Hot Wheels,457.3,308.59,492
+PROD11651,Compact Bedding,Home & Kitchen,Bedding,Cello,19714.55,10851.98,473
+PROD11652,Compact Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,2417.88,1716.42,5
+PROD11653,Deluxe Skincare,Beauty & Personal Care,Skincare,Mamaearth,300.76,221.99,288
+PROD11654,Classic Women's Clothing,Fashion,Women's Clothing,Levi's,4729.58,2751.54,277
+PROD11655,Pro Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,9270.31,6180.14,227
+PROD11656,Essential Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,6377.31,5012.92,178
+PROD11657,Premium Beverages,Grocery,Beverages,Britannia,176.52,103.36,24
+PROD11658,Signature Appliances,Home & Kitchen,Appliances,Milton,1735.96,956.46,256
+PROD11659,Advanced Women's Clothing,Fashion,Women's Clothing,Adidas,3029.25,1787.26,1
+PROD11660,Essential Furniture,Home & Kitchen,Furniture,Cello,1230.8,941.8,287
+PROD11661,Ultra Academic,Books & Stationery,Academic,Camlin,214.43,166.25,185
+PROD11662,Essential Laptops,Electronics,Laptops,OnePlus,879.08,558.77,438
+PROD11663,Essential Packaged Food,Grocery,Packaged Food,Nestle,140.05,111.56,110
+PROD11664,Classic Jewelry,Fashion,Jewelry,Levi's,1768.71,1377.17,9
+PROD11665,Premium Laptops,Electronics,Laptops,HP,2922.93,2026.1,365
+PROD11666,Advanced Haircare,Beauty & Personal Care,Haircare,L'Oreal,1033.28,796.44,138
+PROD11667,Everyday Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,490.63,353.06,111
+PROD11668,Deluxe Home Decor,Home & Kitchen,Home Decor,Prestige,10366.66,7250.01,233
+PROD11669,Everyday Baby Care,Toys & Baby,Baby Care,Fisher-Price,982.72,564.1,434
+PROD11670,Essential Cookware,Home & Kitchen,Cookware,Prestige,5262.48,3055.6,392
+PROD11671,Classic Bedding,Home & Kitchen,Bedding,Cello,3257.8,2101.34,15
+PROD11672,Signature Cookware,Home & Kitchen,Cookware,Cello,5502.41,4205.74,5
+PROD11673,Pro Staples,Grocery,Staples,Britannia,135.69,101.67,407
+PROD11674,Compact Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,295.31,167.99,129
+PROD11675,Ultra Fragrances,Beauty & Personal Care,Fragrances,Lakme,775.8,485.5,264
+PROD11676,Premium Makeup,Beauty & Personal Care,Makeup,Himalaya,552.68,441.12,247
+PROD11677,Essential Fragrances,Beauty & Personal Care,Fragrances,Lakme,678.81,430.31,164
+PROD11678,Pro Fragrances,Beauty & Personal Care,Fragrances,Himalaya,403.31,273.25,23
+PROD11679,Signature Cookware,Home & Kitchen,Cookware,IKEA,303.83,191.69,136
+PROD11680,Deluxe Furniture,Home & Kitchen,Furniture,Philips,21480.56,16535.85,80
+PROD11681,Signature Baby Care,Toys & Baby,Baby Care,Fisher-Price,3444.0,2023.08,433
+PROD11682,Essential Laptops,Electronics,Laptops,OnePlus,56656.87,39134.77,41
+PROD11683,Compact Jewelry,Fashion,Jewelry,Van Heusen,1990.28,1233.04,282
+PROD11684,Essential Cameras,Electronics,Cameras,OnePlus,6266.46,4631.09,17
+PROD11685,Pro Bags,Fashion,Bags,Nike,4228.35,2604.0,28
+PROD11686,Pro Tablets,Electronics,Tablets,HP,15738.09,10031.35,11
+PROD11687,Classic Mobiles,Electronics,Mobiles,HP,11303.77,8991.4,204
+PROD11688,Everyday Bedding,Home & Kitchen,Bedding,Prestige,265.08,151.88,7
+PROD11689,Deluxe Headphones,Electronics,Headphones,Apple,67285.34,48154.23,398
+PROD11690,Signature Headphones,Electronics,Headphones,Xiaomi,49374.99,30758.04,64
+PROD11691,Classic Appliances,Home & Kitchen,Appliances,Bajaj,931.22,607.25,280
+PROD11692,Signature Skincare,Beauty & Personal Care,Skincare,Lakme,1509.03,868.53,201
+PROD11693,Everyday Jewelry,Fashion,Jewelry,H&M,1137.49,661.02,79
+PROD11694,Everyday Fitness Equipment,Sports & Fitness,Fitness Equipment,Decathlon,1974.11,1406.73,179
+PROD11695,Signature Beverages,Grocery,Beverages,ITC,1019.23,692.56,397
+PROD11696,Everyday Baby Care,Toys & Baby,Baby Care,Hot Wheels,3426.07,2704.7,448
+PROD11697,Signature Haircare,Beauty & Personal Care,Haircare,Nivea,228.21,141.03,357
+PROD11698,Everyday Men's Clothing,Fashion,Men's Clothing,Zara,1457.57,1048.28,6
+PROD11699,Deluxe Haircare,Beauty & Personal Care,Haircare,Himalaya,213.33,163.01,326
+PROD11700,Classic Furniture,Home & Kitchen,Furniture,Cello,496.92,320.42,439
+PROD11701,Essential Fragrances,Beauty & Personal Care,Fragrances,Lakme,436.78,290.18,372
+PROD11702,Signature Kids Clothing,Toys & Baby,Kids Clothing,Hot Wheels,1725.08,1346.79,487
+PROD11703,Compact Fitness Equipment,Sports & Fitness,Fitness Equipment,Cosco,5291.75,3776.66,13
+PROD11704,Advanced Jewelry,Fashion,Jewelry,Levi's,3600.75,2513.64,150
+PROD11705,Signature Watches,Fashion,Watches,Levi's,836.04,502.88,358
+PROD11706,Compact Academic,Books & Stationery,Academic,HarperCollins,680.29,533.64,347
+PROD11707,Ultra Sportswear,Sports & Fitness,Sportswear,Adidas,1625.62,1176.81,408
+PROD11708,Ultra Laptops,Electronics,Laptops,Sony,4164.38,2603.04,182
+PROD11709,Deluxe Cycling,Sports & Fitness,Cycling,Nike,4476.68,3163.62,302
+PROD11710,Signature Makeup,Beauty & Personal Care,Makeup,Mamaearth,255.13,151.5,5
+PROD11711,Premium Mobiles,Electronics,Mobiles,Samsung,982.47,616.9,240
+PROD11712,Essential Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,703.97,429.13,486
+PROD11713,Premium Fitness Equipment,Sports & Fitness,Fitness Equipment,Adidas,3246.82,2096.73,35
+PROD11714,Signature Smart Watches,Electronics,Smart Watches,OnePlus,1076.74,668.93,44
+PROD11715,Signature Staples,Grocery,Staples,Amul,715.24,484.38,136
+PROD11716,Ultra Non-Fiction,Books & Stationery,Non-Fiction,Penguin,930.4,702.85,496
+PROD11717,Premium Cookware,Home & Kitchen,Cookware,Bajaj,12716.16,9664.2,380
+PROD11718,Compact Home Decor,Home & Kitchen,Home Decor,Prestige,2570.56,1658.14,432
+PROD11719,Deluxe Cookware,Home & Kitchen,Cookware,Bajaj,342.79,265.37,426
+PROD11720,Pro Toys,Toys & Baby,Toys,Chicco,1119.19,665.5,261
+PROD11721,Signature Staples,Grocery,Staples,Tata,171.22,97.1,350
+PROD11722,Essential Headphones,Electronics,Headphones,Sony,3858.7,3037.41,464
+PROD11723,Everyday Baby Care,Toys & Baby,Baby Care,Pampers,255.13,154.19,234
+PROD11724,Pro Staples,Grocery,Staples,Tata,98.23,73.9,255
+PROD11725,Premium Academic,Books & Stationery,Academic,HarperCollins,390.42,263.44,409
+PROD11726,Premium Laptops,Electronics,Laptops,Samsung,1600.04,1063.22,208
+PROD11727,Compact Men's Clothing,Fashion,Men's Clothing,Puma,808.87,629.36,446
+PROD11728,Advanced Tablets,Electronics,Tablets,Apple,1430.28,798.43,84
+PROD11729,Compact Kids Clothing,Toys & Baby,Kids Clothing,Chicco,297.86,182.01,160
+PROD11730,Advanced Toys,Toys & Baby,Toys,Hot Wheels,242.96,169.7,181
+PROD11731,Everyday Laptops,Electronics,Laptops,Dell,14252.21,9376.89,445
+PROD11732,Classic Academic,Books & Stationery,Academic,Classmate,455.46,268.52,34
+PROD11733,Compact Tablets,Electronics,Tablets,Sony,1033.67,734.76,217
+PROD11734,Classic Cameras,Electronics,Cameras,Sony,18407.73,11968.65,341
+PROD11735,Signature Tablets,Electronics,Tablets,boAt,1415.5,932.55,204
+PROD11736,Advanced Bedding,Home & Kitchen,Bedding,IKEA,6652.61,4848.3,196
+PROD11737,Classic Haircare,Beauty & Personal Care,Haircare,Nivea,792.06,478.06,312
+PROD11738,Everyday Haircare,Beauty & Personal Care,Haircare,Himalaya,406.05,306.06,410
+PROD11739,Signature Smart Watches,Electronics,Smart Watches,boAt,62527.69,37146.95,210
+PROD11740,Everyday Baby Care,Toys & Baby,Baby Care,Chicco,2793.16,1918.05,258
+PROD11741,Everyday Baby Care,Toys & Baby,Baby Care,Pampers,663.6,509.17,335
+PROD11742,Everyday Skincare,Beauty & Personal Care,Skincare,Lakme,1373.2,873.55,44
+PROD11743,Advanced Makeup,Beauty & Personal Care,Makeup,Lakme,1551.44,1169.93,186
+PROD11744,Premium Watches,Fashion,Watches,Zara,5611.2,3435.27,404
+PROD11745,Pro Laptops,Electronics,Laptops,Samsung,36357.6,20607.45,286
+PROD11746,Classic Jewelry,Fashion,Jewelry,Zara,3494.88,2612.7,112
+PROD11747,Classic Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,4945.1,3493.33,157
+PROD11748,Classic Toys,Toys & Baby,Toys,Hot Wheels,303.84,219.69,315
+PROD11749,Classic Fitness Equipment,Sports & Fitness,Fitness Equipment,Nike,4954.5,3382.05,174
+PROD11750,Ultra Furniture,Home & Kitchen,Furniture,Prestige,5592.41,3480.15,130
+PROD11751,Compact Makeup,Beauty & Personal Care,Makeup,Nivea,1203.57,847.33,144
+PROD11752,Deluxe Baby Care,Toys & Baby,Baby Care,Fisher-Price,1689.26,1098.34,318
+PROD11753,Classic Jewelry,Fashion,Jewelry,Allen Solly,1606.31,995.98,15
+PROD11754,Classic Fiction,Books & Stationery,Fiction,Camlin,1031.32,774.46,36
+PROD11755,Everyday Bags,Fashion,Bags,Van Heusen,550.11,384.03,388
+PROD11756,Signature Bedding,Home & Kitchen,Bedding,IKEA,666.33,425.56,30
+PROD11757,Essential Tablets,Electronics,Tablets,boAt,4156.82,2729.83,178
+PROD11758,Everyday Cameras,Electronics,Cameras,Xiaomi,83964.42,49106.94,89
+PROD11759,Classic Home Decor,Home & Kitchen,Home Decor,Prestige,1191.5,906.23,258
+PROD11760,Premium Cookware,Home & Kitchen,Cookware,IKEA,511.78,335.89,105
+PROD11761,Deluxe Sportswear,Sports & Fitness,Sportswear,Nivia,1008.01,555.23,303
+PROD11762,Everyday Cycling,Sports & Fitness,Cycling,Nike,3962.98,2838.05,205
+PROD11763,Premium Baby Care,Toys & Baby,Baby Care,Chicco,911.76,555.55,178
+PROD11764,Essential Mobiles,Electronics,Mobiles,Samsung,6065.69,3350.75,21
+PROD11765,Advanced Cookware,Home & Kitchen,Cookware,Bajaj,14533.41,10592.89,39
+PROD11766,Compact Cameras,Electronics,Cameras,Sony,11816.49,7878.26,100
+PROD11767,Essential Bedding,Home & Kitchen,Bedding,Cello,1734.22,1325.45,47
+PROD11768,Deluxe Laptops,Electronics,Laptops,Sony,70589.69,46722.25,318
+PROD11769,Compact Toys,Toys & Baby,Toys,Chicco,2092.75,1426.04,283
+PROD11770,Advanced Non-Fiction,Books & Stationery,Non-Fiction,Penguin,309.04,208.44,98
+PROD11771,Signature Smart Watches,Electronics,Smart Watches,Samsung,10617.6,6136.58,243
+PROD11772,Premium Fitness Equipment,Sports & Fitness,Fitness Equipment,Decathlon,1103.01,819.79,140
+PROD11773,Advanced Women's Clothing,Fashion,Women's Clothing,Allen Solly,1870.62,1399.53,15
+PROD11774,Premium Laptops,Electronics,Laptops,Apple,4620.18,3182.56,175
+PROD11775,Premium Kids Clothing,Toys & Baby,Kids Clothing,Pampers,499.81,377.61,230
+PROD11776,Deluxe Home Decor,Home & Kitchen,Home Decor,Philips,2151.42,1700.8,111
+PROD11777,Premium Smart Watches,Electronics,Smart Watches,Dell,9222.74,6071.66,71
+PROD11778,Deluxe Smart Watches,Electronics,Smart Watches,HP,2175.08,1359.47,92
+PROD11779,Compact Jewelry,Fashion,Jewelry,Puma,635.42,435.19,160
+PROD11780,Ultra Toys,Toys & Baby,Toys,Chicco,482.48,266.02,85
+PROD11781,Pro Fiction,Books & Stationery,Fiction,Camlin,954.23,580.55,371
+PROD11782,Pro Watches,Fashion,Watches,Zara,3080.57,1984.67,96
+PROD11783,Advanced Bags,Fashion,Bags,H&M,1188.15,905.63,13
+PROD11784,Advanced Sportswear,Sports & Fitness,Sportswear,Adidas,2205.61,1257.08,236
+PROD11785,Deluxe Sportswear,Sports & Fitness,Sportswear,Nivia,322.08,193.1,389
+PROD11786,Advanced Men's Clothing,Fashion,Men's Clothing,Zara,350.62,274.69,27
+PROD11787,Premium Makeup,Beauty & Personal Care,Makeup,Nivea,214.23,152.39,435
+PROD11788,Signature Skincare,Beauty & Personal Care,Skincare,Himalaya,1419.98,1106.62,51
+PROD11789,Everyday Haircare,Beauty & Personal Care,Haircare,L'Oreal,474.98,328.44,161
+PROD11790,Classic Skincare,Beauty & Personal Care,Skincare,Lakme,1321.11,857.32,138
+PROD11791,Essential Packaged Food,Grocery,Packaged Food,Amul,453.89,280.66,328
+PROD11792,Everyday Skincare,Beauty & Personal Care,Skincare,L'Oreal,829.9,653.35,161
+PROD11793,Deluxe Snacks,Grocery,Snacks,Tata,700.32,482.38,486
+PROD11794,Essential Men's Clothing,Fashion,Men's Clothing,H&M,1770.32,974.15,21
+PROD11795,Essential Mobiles,Electronics,Mobiles,Xiaomi,8921.44,6221.84,208
+PROD11796,Signature Bedding,Home & Kitchen,Bedding,Bajaj,743.38,575.92,48
+PROD11797,Compact Office Supplies,Books & Stationery,Office Supplies,Classmate,144.52,99.0,142
+PROD11798,Compact Men's Clothing,Fashion,Men's Clothing,Adidas,5292.66,3367.71,371
+PROD11799,Classic Headphones,Electronics,Headphones,HP,4133.38,3096.02,130
+PROD11800,Advanced Headphones,Electronics,Headphones,Apple,1473.73,830.83,469
+PROD11801,Compact Women's Clothing,Fashion,Women's Clothing,Zara,431.56,330.42,188
+PROD11802,Premium Watches,Fashion,Watches,Levi's,502.59,395.35,342
+PROD11803,Compact Home Decor,Home & Kitchen,Home Decor,Milton,2298.4,1616.53,240
+PROD11804,Everyday Jewelry,Fashion,Jewelry,Adidas,1764.32,1319.47,218
+PROD11805,Deluxe Headphones,Electronics,Headphones,boAt,47846.49,33648.05,374
+PROD11806,Advanced Bedding,Home & Kitchen,Bedding,Bajaj,424.6,330.98,24
+PROD11807,Premium Men's Clothing,Fashion,Men's Clothing,Levi's,1296.23,734.41,351
+PROD11808,Advanced Baby Care,Toys & Baby,Baby Care,Hot Wheels,1601.2,1038.88,449
+PROD11809,Everyday Bags,Fashion,Bags,Adidas,3454.57,2225.13,16
+PROD11810,Classic Haircare,Beauty & Personal Care,Haircare,Himalaya,383.62,245.28,300
+PROD11811,Premium Home Decor,Home & Kitchen,Home Decor,Prestige,2352.81,1731.08,102
+PROD11812,Essential Cameras,Electronics,Cameras,Dell,32184.17,23230.98,331
+PROD11813,Everyday Appliances,Home & Kitchen,Appliances,Cello,8710.36,5778.0,65
+PROD11814,Advanced Men's Clothing,Fashion,Men's Clothing,H&M,3280.74,1868.47,66
+PROD11815,Signature Outdoor Gear,Sports & Fitness,Outdoor Gear,Nivia,3489.88,2467.33,181
+PROD11816,Essential Jewelry,Fashion,Jewelry,Nike,1068.47,825.12,332
+PROD11817,Signature Women's Clothing,Fashion,Women's Clothing,Allen Solly,6321.6,4395.61,80
+PROD11818,Classic Headphones,Electronics,Headphones,Sony,5443.08,3182.52,75
+PROD11819,Advanced Jewelry,Fashion,Jewelry,Nike,3057.9,1772.46,398
+PROD11820,Everyday Smart Watches,Electronics,Smart Watches,OnePlus,32037.16,21078.09,164
+PROD11821,Compact Sportswear,Sports & Fitness,Sportswear,Adidas,752.08,449.4,240
+PROD11822,Premium Bedding,Home & Kitchen,Bedding,Cello,14479.92,9361.17,122
+PROD11823,Essential Cycling,Sports & Fitness,Cycling,Cosco,1629.46,1179.8,473
+PROD11824,Everyday Cycling,Sports & Fitness,Cycling,Cosco,7042.73,4838.09,272
+PROD11825,Essential Academic,Books & Stationery,Academic,Penguin,239.07,157.3,437
+PROD11826,Compact Mobiles,Electronics,Mobiles,OnePlus,56814.77,34698.7,469
+PROD11827,Classic Toys,Toys & Baby,Toys,Pampers,309.63,207.78,398
+PROD11828,Pro Fragrances,Beauty & Personal Care,Fragrances,Nivea,1705.01,1268.02,421
+PROD11829,Signature Skincare,Beauty & Personal Care,Skincare,L'Oreal,763.82,483.66,439
+PROD11830,Everyday Appliances,Home & Kitchen,Appliances,Milton,11834.23,7191.41,331
+PROD11831,Ultra Packaged Food,Grocery,Packaged Food,Tata,426.23,272.87,283
+PROD11832,Premium Footwear,Fashion,Footwear,Adidas,2652.97,1647.94,33
+PROD11833,Advanced Toys,Toys & Baby,Toys,Fisher-Price,529.52,355.71,89
+PROD11834,Advanced Kids Clothing,Toys & Baby,Kids Clothing,Pampers,2465.22,1377.51,1
+PROD11835,Pro Cycling,Sports & Fitness,Cycling,Nike,2932.47,1687.76,442
+PROD11836,Everyday Footwear,Fashion,Footwear,H&M,493.65,358.05,112
+PROD11837,Pro Fitness Equipment,Sports & Fitness,Fitness Equipment,Decathlon,6736.43,3933.26,223
+PROD11838,Essential Makeup,Beauty & Personal Care,Makeup,L'Oreal,503.99,278.51,378
+PROD11839,Signature Outdoor Gear,Sports & Fitness,Outdoor Gear,Adidas,4347.36,2813.91,103
+PROD11840,Compact Furniture,Home & Kitchen,Furniture,Cello,12290.34,7203.55,482
+PROD11841,Signature Beverages,Grocery,Beverages,Tata,63.4,38.2,388
+PROD11842,Compact Men's Clothing,Fashion,Men's Clothing,Allen Solly,695.63,390.94,297
+PROD11843,Essential Jewelry,Fashion,Jewelry,Nike,347.46,194.45,366
+PROD11844,Deluxe Bedding,Home & Kitchen,Bedding,IKEA,3363.64,2119.86,364
+PROD11845,Premium Bedding,Home & Kitchen,Bedding,Cello,23563.07,13492.4,441
+PROD11846,Everyday Fragrances,Beauty & Personal Care,Fragrances,Himalaya,274.17,205.71,373
+PROD11847,Essential Appliances,Home & Kitchen,Appliances,Bajaj,358.33,203.32,99
+PROD11848,Classic Skincare,Beauty & Personal Care,Skincare,L'Oreal,351.77,243.09,249
+PROD11849,Premium Sportswear,Sports & Fitness,Sportswear,Nivia,1384.97,950.51,95
+PROD11850,Essential Cookware,Home & Kitchen,Cookware,Philips,3265.37,1842.23,478
+PROD11851,Pro Women's Clothing,Fashion,Women's Clothing,Van Heusen,502.91,350.45,302
+PROD11852,Everyday Bedding,Home & Kitchen,Bedding,IKEA,8226.03,5600.65,493
+PROD11853,Classic Office Supplies,Books & Stationery,Office Supplies,Camlin,707.17,552.7,205
+PROD11854,Compact Academic,Books & Stationery,Academic,HarperCollins,728.58,460.05,148
+PROD11855,Ultra Staples,Grocery,Staples,Tata,45.87,29.79,25
+PROD11856,Premium Cameras,Electronics,Cameras,OnePlus,51593.84,38003.99,183
+PROD11857,Ultra Fiction,Books & Stationery,Fiction,Penguin,112.14,80.69,197
+PROD11858,Signature Bags,Fashion,Bags,Allen Solly,5278.58,3532.47,289
+PROD11859,Compact Outdoor Gear,Sports & Fitness,Outdoor Gear,Nike,1556.38,1191.8,196
+PROD11860,Deluxe Cycling,Sports & Fitness,Cycling,Nike,14093.68,9055.33,30
+PROD11861,Signature Outdoor Gear,Sports & Fitness,Outdoor Gear,Cosco,5536.75,4318.97,499
+PROD11862,Classic Tablets,Electronics,Tablets,Xiaomi,13501.88,8417.55,54
+PROD11863,Everyday Headphones,Electronics,Headphones,boAt,2501.16,1638.74,73
+PROD11864,Deluxe Office Supplies,Books & Stationery,Office Supplies,Classmate,1279.05,919.1,31
+PROD11865,Essential Mobiles,Electronics,Mobiles,Apple,4069.17,3061.65,24
+PROD11866,Signature Women's Clothing,Fashion,Women's Clothing,Van Heusen,1234.39,807.42,110
+PROD11867,Compact Tablets,Electronics,Tablets,boAt,2297.77,1603.22,443
+PROD11868,Essential Mobiles,Electronics,Mobiles,HP,803.47,601.82,460
+PROD11869,Signature Beverages,Grocery,Beverages,Britannia,754.81,601.49,302
+PROD11870,Pro Appliances,Home & Kitchen,Appliances,Prestige,10037.58,7823.57,242
+PROD11871,Deluxe Cookware,Home & Kitchen,Cookware,Prestige,19971.8,13520.7,182
+PROD11872,Compact Haircare,Beauty & Personal Care,Haircare,Lakme,1720.84,1130.9,184
+PROD11873,Classic Home Decor,Home & Kitchen,Home Decor,Prestige,2761.62,1993.1,349
+PROD11874,Signature Cycling,Sports & Fitness,Cycling,Nike,723.91,481.93,346
+PROD11875,Deluxe Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,333.69,244.48,133
+PROD11876,Ultra Baby Care,Toys & Baby,Baby Care,Hot Wheels,492.1,322.92,49
+PROD11877,Advanced Beverages,Grocery,Beverages,Amul,104.2,65.98,494
+PROD11878,Everyday Fragrances,Beauty & Personal Care,Fragrances,Nivea,465.72,293.7,99
+PROD11879,Signature Packaged Food,Grocery,Packaged Food,ITC,52.3,29.64,337
+PROD11880,Everyday Cameras,Electronics,Cameras,Samsung,5111.93,3049.37,349
+PROD11881,Signature Cameras,Electronics,Cameras,Sony,6456.01,4092.03,118
+PROD11882,Deluxe Academic,Books & Stationery,Academic,Classmate,599.71,377.98,295
+PROD11883,Compact Cycling,Sports & Fitness,Cycling,Adidas,13924.4,9110.59,156
+PROD11884,Premium Furniture,Home & Kitchen,Furniture,IKEA,669.18,438.25,213
+PROD11885,Deluxe Fragrances,Beauty & Personal Care,Fragrances,Mamaearth,1543.45,883.27,163
+PROD11886,Everyday Footwear,Fashion,Footwear,H&M,348.74,232.68,257
+PROD11887,Pro Smart Watches,Electronics,Smart Watches,boAt,26026.63,17309.26,375
+PROD11888,Ultra Fitness Equipment,Sports & Fitness,Fitness Equipment,Nivia,11240.15,7786.77,159
+PROD11889,Ultra Cameras,Electronics,Cameras,Dell,1692.85,1238.62,274
+PROD11890,Classic Academic,Books & Stationery,Academic,HarperCollins,178.49,120.62,193
+PROD11891,Signature Smart Watches,Electronics,Smart Watches,Sony,869.1,558.33,229
+PROD11892,Pro Baby Care,Toys & Baby,Baby Care,Hot Wheels,1369.9,869.8,53
+PROD11893,Everyday Cookware,Home & Kitchen,Cookware,Prestige,708.48,414.11,156
+PROD11894,Essential Baby Care,Toys & Baby,Baby Care,Fisher-Price,1910.84,1285.44,145
+PROD11895,Premium Jewelry,Fashion,Jewelry,Nike,1123.8,749.62,469
+PROD11896,Premium Footwear,Fashion,Footwear,H&M,4195.17,2541.47,447
+PROD11897,Essential Headphones,Electronics,Headphones,HP,27121.44,21478.37,216
+PROD11898,Deluxe Footwear,Fashion,Footwear,Adidas,577.6,423.13,152
+PROD11899,Deluxe Mobiles,Electronics,Mobiles,OnePlus,8381.24,5338.04,74
+PROD11900,Signature Watches,Fashion,Watches,Adidas,321.43,207.65,217
+PROD11901,Everyday Skincare,Beauty & Personal Care,Skincare,Mamaearth,156.37,105.52,403
+PROD11902,Deluxe Cameras,Electronics,Cameras,Xiaomi,66260.5,51345.57,147
+PROD11903,Classic Jewelry,Fashion,Jewelry,Adidas,391.92,268.67,244
+PROD11904,Deluxe Kids Clothing,Toys & Baby,Kids Clothing,Chicco,218.98,124.05,353
+PROD11905,Ultra Watches,Fashion,Watches,Levi's,355.28,251.39,62
+PROD11906,Advanced Women's Clothing,Fashion,Women's Clothing,Van Heusen,2360.02,1542.53,296
+PROD11907,Advanced Skincare,Beauty & Personal Care,Skincare,Lakme,1460.64,1008.63,369
+PROD11908,Classic Fitness Equipment,Sports & Fitness,Fitness Equipment,Decathlon,457.02,264.57,461
+PROD11909,Advanced Academic,Books & Stationery,Academic,Classmate,479.78,351.89,106
+PROD11910,Essential Toys,Toys & Baby,Toys,Fisher-Price,350.99,228.67,180
+PROD11911,Everyday Fitness Equipment,Sports & Fitness,Fitness Equipment,Nike,3797.88,2431.58,29
+PROD11912,Deluxe Packaged Food,Grocery,Packaged Food,Britannia,33.78,24.24,104
+PROD11913,Essential Men's Clothing,Fashion,Men's Clothing,Levi's,2729.51,1518.08,201
+PROD11914,Signature Kids Clothing,Toys & Baby,Kids Clothing,Chicco,2945.83,2345.82,493
+PROD11915,Advanced Toys,Toys & Baby,Toys,Hot Wheels,2644.87,2004.74,52
+PROD11916,Essential Snacks,Grocery,Snacks,Nestle,235.62,145.66,391
+PROD11917,Signature Fiction,Books & Stationery,Fiction,HarperCollins,207.39,147.75,198
+PROD11918,Essential Tablets,Electronics,Tablets,Xiaomi,6873.22,4382.5,65
+PROD11919,Classic Mobiles,Electronics,Mobiles,Dell,1697.17,1021.32,481
+PROD11920,Ultra Staples,Grocery,Staples,Amul,562.59,441.9,69
+PROD11921,Essential Mobiles,Electronics,Mobiles,boAt,52543.58,37565.86,209
+PROD11922,Compact Home Decor,Home & Kitchen,Home Decor,Cello,20776.6,11620.36,34
+PROD11923,Essential Makeup,Beauty & Personal Care,Makeup,Lakme,2032.96,1477.66,355
+PROD11924,Everyday Staples,Grocery,Staples,Britannia,139.4,86.94,38
+PROD11925,Advanced Outdoor Gear,Sports & Fitness,Outdoor Gear,Decathlon,4984.03,3845.21,325
+PROD11926,Classic Non-Fiction,Books & Stationery,Non-Fiction,Camlin,298.74,223.48,98
+PROD11927,Deluxe Footwear,Fashion,Footwear,Van Heusen,1898.53,1178.06,469
+PROD11928,Classic Fitness Equipment,Sports & Fitness,Fitness Equipment,Adidas,3044.57,2191.62,14
+PROD11929,Deluxe Watches,Fashion,Watches,Levi's,1944.83,1124.01,396
+PROD11930,Pro Watches,Fashion,Watches,Zara,7780.92,5725.54,156
+PROD11931,Everyday Tablets,Electronics,Tablets,Apple,8266.77,6472.68,222
+PROD11932,Pro Jewelry,Fashion,Jewelry,H&M,7797.47,5314.34,202
+PROD11933,Everyday Headphones,Electronics,Headphones,boAt,16628.9,10939.09,323
+PROD11934,Ultra Fiction,Books & Stationery,Fiction,Camlin,127.62,79.37,427
+PROD11935,Compact Headphones,Electronics,Headphones,OnePlus,1829.09,1082.38,116
+PROD11936,Everyday Bags,Fashion,Bags,Adidas,366.27,211.87,60
+PROD11937,Essential Makeup,Beauty & Personal Care,Makeup,Nivea,2678.72,1558.09,256
+PROD11938,Compact Bedding,Home & Kitchen,Bedding,Cello,3907.98,2185.39,70
+PROD11939,Classic Haircare,Beauty & Personal Care,Haircare,Mamaearth,442.77,321.51,486
+PROD11940,Signature Non-Fiction,Books & Stationery,Non-Fiction,Classmate,176.44,135.86,454
+PROD11941,Premium Cameras,Electronics,Cameras,Xiaomi,3714.72,2726.49,230
+PROD11942,Deluxe Watches,Fashion,Watches,Allen Solly,3130.32,1946.3,96
+PROD11943,Everyday Toys,Toys & Baby,Toys,Chicco,351.23,260.53,356
+PROD11944,Essential Furniture,Home & Kitchen,Furniture,Cello,320.61,208.1,212
+PROD11945,Essential Jewelry,Fashion,Jewelry,H&M,1628.68,1166.12,146
+PROD11946,Compact Appliances,Home & Kitchen,Appliances,Milton,9863.12,5581.02,332
+PROD11947,Compact Snacks,Grocery,Snacks,Amul,624.34,459.02,35
+PROD11948,Classic Bags,Fashion,Bags,Adidas,5702.79,4044.6,335
+PROD11949,Signature Women's Clothing,Fashion,Women's Clothing,Adidas,7745.99,5706.47,224
+PROD11950,Signature Fiction,Books & Stationery,Fiction,HarperCollins,442.09,350.95,150
+PROD11951,Signature Office Supplies,Books & Stationery,Office Supplies,HarperCollins,121.96,85.3,327
+PROD11952,Premium Tablets,Electronics,Tablets,Dell,17010.45,12725.39,418
+PROD11953,Advanced Cookware,Home & Kitchen,Cookware,Bajaj,468.39,283.69,470
+PROD11954,Essential Packaged Food,Grocery,Packaged Food,Britannia,53.52,38.02,195
+PROD11955,Classic Tablets,Electronics,Tablets,Samsung,89216.58,68847.39,48
+PROD11956,Signature Toys,Toys & Baby,Toys,Chicco,175.56,131.25,159
+PROD11957,Ultra Snacks,Grocery,Snacks,Nestle,172.2,108.5,164
+PROD11958,Premium Academic,Books & Stationery,Academic,Camlin,568.94,395.46,175
+PROD11959,Everyday Kids Clothing,Toys & Baby,Kids Clothing,Pampers,4578.86,3371.38,476
+PROD11960,Deluxe Watches,Fashion,Watches,Nike,1102.56,608.73,493
+PROD11961,Classic Haircare,Beauty & Personal Care,Haircare,Himalaya,1369.89,849.04,134
+PROD11962,Signature Non-Fiction,Books & Stationery,Non-Fiction,Camlin,742.66,419.66,308
+PROD11963,Classic Skincare,Beauty & Personal Care,Skincare,Lakme,1114.88,614.78,115
+PROD11964,Advanced Packaged Food,Grocery,Packaged Food,Amul,156.49,93.5,436
+PROD11965,Signature Cameras,Electronics,Cameras,Samsung,31894.13,18970.44,116
+PROD11966,Deluxe Bedding,Home & Kitchen,Bedding,Cello,9559.8,6247.12,107
+PROD11967,Everyday Bedding,Home & Kitchen,Bedding,Prestige,251.35,158.89,330
+PROD11968,Essential Laptops,Electronics,Laptops,Apple,15510.64,11624.71,281
+PROD11969,Premium Furniture,Home & Kitchen,Furniture,Philips,820.8,574.09,470
+PROD11970,Pro Cameras,Electronics,Cameras,Apple,87026.56,57141.23,318
+PROD11971,Ultra Smart Watches,Electronics,Smart Watches,Xiaomi,1893.88,1114.61,426
+PROD11972,Compact Cookware,Home & Kitchen,Cookware,IKEA,869.67,484.66,93
+PROD11973,Essential Cookware,Home & Kitchen,Cookware,Cello,1445.49,995.0,423
+PROD11974,Compact Smart Watches,Electronics,Smart Watches,Sony,35199.41,26657.13,111
+PROD11975,Classic Appliances,Home & Kitchen,Appliances,IKEA,13458.03,7655.68,393
+PROD11976,Deluxe Bedding,Home & Kitchen,Bedding,Philips,331.81,210.95,330
+PROD11977,Advanced Skincare,Beauty & Personal Care,Skincare,L'Oreal,583.2,355.46,28
+PROD11978,Advanced Fiction,Books & Stationery,Fiction,Camlin,471.07,304.05,256
+PROD11979,Signature Fragrances,Beauty & Personal Care,Fragrances,Nivea,1854.15,1056.32,191
+PROD11980,Advanced Mobiles,Electronics,Mobiles,Apple,40896.06,29528.08,108
+PROD11981,Classic Tablets,Electronics,Tablets,Dell,11924.38,7247.32,255
+PROD11982,Advanced Toys,Toys & Baby,Toys,Hot Wheels,1144.7,662.7,368
+PROD11983,Essential Women's Clothing,Fashion,Women's Clothing,Allen Solly,1300.21,927.05,307
+PROD11984,Everyday Snacks,Grocery,Snacks,Amul,606.35,476.17,322
+PROD11985,Classic Cycling,Sports & Fitness,Cycling,Decathlon,2170.99,1616.85,423
+PROD11986,Essential Footwear,Fashion,Footwear,Van Heusen,6333.21,4517.88,269
+PROD11987,Essential Smart Watches,Electronics,Smart Watches,OnePlus,16374.42,10432.16,409
+PROD11988,Essential Home Decor,Home & Kitchen,Home Decor,IKEA,6948.04,4273.1,276
+PROD11989,Ultra Outdoor Gear,Sports & Fitness,Outdoor Gear,Nike,5734.25,4433.7,338
+PROD11990,Pro Cycling,Sports & Fitness,Cycling,Nivia,2096.46,1430.39,444
+PROD11991,Signature Furniture,Home & Kitchen,Furniture,IKEA,377.65,257.44,127
+PROD11992,Everyday Bedding,Home & Kitchen,Bedding,Philips,708.97,542.49,91
+PROD11993,Deluxe Women's Clothing,Fashion,Women's Clothing,Adidas,6138.77,3436.37,447
+PROD11994,Ultra Footwear,Fashion,Footwear,H&M,3053.46,2343.1,328
+PROD11995,Essential Bedding,Home & Kitchen,Bedding,Cello,345.96,192.63,219
+PROD11996,Classic Laptops,Electronics,Laptops,Xiaomi,1045.86,644.34,111
+PROD11997,Signature Kids Clothing,Toys & Baby,Kids Clothing,Fisher-Price,1584.4,1012.91,147
+PROD11998,Signature Skincare,Beauty & Personal Care,Skincare,Lakme,301.74,170.6,455
+PROD11999,Essential Cookware,Home & Kitchen,Cookware,IKEA,17999.13,13182.19,363
